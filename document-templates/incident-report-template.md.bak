@@ -1,0 +1,122 @@
+﻿# Incident Report Template
+
+## Purpose
+
+This template is intended for the structured recording of incidents, unsafe events, abnormal occurrences, or reportable technical events that require traceability and review.
+
+In professional engineering environments, an incident report must support factual clarity, responsible escalation, and later analysis. It should therefore distinguish clearly between:
+
+- what happened;
+- when and where it happened;
+- what was observed;
+- what immediate actions were taken;
+- what remains to be investigated.
+
+The purpose of an incident report is not to speculate. It is to establish a reliable technical and documentary basis for follow-up.
+
+---
+
+## Template
+
+```md
+# Incident Report
+
+**Incident ID:** [Reference]  
+**Date of Report:** [DD Month YYYY]  
+**Reported by:** [Name / Team]  
+**Location:** [Site / Area / System]  
+**Date and Time of Incident:** [DD Month YYYY, HH:MM]
+
+## 1. Incident Summary
+[Provide a concise summary of the event in one paragraph.]
+
+## 2. Context
+[Describe the operating condition, activity, maintenance phase, test condition, or environmental context at the time of the incident.]
+
+## 3. Observed Event
+[State what was observed factually. Avoid interpretation in this section.]
+
+## 4. Immediate Actions Taken
+- [Action 1]
+- [Action 2]
+- [Action 3]
+
+## 5. Immediate Impact
+[State any effect on personnel safety, equipment status, mission readiness, schedule, or documentation.]
+
+## 6. Preliminary Technical Assessment
+[Provide a cautious initial assessment if appropriate. Clearly label it as preliminary.]
+
+## 7. Required Follow-Up
+- [Inspection]
+- [Review]
+- [Corrective action]
+- [Escalation]
+
+## 8. References / Attachments
+- [Photographs]
+- [Test log]
+- [Procedure]
+- [Maintenance record]
+```
+
+---
+
+## Model Example
+
+# Incident Report
+
+**Incident ID:** IR-2026-011  
+**Date of Report:** 03 April 2026  
+**Reported by:** Maintenance Support Team  
+**Location:** Integration Workshop Bay 2  
+**Date and Time of Incident:** 03 April 2026, 09:40
+
+## 1. Incident Summary
+During routine functional verification of the monitoring enclosure, a localized overheating condition was observed at the interface connector area. The test was stopped immediately and the unit was isolated pending technical inspection.
+
+## 2. Context
+The event occurred during a scheduled verification cycle following reassembly of the enclosure after cable harness replacement. The unit had been energized for approximately six minutes under nominal power conditions.
+
+## 3. Observed Event
+Operators observed an abnormal temperature increase near the connector housing, accompanied by a slight odor consistent with overheating insulation material. No flame, smoke plume, or visible arcing was observed. The system status display remained active at the time of shutdown.
+
+## 4. Immediate Actions Taken
+- The test was terminated immediately.  
+- Power was disconnected from the unit.  
+- The equipment was tagged as non-operational.  
+- The event was reported to the responsible engineering authority.
+
+## 5. Immediate Impact
+No injuries were reported. The unit was removed from service pending inspection. The scheduled verification sequence was suspended and associated documentation activities were delayed.
+
+## 6. Preliminary Technical Assessment
+At the time of reporting, the root cause had not been confirmed. A localized connection issue or assembly-related defect was considered possible, but this assessment remained preliminary.
+
+## 7. Required Follow-Up
+- Detailed inspection of the connector and adjacent wiring  
+- Verification of assembly records  
+- Review of power-up procedure compliance  
+- Corrective action proposal after inspection
+
+## 8. References / Attachments
+- Functional verification log, 03 April 2026  
+- Photographs taken during isolation  
+- Cable harness replacement record
+
+---
+
+## Writing Notes
+
+- Use neutral factual wording in the event section.
+- Do not assign blame.
+- Do not state a root cause unless supported by evidence.
+- Use â€œpreliminary assessmentâ€ when the technical picture is incomplete.
+- Make sure immediate actions are explicit and traceable.
+
+## Cross-Links
+
+- [Safety Phrasebank](../language-tools/phrasebank-for-safety.md)
+- [Safety, Risk and Incident Communication](../modules/15-safety-risk-and-incident-communication.md)
+- [Safety Exercises](../exercises/safety-exercises.md)
+

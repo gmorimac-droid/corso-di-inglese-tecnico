@@ -1,0 +1,167 @@
+﻿# Dual-Use Technology Language
+
+## Purpose
+
+Dual-use technology refers to systems, components, or methods that can serve both civil and security-related purposes. In documentation, this creates a specific language challenge: the writer must remain technically accurate while ensuring that the wording is appropriate for the documentâ€™s audience, release level, and institutional context.
+
+This page explains how to describe dual-use technologies in a way that is professionally responsible, linguistically precise, and suitable for engineering documentation.
+
+## Core Principle
+
+When describing dual-use systems, the writer should prefer language that is:
+
+- function-based;
+- architecture-based;
+- performance-based;
+- lifecycle-aware;
+- audience-appropriate;
+- non-sensational.
+
+The objective is to document what the system **does**, under what **conditions**, with which **interfaces**, limits, and support implications.
+
+---
+
+## Why Dual-Use Language Requires Care
+
+A dual-use system may legitimately appear in:
+
+- industrial monitoring;
+- environmental sensing;
+- logistics support;
+- communications infrastructure;
+- remote inspection;
+- autonomous navigation;
+- situational awareness support;
+- resilient power or data systems.
+
+If documentation is poorly written, the text may become:
+
+- too vague to be useful;
+- too promotional to be credible;
+- too operational in a way that exceeds the document purpose;
+- too sensitive in tone for public or mixed-audience contexts.
+
+Good dual-use language prevents those outcomes.
+
+---
+
+## Preferred Description Strategy
+
+### 1. Describe the Engineering Function
+Write what the system does in technical terms.
+
+Examples:
+- acquires environmental data;
+- supports remote status monitoring;
+- enables event logging and analysis;
+- provides resilient communication across defined interfaces;
+- supports modular replacement and distributed deployment.
+
+### 2. Describe the Operating Conditions
+State the relevant technical environment.
+
+Examples:
+- within the specified temperature and vibration range;
+- under constrained power conditions;
+- in fixed-site or mobile configurations;
+- in low-connectivity environments;
+- with defined bandwidth limitations.
+
+### 3. Describe Support and Integration Implications
+Dual-use systems are often evaluated not only by performance but by supportability.
+
+Examples:
+- compatible with existing communication architecture;
+- designed for reduced maintenance burden;
+- supports configuration control and software update traceability;
+- enables integration with supervisory or command-level interfaces, where applicable.
+
+---
+
+## Weak vs Strong Dual-Use Wording
+
+### Weak
+The platform gives operators a major advantage in complex missions.
+
+### Stronger
+The system supports distributed status monitoring and rapid anomaly reporting across the defined interface architecture.
+
+### Weak
+The capability is suitable for a wide range of strategic scenarios.
+
+### Stronger
+The system is configurable for fixed-site monitoring, mobile deployment support, and remote asset-status reporting within the approved operating envelope.
+
+### Weak
+The ruggedized design makes it ideal for critical operations.
+
+### Stronger
+The design is intended for extended service in environments characterised by vibration exposure, temperature variation, and limited maintenance access.
+
+---
+
+## Lexical Guidance
+
+The following terms are often useful in dual-use documentation because they remain specific without being needlessly charged:
+
+- system
+- platform
+- module
+- payload
+- sensor package
+- communications node
+- monitoring interface
+- remote terminal
+- distributed architecture
+- resilient design
+- supportability
+- interoperability
+- configurable deployment
+- lifecycle support
+- controlled update process
+
+The following expressions should be used with caution unless formally justified by the programme context:
+
+- tactical superiority
+- force multiplier
+- mission dominance
+- threat-neutralisation capability
+- battlefield-ready system
+
+These expressions are usually too rhetorical, too context-heavy, or outside the scope of normal technical documentation.
+
+---
+
+## Documentation Contexts for Dual-Use Systems
+
+| Context | Preferred Language Style |
+|---|---|
+| technical specification | precise, interface-centred, requirement-based |
+| public-facing overview | simplified, bounded, non-sensitive, non-promotional |
+| procurement brief | lifecycle-aware, support-focused, capability-bounded |
+| maintenance documentation | procedural, modular, support-driven |
+| integration note | architecture-based, compatibility-focused |
+
+---
+
+## Practical Example
+
+### Overstated Version
+The platform delivers mission-critical superiority through advanced multi-domain operational functionality.
+
+### Better Engineering Version
+The platform integrates sensing, communication, and status-management functions within a modular architecture designed for operation under constrained environmental and support conditions.
+
+### Why the Second Version Works Better
+It:
+- explains the functional layers;
+- avoids inflated strategic language;
+- remains credible in civil, industrial, and programme documentation;
+- is easier to review and defend.
+
+---
+
+## Final Guidance
+
+Dual-use language should neither hide the engineering reality nor dramatise it. The best wording identifies actual function, support implications, interface logic, and operating conditions. In most cases, the most professional sentence is also the most controlled sentence.
+
