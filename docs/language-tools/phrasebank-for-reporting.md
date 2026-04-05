@@ -1,0 +1,146 @@
+# Phrasebank for Reporting
+
+## Purpose of this page
+
+Reporting language is central to engineering communication because it records what happened, what was observed, what was concluded, and what action followed. This includes test reports, maintenance records, fault summaries, inspection notes, issue logs, and technical updates. Strong reporting language is not dramatic. It is controlled, evidence-based, and easy to review.
+
+This page provides sentence patterns for the main stages of a technical report: context, observation, diagnostic activity, interpretation, action, residual concern, and limitation.
+
+## 1. Reporting context and setup
+
+### Core phrases
+- *The test was conducted under nominal operating conditions.*
+- *The inspection was performed following reassembly of the unit.*
+- *The review covered the current baseline configuration only.*
+- *The measured values were recorded during the second verification cycle.*
+- *The present note summarises the results of the initial investigation.*
+- *The evaluation was limited to the available test data and associated documentation.*
+
+### Expanded example
+*The inspection was performed after transport and prior to reinstallation. The review focused on connector condition, fastener retention, and closure integrity under the current baseline configuration.*
+
+## 2. Reporting observations
+
+### Core phrases
+- *No abnormal behaviour was observed during the inspection.*
+- *The measured value exceeded the specified limit.*
+- *Minor surface wear was detected on the contact area.*
+- *The observed deviation remained within the allowable tolerance band.*
+- *Visual examination identified local contamination near the lower interface.*
+- *The unit completed the full cycle without loss of communication.*
+- *A short interruption in data transmission was recorded during startup.*
+
+### Usage note
+At this stage, stay close to the evidence. Avoid jumping immediately to explanation.
+
+## 3. Reporting diagnostic activity
+
+### Core phrases
+- *Initial checks were performed to verify power continuity.*
+- *Further analysis focused on the communication interface.*
+- *The issue could not be reproduced during the first verification cycle.*
+- *Additional measurements were taken to confirm the initial finding.*
+- *The fault was isolated by replacing the suspect module.*
+- *Repeated startup cycles were performed to assess recurrence.*
+- *Dimensional verification was carried out against the current drawing issue.*
+
+## 4. Explaining findings with appropriate caution
+
+### Core phrases
+- *The deviation appears to be associated with...*
+- *Further analysis indicates that...*
+- *The issue was traced to...*
+- *Available evidence suggests that the malfunction originated in...*
+- *The observed instability was consistent with intermittent signal loss.*
+- *The current dataset does not support a definitive conclusion regarding long-term reliability.*
+- *A contributing factor may have been incomplete seating of the connector.*
+
+### Usage note
+Different phrases imply different evidence strength. Use them deliberately.
+
+- *appears to be related to* → cautious interpretation
+- *was traced to* → stronger diagnostic conclusion
+- *was caused by* → use only when evidence is robust
+
+## 5. Reporting corrective and preventive action
+
+### Core phrases
+- *Corrective action was implemented successfully.*
+- *The affected connector was removed and replaced.*
+- *The area was cleaned and re-inspected before closure.*
+- *Additional monitoring is recommended.*
+- *A follow-up inspection is recommended after the next operating cycle.*
+- *Preventive action has been proposed to reduce recurrence.*
+- *The revised procedure has been issued to address the identified weakness.*
+
+## 6. Recording outcome and status
+
+### Core phrases
+- *The unit was returned to serviceable condition.*
+- *No further anomalies were observed after replacement of the affected component.*
+- *The present conclusion remains provisional pending environmental retest.*
+- *The issue is considered closed for the current baseline.*
+- *The item remains on hold until verification evidence is complete.*
+- *The document is ready for internal review subject to minor editorial updates.*
+
+## 7. Stating limitations
+
+### Core phrases
+- *The result should be interpreted in light of the limited test duration.*
+- *The current assessment does not include environmental stress conditions.*
+- *The available data is sufficient for preliminary evaluation only.*
+- *A definitive conclusion cannot be issued until full verification is completed.*
+- *The finding is valid for the tested configuration only.*
+- *No statement is made at this stage regarding long-term field performance.*
+
+## 8. Reporting residual risk or open concern
+
+### Core phrases
+- *Residual concern remains regarding repeated exposure to contamination.*
+- *The current evidence does not fully close the long-term durability question.*
+- *Further review is required before release approval can be granted.*
+- *The issue remains open pending confirmation of interface alignment.*
+- *An additional test campaign may be required if recurrence is observed.*
+
+## 9. Structured reporting paragraph models
+
+### Model A: observation to action
+*During the second verification cycle, intermittent signal loss was recorded at the lower interface. Visual inspection identified local contamination on the connector sealing surface. The affected area was cleaned and the connector was re-seated. No further signal interruption was observed during the subsequent test cycle.*
+
+### Model B: cautious interpretation
+*Minor wear was observed on the contact face of the connector. The condition appears to be associated with repeated insertion and removal during maintenance activity. Although functionality was not affected during the current test sequence, additional monitoring is recommended to assess progression over time.*
+
+### Model C: provisional conclusion
+*The available evidence supports provisional acceptance of the revised configuration for bench-level evaluation. However, the current dataset does not include extended environmental exposure. Final release should therefore remain subject to completion of the remaining verification activities.*
+
+## 10. Weak vs strong reporting
+
+### Weak
+*There was a problem during the test and then the team checked the system and it was okay after that.*
+
+### Stronger
+*During the startup sequence, a short interruption in signal transmission was recorded. The team performed continuity checks and re-seated the external connector. Subsequent testing did not reproduce the issue. The event is therefore considered resolved for the current configuration, although additional monitoring is recommended.*
+
+## 11. Reporting style reminder
+
+A strong report usually separates four elements clearly:
+
+1. **observation**;
+2. **interpretation**;
+3. **action**;
+4. **residual concern or status**.
+
+When these elements are mixed in one uncontrolled sentence, the report becomes harder to review and easier to misunderstand.
+
+## 12. Reviewer checklist
+
+- Does the report describe what happened before explaining why?
+- Is evidence distinguished from interpretation?
+- Is the action taken traceable?
+- Is the current status explicit?
+- Are limitations and open points stated honestly?
+
+## Final note
+
+!!! note "Strong reporting is disciplined reporting"
+    Good reporting does not exaggerate and does not hide uncertainty. It records what is known, shows what was done, and states clearly what still remains open.

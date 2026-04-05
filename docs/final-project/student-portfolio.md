@@ -1,0 +1,130 @@
+# Student Portfolio
+
+## Purpose
+
+This page documents the learner’s contribution, development, and revision process during the final project.
+
+It does not replace the technical content of the repository. Its purpose is to show:
+- what was built;
+- what was improved;
+- which challenges emerged;
+- what the learner can now do more confidently in Technical English.
+
+## At a Glance
+
+A good portfolio page should explain:
+
+- the project theme and purpose;
+- the learner’s main contribution;
+- the main writing or terminology challenges;
+- the most important improvements made through revision;
+- the key skills developed;
+- possible next steps.
+
+## Suggested Structure
+
+### 1. Project Summary
+Briefly explain the project theme and purpose in two or three sentences.
+
+### 2. My Contribution
+State which sections or pages you developed directly.
+
+Typical examples include:
+- modules;
+- glossaries;
+- language tools;
+- exercises;
+- templates;
+- final-project pages.
+
+### 3. Main Challenges
+Describe the main difficulties you encountered.
+
+Possible areas include:
+- terminology control;
+- avoiding translation from Italian structures;
+- distinguishing description from requirement language;
+- maintaining consistency across pages;
+- writing for a real reader instead of only for assessment.
+
+### 4. What Improved Through Revision
+Explain what changed between early drafts and later versions.
+
+For example:
+- stronger openings;
+- clearer headings;
+- more precise terminology;
+- less vague wording;
+- better cross-linking;
+- more stable tone and structure.
+
+### 5. Skills Developed
+State which abilities improved through the project.
+
+Examples:
+- writing technical explanations;
+- building glossary entries;
+- drafting reusable templates;
+- revising English for clarity;
+- structuring Markdown documentation;
+- preparing a repository for publication.
+
+### 6. Next Steps
+Conclude with realistic future improvements.
+
+Examples:
+- expanding selected sections;
+- improving examples;
+- refining consistency;
+- adapting the repository for a more specific engineering context.
+
+## Writing Advice
+
+Keep the portfolio reflective, but still professional.
+
+Avoid vague comments such as:
+- *I liked this project a lot*
+- *It was difficult but interesting*
+- *I learned many new things*
+
+Prefer statements such as:
+- *One of the main difficulties was maintaining terminological consistency across glossary and module pages.*
+- *Several pages were revised to improve heading logic and reduce repetition.*
+- *The project improved my ability to distinguish descriptive language from requirement language.*
+
+## Useful Reflection Questions
+
+Use these questions to help draft the page:
+
+- Which part of the repository best represents my current level of Technical English?
+- Which page required the most revision, and why?
+- Which terminology area did I control well?
+- Which area still needs improvement?
+- What did I learn about writing for users instead of only for evaluation?
+- What would I improve in a future version?
+
+## Simple Portfolio Outline
+
+### Project Summary
+Brief introduction to the repository.
+
+### My Contribution
+Main sections and pages developed or revised.
+
+### Key Challenges
+Main linguistic and editorial difficulties.
+
+### Revision and Improvement
+Most important changes made during review.
+
+### Skills Developed
+Main technical-English and documentation skills gained.
+
+### Next Steps
+Realistic future improvements.
+
+## Final Note
+
+A strong portfolio page makes development visible.
+
+It shows not only what the learner produced, but also how the work improved through revision, structure, and greater control of technical English.

@@ -1,0 +1,122 @@
+# Requirement Template
+
+## Purpose
+
+This template supports the drafting of clear and reviewable requirement statements. In technical English, requirements are a critical area because poor wording can create ambiguity, verification problems, and disagreement between stakeholders.
+
+A requirement should express one controllable idea in precise language. It should normally be measurable, verifiable, and traceable.
+
+---
+
+## Requirement Writing Principles
+
+A strong requirement should be:
+
+- **clear**: the intended meaning should not depend on interpretation;
+- **single-purpose**: one statement should not contain several uncontrolled ideas;
+- **verifiable**: compliance should be testable, inspectable, or reviewable;
+- **necessary**: it should express a real need, not a vague preference;
+- **traceable**: it should be easy to reference and review.
+
+In many engineering contexts, **shall** is used for formal requirements. **Should** is generally used for recommendation, and **may** for permission or acceptable option. **Must** may be used for mandatory constraints in procedures, safety notes, or instructions, depending on house style.
+
+---
+
+## Template
+
+```md
+# Requirement Set – [Topic / System / Document]
+
+## Requirement Identification Rules
+- Prefix: [REQ / SYS / IF / SAF / ENV / etc.]
+- Numbering logic: [Define numbering approach]
+
+## Requirements
+### [REQ-001] [Short Requirement Title]
+**Statement:** The [system / unit / interface] shall [clear verifiable requirement].
+
+**Rationale:** [Optional explanation of why the requirement exists.]
+
+**Verification Method:** [Inspection / Test / Analysis / Review]
+
+**Source / Reference:** [Optional source, standard, stakeholder, baseline document]
+
+### [REQ-002] [Short Requirement Title]
+**Statement:** The [system / unit / interface] shall [clear verifiable requirement].
+
+**Rationale:** [Optional]
+
+**Verification Method:** [Inspection / Test / Analysis / Review]
+
+**Source / Reference:** [Optional]
+```
+
+---
+
+## Model Example
+
+# Requirement Set – Remote Monitoring Unit
+
+## Requirement Identification Rules
+- Prefix: SYS-REQ  
+- Numbering logic: sequential within subsystem specification
+
+## Requirements
+### SYS-REQ-001 Continuous Operation Duration
+**Statement:** The unit shall operate continuously for a minimum of 12 hours without external recharge.
+
+**Rationale:** The requirement supports the intended operational profile during field deployment.
+
+**Verification Method:** Test
+
+**Source / Reference:** Operational endurance baseline, issue 2
+
+### SYS-REQ-002 Display Readability
+**Statement:** The display should remain readable under direct ambient light.
+
+**Rationale:** Readability is desirable for field usability but is currently classified as a performance objective rather than a mandatory acceptance criterion.
+
+**Verification Method:** Inspection / Demonstration
+
+**Source / Reference:** Human factors review note
+
+### SYS-REQ-003 Protective Routing
+**Statement:** The interface cable must be protected from mechanical abrasion during routine handling.
+
+**Rationale:** The statement captures a mandatory safety and durability constraint for handling activity.
+
+**Verification Method:** Inspection
+
+**Source / Reference:** Handling safety guideline
+
+---
+
+## Weak vs Strong Examples
+
+### Weak
+The unit shall be easy to install.
+
+### Stronger
+The unit shall be installable by one trained technician using standard tools and without removal of adjacent structural panels.
+
+### Weak
+The system shall have good performance.
+
+### Stronger
+The system shall detect threshold exceedance events within 2 seconds of validated input condition occurrence.
+
+## Review Checklist
+
+Before finalizing a requirement, ask:
+
+- Is the subject of the sentence clear?
+- Does the sentence express only one main requirement?
+- Can compliance be checked objectively?
+- Is the modal verb appropriate?
+- Is any term too vague to verify?
+
+## Cross-Links
+
+- [Requirements, Specifications and Compliance](../modules/12-requirements-specifications-and-compliance.md)
+- [Compliance and Standards Terms](../glossaries/compliance-and-standards-terms.md)
+- [Grammar Reference](../language-tools/grammar-reference.md)

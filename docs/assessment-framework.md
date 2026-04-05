@@ -1,0 +1,163 @@
+# Assessment Framework
+
+## What Assessment Measures
+
+Assessment in this course is designed to measure **usable professional competence**.
+
+The learner is not evaluated only on isolated grammar or vocabulary recall. Assessment focuses on the ability to:
+- understand technical English;
+- produce structured technical output;
+- revise language for clarity and precision;
+- organise content in a documentation-friendly form.
+
+## At a Glance
+
+The assessment model includes three layers:
+
+1. **Diagnostic assessment**  
+   to identify the learner’s starting point;
+
+2. **Formative assessment**  
+   to support progress during the course;
+
+3. **Summative assessment**  
+   to evaluate the final documentation project.
+
+## Assessment Philosophy
+
+The course evaluates language as it is used in engineering contexts.
+
+This means that assessment is based on outputs such as:
+- technical descriptions;
+- emails;
+- summaries;
+- reports;
+- requirements;
+- troubleshooting notes;
+- structured Markdown pages.
+
+The aim is to determine whether the learner can produce English that is:
+- clear;
+- credible;
+- reviewable;
+- professionally useful.
+
+## Diagnostic Assessment
+
+The diagnostic phase is intended to establish the learner’s initial profile.
+
+Typical tasks may include:
+- a short technical reading task;
+- a vocabulary classification activity;
+- a brief descriptive writing sample;
+- an error-correction task;
+- a short oral explanation of a familiar technical object or process.
+
+### Purpose of the Diagnostic Phase
+
+The purpose is not mainly to assign a score.
+
+The purpose is to identify strengths and weaknesses in areas such as:
+- terminology;
+- grammar;
+- text structure;
+- register;
+- documentary discipline.
+
+## Formative Assessment
+
+During the course, learners are assessed through recurring tasks and revision activities.
+
+The goal of formative assessment is to improve performance progressively, not simply to judge it.
+
+### Main Formative Criteria
+
+#### 1. Accuracy
+Does the learner use grammar, terminology, and sentence structure with sufficient control for a B2 technical context?
+
+#### 2. Clarity
+Can the meaning be understood without avoidable ambiguity?
+
+#### 3. Relevance
+Does the text include the information that matters for the engineering purpose of the document?
+
+#### 4. Consistency
+Are terminology, style, units, naming conventions, and document logic stable throughout the text?
+
+#### 5. Structure
+Is the information organised in a way that supports reading, review, and action?
+
+#### 6. Professional Tone
+Is the wording neutral, precise, and appropriate for the intended audience?
+
+## Suggested Scoring Grid for Module Tasks
+
+| Criterion | 1 | 2 | 3 | 4 | 5 |
+|---|---:|---:|---:|---:|---:|
+| Terminology | mostly inaccurate | limited control | acceptable basic control | good domain control | strong, stable, precise use |
+| Grammar | frequent interference | noticeable weaknesses | serviceable B2 control | generally accurate | accurate and well managed |
+| Clarity | often unclear | partially clear | mostly clear | clear and efficient | highly clear and review-friendly |
+| Structure | weakly organised | uneven | functional | well organised | highly disciplined |
+| Professional usefulness | low | limited | usable | clearly usable | directly publishable |
+
+## Summative Assessment
+
+The main final assessment is the **documentation project**.
+
+The learner is expected to assemble a coherent set of Markdown pages into a structured MkDocs site.
+
+The final project should demonstrate:
+- appropriate module coverage;
+- coherent navigation;
+- documentation-quality writing;
+- evidence of revision;
+- reuse of glossaries, phrasebanks, and templates;
+- effective cross-linking and internal consistency.
+
+## Suggested Weighting
+
+A practical weighting model is:
+
+| Component | Weight |
+|---|---:|
+| Module work and short assignments | 40% |
+| Language tools and glossary development | 15% |
+| Exercises and applied writing tasks | 15% |
+| Final MkDocs/GitHub project | 30% |
+
+This distribution can be adjusted depending on whether the course is used in an academic or workplace setting.
+
+## Feedback Model
+
+Feedback works best when it is layered.
+
+### Layer 1 — Immediate Correction
+Used for obvious grammar, vocabulary, or wording issues.
+
+### Layer 2 — Explanatory Feedback
+Used to highlight recurring patterns and explain why they matter.
+
+### Layer 3 — Revision Targets
+Used to guide documentary improvement, clarity, and structure.
+
+### Layer 4 — Editorial Comments
+Used on the near-final version to support publication-quality output.
+
+## What Successful Performance Looks Like
+
+A successful learner does not need perfect English.
+
+A successful learner should be able to produce language that:
+- communicates the intended meaning clearly;
+- uses terminology with reasonable control;
+- follows a usable document structure;
+- supports review without excessive rewriting;
+- can be improved through revision into a publishable technical asset.
+
+## Related Pages
+
+- [Learning Outcomes](learning-outcomes.md)
+- [Methodology](methodology.md)
+- [Study Plan](study-plan.md)
+- [Final Project](final-project/project-overview.md)
+- [Evaluation Rubric](final-project/evaluation-rubric.md)

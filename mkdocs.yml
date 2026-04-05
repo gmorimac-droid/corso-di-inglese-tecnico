@@ -1,0 +1,102 @@
+site_name: Technical English for Engineering B2
+site_description: Civil, Industrial and Defence-Oriented Technical English Course
+site_url: ""
+site_author: Massimo Mori
+
+#repo_url: https://github.com/gmorimac-droid/technical-english-b2
+#repo_name: gmorimac-droid/technical-english-b2
+#edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+#    - content.code.copy
+    - content.tabs.link
+    - search.highlight
+    - search.share
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: blue
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+  - tables
+  - def_list
+  - footnotes
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+docs_dir: docs
+site_dir: site
+
+nav:
+  - Home: index.md
+
+  - Course:
+      - Overview: course-overview.md
+      - Learning Outcomes: learning-outcomes.md
+      - Target Audience: target-audience.md
+      - Methodology: methodology.md
+      - Assessment Framework: assessment-framework.md
+      - Study Plan: study-plan.md
+
+  - Modules:
+      - Overview: modules/index.md
+      - 01. Introduction to Technical English: modules/01-introduction-to-technical-english.md
+      - 02. Engineering Vocabulary Foundations: modules/02-engineering-vocabulary-foundations.md
+      - 03. Grammar for Technical Communication: modules/03-grammar-for-technical-communication.md
+      - 04. Reading Technical Texts: modules/04-reading-technical-texts.md
+      - 05. Describing Components and Assemblies: modules/05-describing-components-and-assemblies.md
+      - 06. Describing Systems and Architectures: modules/06-describing-systems-and-architectures.md
+      - 07. Describing Processes and Workflows: modules/07-describing-processes-and-workflows.md
+      - 08. Performance, Testing and Evaluation: modules/08-performance-testing-and-evaluation.md
+      - 09. Principles of Technical Writing: modules/09-principles-of-technical-writing.md
+      - 10. Technical Emails and Professional Messages: modules/10-technical-emails-and-professional-messages.md
+      - 11. Reports, Summaries and Meeting Notes: modules/11-reports-summaries-and-meeting-notes.md
+      - 12. Requirements, Specifications and Compliance: modules/12-requirements-specifications-and-compliance.md
+      - 13. Maintenance English: modules/13-maintenance-english.md
+      - 14. Troubleshooting and Fault Analysis: modules/14-troubleshooting-and-fault-analysis.md
+      - 15. Safety, Risk and Incident Communication: modules/15-safety-risk-and-incident-communication.md
+      - 16. Defence-Oriented Technical English: modules/16-defence-oriented-technical-english.md
+      - 17. Procurement and Programme Language: modules/17-procurement-and-programme-language.md
+      - 18. MkDocs and GitHub Documentation Project: modules/18-mkdocs-and-github-documentation-project.md
+
+  - Reference:
+      - Glossaries: glossaries/index.md
+      - Language Tools: language-tools/index.md
+      - Templates and Models: templates/index.md
+
+  - Practice:
+      - Exercises: exercises/index.md
+      - Civil vs Defence Communication: civil-vs-defence/index.md
+
+  - Final Project:
+      - Project Overview: final-project/project-overview.md
+      - Project Guidelines: final-project/project-guidelines.md
+      - Student Portfolio: final-project/student-portfolio.md
+      - Evaluation Rubric: final-project/evaluation-rubric.md
+      - Revision Checklist: final-project/revision-checklist.md
+      - Publishing Guide: final-project/publishing-guide.md

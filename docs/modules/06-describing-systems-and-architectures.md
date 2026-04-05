@@ -1,0 +1,243 @@
+# Module 06 — Describing Systems and Architectures
+
+
+!!! abstract "Repository intent"
+    This module is designed as a **teaching page**, a **revision reference**, and a **repository asset**. The learner should therefore read it not only for linguistic content, but also for documentary behaviour: how the page defines scope, stabilises terminology, and supports future reuse in a MkDocs environment.
+
+## Module at a glance
+
+| Attribute | Value |
+| --- | --- |
+| Module focus | Describing Systems and Architectures |
+| Area | Engineering Communication |
+| Operational purpose | System description moves beyond single objects and requires the writer to show hierarchy, interaction, and purpose. |
+| Primary documentary output | System overview page with interface logic |
+| Priority companion resources | [Systems Engineering Terms](../glossaries/systems-engineering-terms.md)<br>[System Description Template](../templates/system-description-template.md)<br>[Technical Description Models](../model-answers/technical-description-models.md) |
+
+!!! tip "How to extract more value from this module"
+    Complete the applied task first, then compare your draft against the related template, model answer, or playbook. This sequence produces better professional growth than reading every support page before writing.
+
+## Module identity
+
+**Area:** Engineering Communication
+
+## Module overview
+
+System description moves beyond single objects and requires the writer to show hierarchy, interaction, and purpose. This module develops language for explaining how subsystems cooperate, how information or energy flows, and how architecture supports mission or operational requirements.
+
+In project work and technical review, the ability to describe architecture clearly is essential. Reviewers need to understand boundaries, interfaces, dependencies, and the rationale behind system decomposition.
+
+## Learning objectives
+
+By the end of this module, the learner should be able to:
+
+- understand and reuse the core terminology associated with the topic;
+- distinguish weak wording from professionally stronger engineering wording;
+- produce written and spoken output aligned with a clear documentary purpose;
+- revise initial drafts so that they become more precise, more consistent, and more useful to a technical reader.
+
+## Professional significance
+
+This module has direct relevance to engineering work because it strengthens the language used to describe reality in a controlled form. Whether the learner is preparing a note, a report, a maintenance record, a review comment, or a presentation, the same recurring professional requirements apply: the wording must be understandable, proportional, review-friendly, and logically structured. The aim is not rhetorical sophistication. The aim is usable precision.
+
+## Scope and boundaries
+
+This module addresses English as used in technical and documentary contexts. It does not attempt to replace domain-specific engineering expertise. Instead, it gives the learner a language framework capable of carrying that expertise more effectively. In practical terms, this means the module focuses on language patterns, engineering logic, and document behaviour rather than on advanced specialist theory.
+
+## Key vocabulary with usage orientation
+
+- **architecture** — the high-level organisation of a system and the relationships between its elements. Example: *Architecture should be recorded consistently across related documentation.*
+- **subsystem** — a major functional element within a larger system. Example: *Subsystem should be recorded consistently across related documentation.*
+- **interface** — the point at which information, energy, material, or control is exchanged. Example: *Interface should be recorded consistently across related documentation.*
+- **data flow** — the movement of information through a system. Example: *Data flow should be recorded consistently across related documentation.*
+- **control logic** — the rules or mechanisms by which the system responds to inputs and states. Example: *Control logic should be recorded consistently across related documentation.*
+- **redundancy** — the deliberate duplication of elements to increase availability or resilience. Example: *Redundancy should be recorded consistently across related documentation.*
+- **integration** — the combination of elements into a coordinated whole. Example: *Integration should be recorded consistently across related documentation.*
+- **dependency** — a relation in which one element relies on another. Example: *Dependency should be recorded consistently across related documentation.*
+- **state** — a defined system condition that influences behaviour. Example: *State should be recorded consistently across related documentation.*
+- **operational mode** — a specific configuration of system behaviour or use. Example: *Operational mode should be recorded consistently across related documentation.*
+
+### Terminology note
+
+A term becomes professionally useful only when the learner can do four things with it:
+
+1. define it with sufficient precision;
+2. place it in a realistic engineering sentence;
+3. connect it to the appropriate document type;
+4. distinguish it from near-synonyms or broader general-English wording.
+
+### Collocation and stability reminder
+
+- **architecture**: typical collocation pattern — *architecture management*, *architecture verification*, or similar context-based use.
+- **subsystem**: typical collocation pattern — *subsystem management*, *subsystem verification*, or similar context-based use.
+- **interface**: typical collocation pattern — *interface management*, *interface verification*, or similar context-based use.
+- **data flow**: typical collocation pattern — *data flow management*, *data flow verification*, or similar context-based use.
+- **control logic**: typical collocation pattern — *control logic management*, *control logic verification*, or similar context-based use.
+
+The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
+
+## Language and grammar focus
+
+The module uses architecture verbs such as **consists of**, **interfaces with**, **routes**, **provides**, **receives**, **supervises**, and **isolates**. Learners also practise relational clauses that explain why an architectural feature exists, not only what it is.
+
+From a B2 perspective, the most important target is not merely grammatical correctness but **functional control**. A sentence can be grammatically possible and still fail as engineering communication if it hides the action, weakens the logic, or leaves the reader uncertain about what matters most.
+
+## Engineering discourse patterns
+
+- moving from subsystem inventory to system-level narrative
+- explaining interface logic
+- showing how architecture supports reliability or maintainability
+- summarising complex systems without overloading the reader
+
+A strong learner should gradually recognise these patterns not as isolated tricks, but as repeatable document functions that can be reused across multiple modules.
+
+## Worked example
+
+### Worked example — architecture summary
+
+The monitoring architecture is divided into three main subsystems: sensing, processing, and communication. The sensing subsystem acquires raw environmental and equipment-status data. The processing subsystem filters, validates, and stores the relevant values while generating threshold-based events. The communication subsystem routes selected information to the operator interface and to the maintenance port. A modular architecture has been adopted to simplify replacement, isolate faults, and support configuration growth.
+
+### Why the example works
+
+The example is stronger than a typical classroom answer because it does more than name objects or actions. It gives the reader a controlled amount of context, identifies what is functionally important, and uses wording that can reasonably appear in professional documentation. It also separates technical fact from interpretive comment, which is especially important in reports, procedures, and reviews.
+
+## Weak versus strong technical writing
+
+### Weak version
+
+> The system has sensors, software, and communication parts that work together.
+
+### Stronger version
+
+> The system is organised into sensing, processing, and communication subsystems, each of which performs a defined role and exchanges controlled information through documented interfaces.
+
+### Commentary
+
+The weak version is understandable but under-specified. It relies on general-language wording, compresses multiple ideas without hierarchy, and provides too little guidance about significance. The stronger version improves the result by stabilising terminology, clarifying the relationship between condition and action, and making the sentence more useful to a technical reader.
+
+## Mini case study
+
+A system overview slide lists subsystems but does not explain why the architecture has been divided that way. Rewrite the explanation so that functional boundaries and engineering rationale become visible to the reader.
+
+### Suggested analysis path
+
+When working on this case, the learner should ask the following questions:
+
+- What is the real documentary purpose of the text?
+- Which information is factual, and which part is interpretation or recommendation?
+- Which terms should remain stable throughout the paragraph or page?
+- Is the reader expected to understand, decide, verify, or act?
+- Which sentence currently carries too much meaning and should be split or reformulated?
+
+## Applied writing task
+
+Produce a one-page architecture description for a dual-use monitoring or control system. Include hierarchy, interfaces, data flow, and one maintainability consideration.
+
+### Expected features of a strong answer
+
+A strong answer should normally include:
+
+- an opening sentence that states the topic and function of the text;
+- stable terminology rather than unnecessary variation;
+- enough technical detail to be useful, but not so much that the paragraph loses control;
+- connectors that show sequence, logic, condition, comparison, or consequence where needed;
+- an ending that clarifies status, implication, or next step.
+
+## Applied speaking task
+
+Give a two-minute architecture briefing in which you explain the role of each subsystem and one key interface dependency.
+
+### Oral performance note
+
+In a technical speaking task, the learner does not need dramatic delivery. What matters more is controlled sequencing, correct terminology, explicit logic, and the ability to remain concise without becoming vague.
+
+## Documentation output for the site
+
+Create `system-architecture-overview.md` with a subsystem table and an explanatory narrative.
+
+This output should not be treated as disposable homework. It should be revised so that it can become part of the final documentation repository.
+
+## Quality checklist for revision
+
+Before publishing or submitting the page, verify the following:
+
+- Is the title specific and professionally useful?
+- Does the opening paragraph define scope and purpose clearly?
+- Are terms used consistently from beginning to end?
+- Are obligation, possibility, and recommendation distinguished correctly?
+- Are there any unsupported conclusions or overstatements?
+- Would a reader know what matters most after a quick scan?
+- Is the page structurally reusable in the final MkDocs project?
+
+## Common weaknesses observed at B2 level
+
+Typical weaknesses at this stage include the transfer of Italian sentence rhythm into English, overuse of vague adjectives, insufficient distinction between observation and conclusion, and an understandable but weak tendency to translate directly rather than write according to document function. These issues are normal, but they must be actively corrected if the learner is expected to produce professional-quality output.
+
+## Cross-references
+
+- [Systems Engineering Terms](../glossaries/systems-engineering-terms.md)
+- [System Description Template](../templates/system-description-template.md)
+- [08 Performance Testing And Evaluation](../modules/08-performance-testing-and-evaluation.md)
+
+## Recommended follow-up
+
+After completing this module, the learner should revise one earlier output from a previous section and improve it using the terminology, discourse patterns, and revision criteria introduced here. This repeated reworking is one of the fastest ways to build documentary maturity.
+
+
+## Premium case study
+
+### Scenario
+
+A systems engineer must explain how sensing, control, power, and communication elements interact across a compact integrated platform.
+
+### Documentary risk
+
+System descriptions become weak when learners confuse components with functions or present architecture as a simple physical list rather than a relationship model.
+
+### Premium response strategy
+
+Before drafting the answer, the learner should stabilise the **documentary function** of the text. In other words, the writer must decide whether the page is primarily descriptive, explanatory, prescriptive, diagnostic, or evaluative. This step is essential because engineering English becomes weak when one paragraph tries to serve several functions at once without signalling the shift.
+
+A strong response should also separate three layers of meaning:
+
+1. **technical fact**, meaning what was observed, measured, configured, installed, checked, or recorded;
+2. **engineering interpretation**, meaning what those facts appear to indicate under the current evidence boundary;
+3. **documentary consequence**, meaning what the reader should now understand, verify, approve, revise, or do.
+
+### Model answer logic
+
+A premium answer separates subsystem identity, interface logic, signal or data path, and operating purpose. It shows what depends on what, not just what exists.
+
+### Premium model paragraph
+
+In a premium-quality submission, the learner should normally produce a paragraph or section that can survive technical review with minimal rewriting. A useful model is the following:
+
+> The text should open by identifying the relevant object, process, document, or activity in unambiguous terms. It should then clarify the operational or documentary reason why the subject matters. Once the context is stable, the writer should move to controlled detail, using terms consistently and avoiding unnecessary synonym changes. The conclusion should not merely repeat the opening; instead, it should state status, implication, limitation, or recommended follow-up in a form that a reviewer can act on.
+
+This model paragraph is deliberately generic so that it can be transferred across modules. The learner is encouraged to adapt it to the specific document type rather than memorise it mechanically.
+
+## Teacher note and correction focus
+
+Ask learners to explain the same system at two levels: overview and subsystem detail. This exposes whether their language can scale in complexity without losing clarity.
+
+### Premium correction questions
+
+When reviewing student work for this module, the teacher or reviewer should test the page against the following questions:
+
+- Does the learner understand the **purpose** of the text, or only its topic?
+- Are technical terms used consistently enough to support review and reuse?
+- Does the wording remain proportionate to the evidence available?
+- Is there a visible distinction between description, interpretation, and recommendation?
+- Could this text be inserted into the final repository with limited revision, or does it still read like classroom output?
+
+## Repository integration task
+
+Build a layered architecture page with overview, subsystem summary, interface notes, and dependency statements.
+
+### Repository maturity note
+
+For V4-level work, the learner should not simply upload the page. The page should be reviewed as if it were part of a living engineering knowledge base. This means checking title precision, heading hierarchy, internal links, document scope, tone stability, and reuse value.
+
+## Premium cross-reference and repository path
+
+This module should be studied together with [Systems Engineering Terms](../glossaries/systems-engineering-terms.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.

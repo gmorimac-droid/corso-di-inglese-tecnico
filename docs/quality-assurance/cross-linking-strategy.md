@@ -1,0 +1,71 @@
+# Cross-Linking Strategy
+
+## Purpose
+
+Cross-linking is not a decorative feature. In a structured MkDocs repository, internal links perform three critical functions:
+
+- they improve navigation;
+- they reduce content isolation;
+- they help the reader move between concept, terminology, practice, and output.
+
+A disciplined linking strategy turns the repository into a knowledge system rather than a collection of independent files.
+
+## What Good Links Should Do
+
+A useful internal link should help the reader do one of the following:
+
+- clarify terminology;
+- deepen understanding of a related concept;
+- move from theory to exercise;
+- move from exercise to model or template;
+- move from a page to the relevant quality or review guidance.
+
+## Preferred Linking Patterns
+
+### Modules → Glossaries
+When a module introduces technical terminology, it should link to the relevant glossary page rather than redefining the same terms repeatedly.
+
+### Modules → Exercises
+When a module develops a specific competence, it should point to the exercise page where that competence is practised.
+
+### Exercises → Templates
+Where applicable, exercise pages should direct the learner toward a corresponding model output or reusable structure.
+
+### Templates → Language Tools
+Template pages should link to phrasebanks and grammar/reference pages that help the learner produce better wording.
+
+### Project Pages → Quality Assurance
+Pages related to final production, publication, and review should point to the quality assurance framework.
+
+## Links to Avoid
+
+Avoid adding links that do not support a real user need. In particular, avoid:
+
+- excessive linking of common words;
+- multiple links to the same target in a short span;
+- links added only to increase the number of references;
+- circular linking with no informational benefit.
+
+## Anchor Text Guidance
+
+Use meaningful anchor text. The reader should understand what the target page is about before clicking.
+
+### Good
+- [Glossary of maintenance terms](../glossaries/maintenance-terms.md)
+- [Phrasebank for reporting](../language-tools/phrasebank-for-reporting.md)
+- [Technical report template](../templates/technical-report-template.md)
+
+### Weak
+- [click here](../templates/technical-report-template.md)
+- [this page](../language-tools/phrasebank-for-reporting.md)
+
+## Reviewer Checklist
+
+- Does each page contain at least a few high-value links where appropriate?
+- Are the links intentional and useful?
+- Do the links strengthen repository navigation?
+- Is there a healthy balance between self-contained writing and networked documentation?
+
+## Strategic Principle
+
+A page should remain readable on its own, but it should never behave as if the rest of the repository did not exist.

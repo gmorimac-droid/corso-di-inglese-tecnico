@@ -1,0 +1,227 @@
+# False Friends in Technical English
+
+## Purpose of this page
+
+False friends are terms that look familiar to Italian-speaking learners because they resemble Italian words, but they do not carry the same meaning in professional English. In technical writing, false friends are particularly dangerous because the sentence may appear correct on the surface while still conveying the wrong meaning, the wrong level of certainty, or an unnatural register.
+
+This page focuses on the false friends most likely to appear in engineering, reporting, maintenance, safety, compliance, and documentation contexts.
+
+## 1. current vs attuale
+
+- **current** = attuale
+- **actual** = reale / effettivo
+
+### Example
+- *The current configuration includes revision 5.*
+- *The actual measured value was lower than expected.*
+
+### Risk
+Using *actual* when you mean *current* can make the sentence sound incorrect or subtly misleading.
+
+## 2. actual vs attuale
+
+This is the reverse side of the previous error and deserves separate attention.
+
+### Correct meanings
+- **actual** = real, true, effective, measured, factual
+- **current** = present, in force now, presently applicable
+
+### Example
+*The actual torque value recorded during the test was 18.4 Nm, whereas the current specification sets the nominal value at 18 Nm.*
+
+## 3. eventual vs eventuale
+
+- English **eventual** = final, ultimate, occurring at the end of a process
+- Italian **eventuale** often means possible or potential
+
+### Example
+- *The eventual outcome of repeated contamination exposure may be seal degradation.*
+- *If necessary, an additional inspection may be performed.*
+
+### Learner note
+When you want to say *eventuale* in the Italian sense, you usually need **possible**, **potential**, **if necessary**, or **if required**.
+
+## 4. eventually vs eventualmente
+
+- English **eventually** = in the end / after some time
+- Italian **eventualmente** often means if needed / possibly
+
+### Example
+- *The issue was eventually resolved after replacement of the interface module.*
+- *If required, a further review may be scheduled.*
+
+## 5. sensible vs sensibile
+
+- **sensible** = reasonable, practical, well judged
+- **sensitive** = sensitive, delicate, responsive to change
+
+### Example
+- *A sensible revision strategy is to update the baseline in controlled stages.*
+- *The sensor is highly sensitive to thermal drift.*
+
+## 6. support vs sopportare
+
+- **support** = supportare, sostenere, fornire supporto
+- **withstand** = sopportare nel senso di resistere a una condizione tecnica
+
+### Example
+- *The bracket supports the lower assembly.*
+- *The material shall withstand elevated temperature exposure.*
+
+### Learner note
+When you mean mechanical or environmental resistance, **withstand** is often the better verb.
+
+## 7. control vs controllare
+
+In English, **control** often implies active regulation or command, not only checking.
+
+### Compare
+- *The control unit regulates power distribution.*
+- *The operator checked the fastener torque.*
+- *Quality reviewed the document before issue.*
+
+### Better alternatives for Italian *controllare*
+- *check*
+- *inspect*
+- *verify*
+- *review*
+- *monitor*
+
+## 8. argument vs argomento
+
+- English **argument** often means line of reasoning, debate, or position
+- Italian **argomento** is often better translated as **topic**, **subject**, or **issue**
+
+### Example
+- *The main topic of today’s review is connector maintainability.*
+- *The report presents a strong argument for retaining the current layout.*
+
+## 9. library vs libreria
+
+- English **library** = biblioteca or software library
+- Italian **libreria** = bookshop, or shelving unit depending on context
+
+### Technical example
+*The software module relies on an external encryption library.*
+
+## 10. fabric vs fabbrica
+
+- English **fabric** = textile material
+- Italian **fabbrica** = factory / plant
+
+### Example
+- *The unit is manufactured at the main production plant.*
+- *Protective fabric covers were used during transport.*
+
+## 11. camera vs camera
+
+- English **camera** = optical or video device
+- Italian **camera** = room in many non-technical contexts
+
+### Example
+*The inspection camera provided visual access to the internal cavity.*
+
+## 12. large vs largo
+
+- English **large** = big / ampio
+- Italian **largo** may mean wide rather than big in many technical contexts
+
+### Better distinction
+- *large enclosure* = big overall
+- *wide slot* = largo in width dimension
+
+## 13. realization vs realizzazione
+
+- English **realization** often means awareness or understanding, or in some contexts implementation, but it is not always the best translation of Italian *realizzazione*.
+
+### Better alternatives depending on meaning
+- *implementation*
+- *manufacture*
+- *development*
+- *production*
+- *completion*
+
+### Example
+*The implementation of the revised interface logic reduced configuration error risk.*
+
+## 14. eventuality vs eventualità
+
+This pair can also mislead learners.
+
+- **eventuality** in English means a possible event, often in risk or planning contexts;
+- however, it is not always the most natural choice.
+
+### Often better alternatives
+- *possibility*
+- *scenario*
+- *risk case*
+- *contingency*
+
+## 15. correspondent vs corrispondente
+
+- English **correspondent** often means reporter or person who exchanges correspondence
+- Italian **corrispondente** in technical comparison often means **corresponding**
+
+### Example
+- *The corresponding requirement is listed in Section 5.*
+- *The foreign correspondent filed a report from the site.*
+
+## 16. accurate vs accurato
+
+- English **accurate** = precise, correct
+- Italian **accurato** may also mean careful or well executed
+
+### Better distinction
+- *accurate measurement* = measurement with high precision/correctness
+- *careful review* = revisione accurata nel senso di attenta
+
+## 17. consistent vs consistente
+
+- English **consistent** = coherent, compatible, stable in pattern
+- Italian **consistente** often means substantial or significant in quantity
+
+### Example
+- *The results are consistent with the previous test campaign.*
+- *A substantial deviation was observed.*
+
+## 18. inspection vs ispezione / controllo
+
+This is not a pure false friend, but it causes confusion because *inspection* is more formal and specific than general *check*.
+
+### Distinction
+- *check* = quick verification
+- *inspection* = structured and often documented examination
+- *review* = documentary or analytical examination
+- *audit* = formal compliance or system-level evaluation
+
+## 19. notation vs notazione / nota
+
+English **notation** is usually a symbolic or representational system, not a short written note.
+
+### Better alternatives
+- *note*
+- *comment*
+- *entry*
+- *annotation*
+
+## 20. Final strategy for dealing with false friends
+
+When a word looks "too easy" because it resembles Italian closely, pause and verify:
+
+- Does it carry the same meaning in English?
+- Is it natural in technical prose?
+- Does it match the function of the sentence?
+- Would a native technical reviewer actually use this word here?
+
+## Quick-reference examples
+
+- *attuale* → **current**, not automatically **actual**
+- *eventuale* → **possible / potential / if required**, not automatically **eventual**
+- *sensibile* → **sensitive**, not **sensible**
+- *sopportare* → often **withstand**, not always **support**
+- *controllare* → often **check / inspect / verify / review**, not always **control**
+
+## Final note
+
+!!! tip "Similarity is not reliability"
+    In technical English, words that look familiar are often the most dangerous because they reduce the learner’s instinct to verify meaning. Good professional writing requires disciplined lexical checking, especially when a term appears deceptively transparent.
