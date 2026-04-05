@@ -71,7 +71,7 @@ Focus areas:
 - processes and workflows;
 - performance, testing, and evaluation.
 
-### Modules 09â-12 Documentary Writing
+### Modules 09-12 Documentary Writing
 These modules strengthen structured professional writing.
 
 Focus areas:
