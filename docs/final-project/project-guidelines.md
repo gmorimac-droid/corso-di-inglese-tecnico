@@ -1,4 +1,4 @@
-# Project Guidelines
+﻿# Project Guidelines
 
 ## What You Are Expected to Build
 

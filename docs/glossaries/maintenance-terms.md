@@ -1,4 +1,4 @@
-# Maintenance Terms
+﻿# Maintenance Terms
 
 !!! abstract "Scope of this glossary"
     This glossary supports communication about inspection, serviceability, failure response, corrective action, and technical support planning. It is particularly useful for learners who need to write maintenance logs, troubleshooting records, inspection notes, or service recommendations.
@@ -9,7 +9,7 @@ Each entry is written for **active professional use**. The definition gives conc
 
 ## Best fit inside this course
 
-- Best aligned with `modules/13-maintenance-english.md`, `modules/14-troubleshooting-and-fault-analysis.md`, `templates/maintenance-log-template.md`, and `templates/troubleshooting-report-template.md`.
+- Best aligned with `modules/13-maintenance-english.md`, `modules/14-troubleshooting-and-fault-analysis.md`, `document-templates/maintenance-log-template.md`, and `document-templates/troubleshooting-report-template.md`.
 
 ## Glossary entries
 
@@ -185,3 +185,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

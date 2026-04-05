@@ -1,4 +1,4 @@
-# Quality Assurance
+﻿# Quality Assurance
 
 ## Purpose of This Section
 
@@ -70,3 +70,4 @@ This section also has a pedagogical role. Learners working at B2 level often bel
 - maintaining consistency across multiple pages.
 
 For that reason, the quality assurance section should be used not only during final review, but also during drafting, revision, and teacher feedback.
+

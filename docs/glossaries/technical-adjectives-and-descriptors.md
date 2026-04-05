@@ -1,4 +1,4 @@
-# Technical Adjectives and Descriptors
+﻿# Technical Adjectives and Descriptors
 
 !!! abstract "Scope of this glossary"
     This glossary focuses on adjectives and descriptive terms that strengthen technical writing by making it more precise and less conversational. Many B2 learners know the underlying concepts but still rely on weak wording such as *good*, *strong*, *bad*, or *useful*. The descriptors below provide more professional alternatives.
@@ -9,7 +9,7 @@ Each entry is written for **active professional use**. The definition gives conc
 
 ## Best fit inside this course
 
-- Best aligned with `language-tools/phrasebank-for-description.md`, `modules/09-principles-of-technical-writing.md`, `templates/system-description-template.md`, and `quality-assurance/style-and-editorial-guide.md`.
+- Best aligned with `language-tools/phrasebank-for-description.md`, `modules/09-principles-of-technical-writing.md`, `document-templates/system-description-template.md`, and `quality-assurance/style-and-editorial-guide.md`.
 
 ## Glossary entries
 
@@ -182,3 +182,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

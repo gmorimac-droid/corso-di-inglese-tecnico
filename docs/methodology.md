@@ -1,4 +1,4 @@
-# Methodology
+﻿# Methodology
 
 ## How the Course Works
 

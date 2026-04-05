@@ -1,4 +1,4 @@
-# General Engineering Glossary
+﻿# General Engineering Glossary
 
 !!! abstract "Scope of this glossary"
     This page covers cross-disciplinary terms that appear repeatedly in technical descriptions, requirements, reports, design reviews, and engineering discussions. The vocabulary here is deliberately broad: it helps learners describe systems before they specialise into mechanical, electrical, maintenance, compliance, or defence-oriented language.
@@ -187,3 +187,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

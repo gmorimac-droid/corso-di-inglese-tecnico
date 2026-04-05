@@ -1,4 +1,4 @@
-# Module 08 — Performance, Testing and Evaluation
+﻿# Module 08 â€” Performance, Testing and Evaluation
 
 
 !!! abstract "Repository intent"
@@ -12,7 +12,7 @@
 | Area | Engineering Communication |
 | Operational purpose | Engineering communication often requires the writer to describe how an item performs under defined conditions, how testing was conducted, and what conclusions can or cannot be drawn from the available evidence. |
 | Primary documentary output | Performance or test-summary paragraph set |
-| Priority companion resources | [Technical Adjectives and Descriptors](../glossaries/technical-adjectives-and-descriptors.md)<br>[Technical Report Template](../templates/technical-report-template.md)<br>[Report Models](../model-answers/report-models.md) |
+| Priority companion resources | [Technical Adjectives and Descriptors](../glossaries/technical-adjectives-and-descriptors.md)<br>[Technical Report Template](../document-templates/technical-report-template.md)<br>[Report Models](../model-answers/report-models.md) |
 
 !!! tip "How to extract more value from this module"
     Complete the applied task first, then compare your draft against the related template, model answer, or playbook. This sequence produces better professional growth than reading every support page before writing.
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **performance metric** — a measurable indicator used to assess how well something performs. Example: *Performance metric should be recorded consistently across related documentation.*
-- **efficiency** — the degree to which output is achieved with limited waste or loss. Example: *Efficiency should be recorded consistently across related documentation.*
-- **accuracy** — the closeness of a value or result to the true or target value. Example: *Accuracy should be recorded consistently across related documentation.*
-- **repeatability** — the consistency of results when the same test is repeated. Example: *Repeatability should be recorded consistently across related documentation.*
-- **benchmark** — a reference value or comparative standard. Example: *Benchmark should be recorded consistently across related documentation.*
-- **test setup** — the configuration used to perform a test. Example: *Test setup should be recorded consistently across related documentation.*
-- **deviation** — a difference between measured and expected values. Example: *Deviation should be recorded consistently across related documentation.*
-- **acceptance threshold** — the limit beyond which performance is no longer acceptable. Example: *Acceptance threshold should be recorded consistently across related documentation.*
-- **evidence** — the information on which a conclusion is based. Example: *Evidence should be recorded consistently across related documentation.*
-- **limitation** — a factor that restricts interpretation or applicability. Example: *Limitation should be recorded consistently across related documentation.*
+- **performance metric** â€” a measurable indicator used to assess how well something performs. Example: *Performance metric should be recorded consistently across related documentation.*
+- **efficiency** â€” the degree to which output is achieved with limited waste or loss. Example: *Efficiency should be recorded consistently across related documentation.*
+- **accuracy** â€” the closeness of a value or result to the true or target value. Example: *Accuracy should be recorded consistently across related documentation.*
+- **repeatability** â€” the consistency of results when the same test is repeated. Example: *Repeatability should be recorded consistently across related documentation.*
+- **benchmark** â€” a reference value or comparative standard. Example: *Benchmark should be recorded consistently across related documentation.*
+- **test setup** â€” the configuration used to perform a test. Example: *Test setup should be recorded consistently across related documentation.*
+- **deviation** â€” a difference between measured and expected values. Example: *Deviation should be recorded consistently across related documentation.*
+- **acceptance threshold** â€” the limit beyond which performance is no longer acceptable. Example: *Acceptance threshold should be recorded consistently across related documentation.*
+- **evidence** â€” the information on which a conclusion is based. Example: *Evidence should be recorded consistently across related documentation.*
+- **limitation** â€” a factor that restricts interpretation or applicability. Example: *Limitation should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **performance metric**: typical collocation pattern — *performance metric management*, *performance metric verification*, or similar context-based use.
-- **efficiency**: typical collocation pattern — *efficiency management*, *efficiency verification*, or similar context-based use.
-- **accuracy**: typical collocation pattern — *accuracy management*, *accuracy verification*, or similar context-based use.
-- **repeatability**: typical collocation pattern — *repeatability management*, *repeatability verification*, or similar context-based use.
-- **benchmark**: typical collocation pattern — *benchmark management*, *benchmark verification*, or similar context-based use.
+- **performance metric**: typical collocation pattern â€” *performance metric management*, *performance metric verification*, or similar context-based use.
+- **efficiency**: typical collocation pattern â€” *efficiency management*, *efficiency verification*, or similar context-based use.
+- **accuracy**: typical collocation pattern â€” *accuracy management*, *accuracy verification*, or similar context-based use.
+- **repeatability**: typical collocation pattern â€” *repeatability management*, *repeatability verification*, or similar context-based use.
+- **benchmark**: typical collocation pattern â€” *benchmark management*, *benchmark verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — performance summary
+### Worked example â€” performance summary
 
 Under nominal electrical load and ambient laboratory conditions, the unit completed all functional cycles without loss of communication or abnormal thermal rise. The recorded response time remained within the specified threshold throughout the test window. A minor output variation was observed at the upper end of the operating range; however, the deviation remained below the acceptance limit and did not affect functional completion. The current evidence therefore supports conditional acceptance for the tested configuration only.
 
@@ -175,8 +175,8 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 
 ## Cross-references
 
-- [Test Report Template](../templates/test-report-template.md)
-- [Technical Report Template](../templates/technical-report-template.md)
+- [Test Report Template](../document-templates/test-report-template.md)
+- [Technical Report Template](../document-templates/technical-report-template.md)
 - [Technical Adjectives And Descriptors](../glossaries/technical-adjectives-and-descriptors.md)
 
 ## Recommended follow-up
@@ -240,4 +240,5 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 
 ## Premium cross-reference and repository path
 
-This module should be studied together with [Test Report Template](../templates/test-report-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+This module should be studied together with [Test Report Template](../document-templates/test-report-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

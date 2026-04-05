@@ -1,4 +1,4 @@
-# Procurement and Document Control Terms
+﻿# Procurement and Document Control Terms
 
 !!! abstract "Scope of this glossary"
     This glossary supports communication about technical procurement, supplier interaction, deliverables, revision logic, and controlled documentation. It is particularly useful for learners who work around engineering governance, configuration control, programme administration, or supplier-facing documentation.
@@ -9,7 +9,7 @@ Each entry is written for **active professional use**. The definition gives conc
 
 ## Best fit inside this course
 
-- Best aligned with `modules/17-procurement-and-programme-language.md`, `modules/18-mkdocs-and-github-documentation-project.md`, `templates/technical-email-template.md`, and `quality-assurance/repository-governance.md`.
+- Best aligned with `modules/17-procurement-and-programme-language.md`, `modules/18-mkdocs-and-github-documentation-project.md`, `document-templates/technical-email-template.md`, and `quality-assurance/repository-governance.md`.
 
 ## Glossary entries
 
@@ -186,3 +186,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

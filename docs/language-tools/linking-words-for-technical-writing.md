@@ -1,4 +1,4 @@
-# Linking Words for Technical Writing
+﻿# Linking Words for Technical Writing
 
 ## Why linking words matter
 
@@ -218,3 +218,4 @@ When revising linking language, verify the following:
 
 !!! tip "Linking words are structural tools"
     In technical writing, connectors are not filler. They act as structural signals that tell the reader how to interpret evidence, sequence, contrast, and responsibility. Good connectors reduce misunderstanding and make documents easier to review, approve, and maintain.
+

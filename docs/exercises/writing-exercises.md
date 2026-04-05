@@ -1,4 +1,4 @@
-# Writing Exercises
+﻿# Writing Exercises
 
 ## Purpose
 
@@ -6,7 +6,7 @@ This page develops general technical writing competence beyond single-sentence g
 
 ---
 
-## Exercise 1 — Clarifying Ambiguous Writing
+## Exercise 1 â€” Clarifying Ambiguous Writing
 
 Rewrite the paragraph below to make it clearer and more professional.
 
@@ -19,7 +19,7 @@ Rewrite the paragraph below to make it clearer and more professional.
 
 ---
 
-## Exercise 2 — Writing a Technical Summary
+## Exercise 2 â€” Writing a Technical Summary
 
 Write a summary of 100 to 130 words based on the notes below:
 - environmental test completed;
@@ -34,7 +34,7 @@ A good summary prioritizes findings and does not read like a disconnected list.
 
 ---
 
-## Exercise 3 — Writing from a Review Perspective
+## Exercise 3 â€” Writing from a Review Perspective
 
 You are reviewing a draft that says:
 
@@ -48,7 +48,7 @@ Rewrite the sentence in three stronger ways:
 
 ---
 
-## Exercise 4 — Controlled Paragraph Writing
+## Exercise 4 â€” Controlled Paragraph Writing
 
 Write a paragraph on the topic below:
 
@@ -63,7 +63,7 @@ Write a paragraph on the topic below:
 
 ---
 
-## Exercise 5 — Writing with Evidence
+## Exercise 5 â€” Writing with Evidence
 
 Transform the weak claims below into evidence-based technical statements.
 
@@ -78,7 +78,7 @@ Use measurable or at least functionally meaningful wording.
 
 ---
 
-## Exercise 6 — Short Technical Note
+## Exercise 6 â€” Short Technical Note
 
 Write a short technical note for internal documentation on the following situation:
 
@@ -93,7 +93,7 @@ Write a short technical note for internal documentation on the following situati
 
 ---
 
-## Exercise 7 — Writing for Reuse
+## Exercise 7 â€” Writing for Reuse
 
 Write a paragraph that could later be reused in one of the following repository contexts:
 - glossary usage note;
@@ -109,7 +109,7 @@ Write a paragraph that could later be reused in one of the following repository 
 
 ---
 
-## Exercise 8 — Revision and Improvement
+## Exercise 8 â€” Revision and Improvement
 
 Take the paragraph below and revise it in two stages.
 
@@ -126,7 +126,7 @@ Explain what changed between Stage 1 and Stage 2.
 
 ---
 
-## Exercise 9 — Engineering Style Transformation
+## Exercise 9 â€” Engineering Style Transformation
 
 Rewrite the following informal statements as formal technical prose:
 - We checked the unit and it was okay.
@@ -139,7 +139,7 @@ The challenge is not only grammar, but professional register.
 
 ---
 
-## Exercise 10 — Repository-Ready Writing Task
+## Exercise 10 â€” Repository-Ready Writing Task
 
 Prepare a polished text of 180 to 220 words on one of the following topics:
 - benefits of preventive maintenance;
@@ -152,3 +152,4 @@ The text should be strong enough to be reused later in the site as:
 - a module example;
 - a side note;
 - a quality-assurance reference text.
+

@@ -1,4 +1,4 @@
-# Briefing Template
+﻿# Briefing Template
 
 ## Purpose
 
@@ -30,7 +30,7 @@ A good technical briefing should answer:
 ## Template
 
 ```md
-# Technical Briefing – [Title]
+# Technical Briefing â€“ [Title]
 
 ## 1. Purpose
 [State the purpose of the briefing in one or two sentences.]
@@ -63,7 +63,7 @@ A good technical briefing should answer:
 
 ## Model Example
 
-# Technical Briefing – Sensor Enclosure Revision Status
+# Technical Briefing â€“ Sensor Enclosure Revision Status
 
 ## 1. Purpose
 The purpose of this briefing is to summarize the current status of sensor enclosure revision C and identify the actions required before formal release.
@@ -97,13 +97,14 @@ In summary, the revision is close to release readiness, but targeted wording imp
 ## Delivery Notes
 
 - Use short spoken units, not long written paragraphs.
-- Signal transitions clearly: “first”, “second”, “finally”, “as a result”.
+- Signal transitions clearly: â€œfirstâ€, â€œsecondâ€, â€œfinallyâ€, â€œas a resultâ€.
 - Distinguish fact from recommendation.
 - End with a decision or action point.
 - Keep the closing sentence explicit.
 
 ## Cross-Links
 
-- [Oral Communication Module](../modules/08-oral-communication.md)
+- [Oral Communication Module](../modules/08-performance-testing-and-evaluation.md)
 - [Phrasebank for Meetings](../language-tools/phrasebank-for-meetings.md)
 - [Oral Communication Tasks](../exercises/oral-communication-tasks.md)
+

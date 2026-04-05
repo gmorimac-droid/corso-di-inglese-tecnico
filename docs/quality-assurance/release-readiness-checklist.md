@@ -1,4 +1,4 @@
-# Release Readiness Checklist
+﻿# Release Readiness Checklist
 
 ## Purpose
 
@@ -58,3 +58,4 @@ A page should be considered release-ready only when it is:
 - structurally coherent;
 - terminologically governed;
 - integrated into the repository.
+

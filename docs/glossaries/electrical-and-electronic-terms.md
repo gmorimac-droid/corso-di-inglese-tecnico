@@ -1,4 +1,4 @@
-# Electrical and Electronic Terms
+﻿# Electrical and Electronic Terms
 
 !!! abstract "Scope of this glossary"
     This glossary supports technical communication involving electrical power, signal transmission, electronic assemblies, instrumentation, and control hardware. The selected terms are broad enough for B2 learners but specific enough to improve the quality of engineering descriptions, troubleshooting notes, and test documentation.
@@ -9,7 +9,7 @@ Each entry is written for **active professional use**. The definition gives conc
 
 ## Best fit inside this course
 
-- Best aligned with `modules/06-describing-systems-and-architectures.md`, `modules/08-performance-testing-and-evaluation.md`, `modules/14-troubleshooting-and-fault-analysis.md`, and `templates/test-report-template.md`.
+- Best aligned with `modules/06-describing-systems-and-architectures.md`, `modules/08-performance-testing-and-evaluation.md`, `modules/14-troubleshooting-and-fault-analysis.md`, and `document-templates/test-report-template.md`.
 
 ## Glossary entries
 
@@ -185,3 +185,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

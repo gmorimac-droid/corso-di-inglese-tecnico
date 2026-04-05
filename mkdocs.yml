@@ -3,18 +3,20 @@ site_description: Civil, Industrial and Defence-Oriented Technical English Cours
 site_url: "https://gmorimac-droid.github.io/corso-di-inglese-tecnico"
 site_author: Massimo Mori
 
-#repo_url: https://github.com/gmorimac-droid/technical-english-b2
-#repo_name: gmorimac-droid/technical-english-b2
-#edit_uri: edit/main/docs/
+# repo_url: https://github.com/gmorimac-droid/technical-english-b2
+# repo_name: gmorimac-droid/technical-english-b2
+# edit_uri: edit/main/docs/
 
 theme:
   name: material
   language: en
+  logo: assets/logo.png
+  favicon: images/favicon.png
   features:
     - navigation.sections
     - navigation.top
     - navigation.indexes
-#    - content.code.copy
+#   - content.code.copy
     - content.tabs.link
     - search.highlight
     - search.share
@@ -52,6 +54,31 @@ extra_css:
 docs_dir: docs
 site_dir: site
 
+not_in_nav: |
+  /release-notes-v5.md
+
+  /appendices/**
+
+  /civil-vs-defence/**
+  !/civil-vs-defence/index.md
+
+  /exercises/**
+  !/exercises/index.md
+
+  /glossaries/**
+  !/glossaries/index.md
+
+  /language-tools/**
+  !/language-tools/index.md
+
+  /document-templates/**
+  !/document-templates/index.md
+
+  /model-answers/**
+  /quality-assurance/**
+  /review-playbooks/**
+  /teacher-notes/**
+
 nav:
   - Home: index.md
 
@@ -87,7 +114,7 @@ nav:
   - Reference:
       - Glossaries: glossaries/index.md
       - Language Tools: language-tools/index.md
-      - Templates and Models: templates/index.md
+      - Templates and Models: document-templates/index.md
 
   - Practice:
       - Exercises: exercises/index.md

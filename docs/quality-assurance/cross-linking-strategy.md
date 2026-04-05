@@ -1,4 +1,4 @@
-# Cross-Linking Strategy
+﻿# Cross-Linking Strategy
 
 ## Purpose
 
@@ -22,19 +22,19 @@ A useful internal link should help the reader do one of the following:
 
 ## Preferred Linking Patterns
 
-### Modules → Glossaries
+### Modules â†’ Glossaries
 When a module introduces technical terminology, it should link to the relevant glossary page rather than redefining the same terms repeatedly.
 
-### Modules → Exercises
+### Modules â†’ Exercises
 When a module develops a specific competence, it should point to the exercise page where that competence is practised.
 
-### Exercises → Templates
+### Exercises â†’ Templates
 Where applicable, exercise pages should direct the learner toward a corresponding model output or reusable structure.
 
-### Templates → Language Tools
+### Templates â†’ Language Tools
 Template pages should link to phrasebanks and grammar/reference pages that help the learner produce better wording.
 
-### Project Pages → Quality Assurance
+### Project Pages â†’ Quality Assurance
 Pages related to final production, publication, and review should point to the quality assurance framework.
 
 ## Links to Avoid
@@ -53,10 +53,10 @@ Use meaningful anchor text. The reader should understand what the target page is
 ### Good
 - [Glossary of maintenance terms](../glossaries/maintenance-terms.md)
 - [Phrasebank for reporting](../language-tools/phrasebank-for-reporting.md)
-- [Technical report template](../templates/technical-report-template.md)
+- [Technical report template](../document-templates/technical-report-template.md)
 
 ### Weak
-- [click here](../templates/technical-report-template.md)
+- [click here](../document-templates/technical-report-template.md)
 - [this page](../language-tools/phrasebank-for-reporting.md)
 
 ## Reviewer Checklist
@@ -69,3 +69,4 @@ Use meaningful anchor text. The reader should understand what the target page is
 ## Strategic Principle
 
 A page should remain readable on its own, but it should never behave as if the rest of the repository did not exist.
+

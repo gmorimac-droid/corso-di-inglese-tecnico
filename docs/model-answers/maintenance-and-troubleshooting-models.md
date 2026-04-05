@@ -1,4 +1,4 @@
-# Maintenance and Troubleshooting Models
+﻿# Maintenance and Troubleshooting Models
 
 !!! note "How to read model answers"
     Model answers should be analysed, not memorised. Compare them against your own draft to identify improvements in structure, evidence handling, terminology, and documentary usefulness.
@@ -14,3 +14,4 @@ Intermittent startup signal loss was reported during bench verification. Initial
 ## Premium distinction
 
 The maintenance entry is **record-oriented**, while the troubleshooting note is **diagnostic-oriented**. Learners should understand that these document types can describe the same event with different priorities.
+

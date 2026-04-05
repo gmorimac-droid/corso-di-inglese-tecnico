@@ -1,4 +1,4 @@
-# Oral Assessment Notes
+﻿# Oral Assessment Notes
 
 !!! note "Teaching use note"
     These notes are intended to stabilise correction behaviour across tasks, modules, and repository outputs. Use them to keep assessment principles explicit and repeatable.
@@ -21,3 +21,4 @@ The student does not need to sound theatrical. A calm, structured, engineering-l
 - Did the learner manage transitions clearly?
 - Were key terms repeated consistently?
 - Was the closing statement useful and action-oriented?
+

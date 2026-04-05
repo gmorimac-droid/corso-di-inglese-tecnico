@@ -1,4 +1,4 @@
-# Technical English for Engineering B2
+﻿# Technical English for Engineering B2
 
 ## A documentation-focused course for civil, industrial, dual-use, and defence-oriented engineering contexts
 
@@ -34,7 +34,7 @@ The course is designed not only to improve language accuracy, but also to help l
   Use glossaries, language tools, and templates while reading and writing.  
   [Glossaries](glossaries/index.md)  
   [Language Tools](language-tools/index.md)  
-  [Templates and Models](templates/index.md)
+  [Templates and Models](document-templates/index.md)
 
 - **Practice**
   

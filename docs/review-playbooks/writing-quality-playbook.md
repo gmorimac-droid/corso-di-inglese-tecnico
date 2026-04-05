@@ -1,4 +1,4 @@
-# Writing Quality Playbook
+﻿# Writing Quality Playbook
 
 !!! note "Playbook use note"
     A playbook is most useful when applied in sequence. Follow the review order rather than correcting isolated sentences without a framework.
@@ -18,10 +18,11 @@ A premium engineering-English page should normally satisfy the following criteri
 
 - decorative vocabulary with no technical gain;
 - excessive synonym variation;
-- “marketing tone” inside documentary content;
+- â€œmarketing toneâ€ inside documentary content;
 - unsupported modal force;
 - no clear closing statement.
 
 ## Recommended workflow
 
 Draft quickly, then revise slowly for structure, terminology, evidence level, and repository integration.
+

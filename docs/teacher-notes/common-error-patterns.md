@@ -1,4 +1,4 @@
-# Common Error Patterns
+﻿# Common Error Patterns
 
 !!! note "Teaching use note"
     These notes are intended to stabilise correction behaviour across tasks, modules, and repository outputs. Use them to keep assessment principles explicit and repeatable.
@@ -31,3 +31,4 @@ Students may jump from a symptom to a confirmed root cause with no evidence lang
 ## Teaching response
 
 These errors should be corrected systematically and linked back to document function rather than treated as isolated language faults.
+

@@ -1,4 +1,4 @@
-# Style Decisions Log
+﻿# Style Decisions Log
 
 ## Purpose
 
@@ -22,3 +22,4 @@ When a new style decision changes repository behaviour in a lasting way, record 
 
 - [Editorial Style Guide](../quality-assurance/editorial-style-guide.md)
 - [Page Architecture Checklist](../quality-assurance/page-architecture-checklist.md)
+

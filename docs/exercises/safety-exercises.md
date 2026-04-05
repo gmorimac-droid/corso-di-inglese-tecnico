@@ -1,4 +1,4 @@
-# Safety Exercises
+﻿# Safety Exercises
 
 ## Purpose
 
@@ -6,7 +6,7 @@ Safety-related communication in engineering must be clear, controlled, and propo
 
 ---
 
-## Exercise 1 — Hazard, Risk, or Control?
+## Exercise 1 â€” Hazard, Risk, or Control?
 
 Classify each item below as:
 - hazard;
@@ -28,7 +28,7 @@ Explain the relationship between hazard, risk, and control measure in one short 
 
 ---
 
-## Exercise 2 — Warning vs Caution
+## Exercise 2 â€” Warning vs Caution
 
 Rewrite the following statements as either a **Warning** or a **Caution**, depending on severity.
 
@@ -42,7 +42,7 @@ The learner must match the message level to the consequence.
 
 ---
 
-## Exercise 3 — Safety Note Improvement
+## Exercise 3 â€” Safety Note Improvement
 
 Improve the note below.
 
@@ -55,7 +55,7 @@ Improve the note below.
 
 ---
 
-## Exercise 4 — Risk Statement Writing
+## Exercise 4 â€” Risk Statement Writing
 
 Write a short risk statement for each situation:
 1. use of the unit outside the defined temperature range;
@@ -72,7 +72,7 @@ Each statement should include:
 
 ---
 
-## Exercise 5 — Incident Summary
+## Exercise 5 â€” Incident Summary
 
 Write an incident summary based on the following:
 - technician opened enclosure before verifying isolation;
@@ -86,7 +86,7 @@ Formal, factual, improvement-oriented.
 
 ---
 
-## Exercise 6 — Safety Communication for Operators
+## Exercise 6 â€” Safety Communication for Operators
 
 Write a short operator-facing safety instruction related to:
 - thermal hazard;
@@ -98,7 +98,7 @@ Choose one topic and write 80 to 120 words.
 
 ---
 
-## Exercise 7 — Stronger Safety Language
+## Exercise 7 â€” Stronger Safety Language
 
 Improve the following expressions:
 1. use carefully  
@@ -112,7 +112,7 @@ Replace each with wording more suitable for formal safety documentation.
 
 ---
 
-## Exercise 8 — Safety Review Exercise
+## Exercise 8 â€” Safety Review Exercise
 
 Read the sentence and identify missing information.
 
@@ -125,7 +125,7 @@ Read the sentence and identify missing information.
 
 ---
 
-## Exercise 9 — Safety and Documentation Link
+## Exercise 9 â€” Safety and Documentation Link
 
 Write a short paragraph explaining why safety communication must be linked to documentation control, revision status, and training.
 
@@ -134,7 +134,7 @@ The answer should go beyond generic statements and reflect engineering governanc
 
 ---
 
-## Exercise 10 — Repository-Ready Safety Box
+## Exercise 10 â€” Repository-Ready Safety Box
 
 Write a documentation-ready safety box that could later be inserted into a module or template page. Choose one of the following:
 - power isolation;
@@ -145,3 +145,4 @@ Write a documentation-ready safety box that could later be inserted into a modul
 
 ### Output Goal
 Use a heading such as **Warning**, **Caution**, or **Safety Note** and write 70 to 120 words.
+

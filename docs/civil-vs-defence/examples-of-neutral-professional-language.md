@@ -1,4 +1,4 @@
-# Examples of Neutral Professional Language
+﻿# Examples of Neutral Professional Language
 
 ## Purpose
 
@@ -17,7 +17,7 @@ A sentence is usually stronger when it:
 
 ---
 
-## Example Set 1 — Performance Claims
+## Example Set 1 â€” Performance Claims
 
 ### Weak
 The system delivers exceptional results in all demanding situations.
@@ -33,7 +33,7 @@ The improved version:
 
 ---
 
-## Example Set 2 — Reliability Claims
+## Example Set 2 â€” Reliability Claims
 
 ### Weak
 The unit is extremely reliable and almost never fails.
@@ -46,7 +46,7 @@ This version avoids an absolute or impressionistic claim and replaces it with a 
 
 ---
 
-## Example Set 3 — Capability Language
+## Example Set 3 â€” Capability Language
 
 ### Weak
 This capability provides a major operational advantage.
@@ -59,7 +59,7 @@ The sentence now describes a functional contribution without drifting into promo
 
 ---
 
-## Example Set 4 — Environmental Claims
+## Example Set 4 â€” Environmental Claims
 
 ### Weak
 The enclosure is built for very harsh environments.
@@ -72,7 +72,7 @@ The revised wording identifies the engineering basis of the environmental claim.
 
 ---
 
-## Example Set 5 — Installation Language
+## Example Set 5 â€” Installation Language
 
 ### Weak
 Installation is straightforward for trained personnel.
@@ -85,7 +85,7 @@ The improved wording replaces a subjective adjective with procedural clarity.
 
 ---
 
-## Example Set 6 — Comparative Claims
+## Example Set 6 â€” Comparative Claims
 
 ### Weak
 The new version is significantly better than the old one.
@@ -98,7 +98,7 @@ The statement now explains the basis of comparison and the type of improvement.
 
 ---
 
-## Example Set 7 — Security or Protection Wording
+## Example Set 7 â€” Security or Protection Wording
 
 ### Weak
 The module provides superior protection against threats.
@@ -111,7 +111,7 @@ The revised sentence focuses on implemented functions rather than abstract or po
 
 ---
 
-## Example Set 8 — Supportability Language
+## Example Set 8 â€” Supportability Language
 
 ### Weak
 The design is ideal for long-term sustainment.
@@ -146,3 +146,4 @@ Rewrite the following sentences in a more neutral professional style:
 ## Final Guidance
 
 Neutral professional language is not weak language. It is disciplined language. It creates trust because it makes fewer theatrical claims and more defensible statements.
+

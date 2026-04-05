@@ -1,4 +1,4 @@
-# Module 05 — Describing Components and Assemblies
+﻿# Module 05 â€” Describing Components and Assemblies
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **fastener** — a hardware item such as a bolt, screw, or rivet used to secure parts together. Example: *Fastener should be recorded consistently across related documentation.*
-- **enclosure** — a protective outer structure that houses internal elements. Example: *Enclosure should be recorded consistently across related documentation.*
-- **connector** — an interface element used to join electrical or signal paths. Example: *Connector should be recorded consistently across related documentation.*
-- **mounting bracket** — a structural support used to attach a component to a larger assembly. Example: *Mounting bracket should be recorded consistently across related documentation.*
-- **bearing** — a part that supports and guides motion while reducing friction. Example: *Bearing should be recorded consistently across related documentation.*
-- **alignment** — the correct positional relationship between components. Example: *Alignment should be recorded consistently across related documentation.*
-- **tolerance** — the allowable variation in dimension or fit. Example: *Tolerance should be recorded consistently across related documentation.*
-- **fitment** — the way a part is fitted or installed within an assembly. Example: *Fitment should be recorded consistently across related documentation.*
-- **retention** — the means by which a part is held in place. Example: *Retention should be recorded consistently across related documentation.*
-- **sealing surface** — a contact area designed to prevent leakage or contamination. Example: *Sealing surface should be recorded consistently across related documentation.*
+- **fastener** â€” a hardware item such as a bolt, screw, or rivet used to secure parts together. Example: *Fastener should be recorded consistently across related documentation.*
+- **enclosure** â€” a protective outer structure that houses internal elements. Example: *Enclosure should be recorded consistently across related documentation.*
+- **connector** â€” an interface element used to join electrical or signal paths. Example: *Connector should be recorded consistently across related documentation.*
+- **mounting bracket** â€” a structural support used to attach a component to a larger assembly. Example: *Mounting bracket should be recorded consistently across related documentation.*
+- **bearing** â€” a part that supports and guides motion while reducing friction. Example: *Bearing should be recorded consistently across related documentation.*
+- **alignment** â€” the correct positional relationship between components. Example: *Alignment should be recorded consistently across related documentation.*
+- **tolerance** â€” the allowable variation in dimension or fit. Example: *Tolerance should be recorded consistently across related documentation.*
+- **fitment** â€” the way a part is fitted or installed within an assembly. Example: *Fitment should be recorded consistently across related documentation.*
+- **retention** â€” the means by which a part is held in place. Example: *Retention should be recorded consistently across related documentation.*
+- **sealing surface** â€” a contact area designed to prevent leakage or contamination. Example: *Sealing surface should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **fastener**: typical collocation pattern — *fastener management*, *fastener verification*, or similar context-based use.
-- **enclosure**: typical collocation pattern — *enclosure management*, *enclosure verification*, or similar context-based use.
-- **connector**: typical collocation pattern — *connector management*, *connector verification*, or similar context-based use.
-- **mounting bracket**: typical collocation pattern — *mounting bracket management*, *mounting bracket verification*, or similar context-based use.
-- **bearing**: typical collocation pattern — *bearing management*, *bearing verification*, or similar context-based use.
+- **fastener**: typical collocation pattern â€” *fastener management*, *fastener verification*, or similar context-based use.
+- **enclosure**: typical collocation pattern â€” *enclosure management*, *enclosure verification*, or similar context-based use.
+- **connector**: typical collocation pattern â€” *connector management*, *connector verification*, or similar context-based use.
+- **mounting bracket**: typical collocation pattern â€” *mounting bracket management*, *mounting bracket verification*, or similar context-based use.
+- **bearing**: typical collocation pattern â€” *bearing management*, *bearing verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — assembly description
+### Worked example â€” assembly description
 
 The interface module is housed within an aluminium enclosure mounted on the left-hand support frame. The enclosure is secured by four captive fasteners and includes a sealed front connector for maintenance access. Internally, the module is retained by guide rails that maintain alignment during installation and removal. The arrangement has been selected to simplify replacement while limiting exposure of the internal electronics to contamination.
 
@@ -117,7 +117,7 @@ The weak version is understandable but under-specified. It relies on general-lan
 
 ## Mini case study
 
-A learner describes a component only by naming its parts. The review comment states that the text is “list-like but not technically explanatory.” Expand the description so that physical arrangement, interface logic, and maintenance relevance become explicit.
+A learner describes a component only by naming its parts. The review comment states that the text is â€œlist-like but not technically explanatory.â€ Expand the description so that physical arrangement, interface logic, and maintenance relevance become explicit.
 
 ### Suggested analysis path
 
@@ -131,7 +131,7 @@ When working on this case, the learner should ask the following questions:
 
 ## Applied writing task
 
-Write a 250–350 word description of an assembly containing at least one enclosure, one connector, one support element, and one retention feature.
+Write a 250â€“350 word description of an assembly containing at least one enclosure, one connector, one support element, and one retention feature.
 
 ### Expected features of a strong answer
 
@@ -175,7 +175,7 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 
 ## Cross-references
 
-- [System Description Template](../templates/system-description-template.md)
+- [System Description Template](../document-templates/system-description-template.md)
 - [Mechanical Terms](../glossaries/mechanical-terms.md)
 - [Electrical And Electronic Terms](../glossaries/electrical-and-electronic-terms.md)
 
@@ -240,4 +240,5 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 
 ## Premium cross-reference and repository path
 
-This module should be studied together with [System Description Template](../templates/system-description-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+This module should be studied together with [System Description Template](../document-templates/system-description-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

@@ -1,4 +1,4 @@
-# Technical Report Template
+﻿# Technical Report Template
 
 ## Purpose
 
@@ -137,3 +137,4 @@ The revised enclosure configuration is technically acceptable at preliminary rev
 - [Technical Writing Module](../modules/09-principles-of-technical-writing.md)
 - [Reports, Summaries and Meeting Notes](../modules/11-reports-summaries-and-meeting-notes.md)
 - [Report Writing Exercises](../exercises/report-writing-exercises.md)
+

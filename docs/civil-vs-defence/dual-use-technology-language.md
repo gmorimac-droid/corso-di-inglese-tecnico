@@ -1,8 +1,8 @@
-# Dual-Use Technology Language
+﻿# Dual-Use Technology Language
 
 ## Purpose
 
-Dual-use technology refers to systems, components, or methods that can serve both civil and security-related purposes. In documentation, this creates a specific language challenge: the writer must remain technically accurate while ensuring that the wording is appropriate for the document’s audience, release level, and institutional context.
+Dual-use technology refers to systems, components, or methods that can serve both civil and security-related purposes. In documentation, this creates a specific language challenge: the writer must remain technically accurate while ensuring that the wording is appropriate for the documentâ€™s audience, release level, and institutional context.
 
 This page explains how to describe dual-use technologies in a way that is professionally responsible, linguistically precise, and suitable for engineering documentation.
 
@@ -164,3 +164,4 @@ It:
 ## Final Guidance
 
 Dual-use language should neither hide the engineering reality nor dramatise it. The best wording identifies actual function, support implications, interface logic, and operating conditions. In most cases, the most professional sentence is also the most controlled sentence.
+

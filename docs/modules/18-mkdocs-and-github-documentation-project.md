@@ -1,4 +1,4 @@
-# Module 18 — MkDocs and GitHub Documentation Project
+﻿# Module 18 â€” MkDocs and GitHub Documentation Project
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **Markdown** — a lightweight markup format used to structure plain-text documentation. Example: *Markdown should be recorded consistently across related documentation.*
-- **repository** — a version-controlled storage location for files and their revision history. Example: *Repository should be recorded consistently across related documentation.*
-- **navigation tree** — the organised structure that defines how pages are reached in the site. Example: *Navigation tree should be recorded consistently across related documentation.*
-- **front page** — the initial page that explains identity, scope, and access path. Example: *Front page should be recorded consistently across related documentation.*
-- **cross-reference** — a link from one page to another related page. Example: *Cross-reference should be recorded consistently across related documentation.*
-- **version control** — the practice of tracking and managing document changes over time. Example: *Version control should be recorded consistently across related documentation.*
-- **commit** — a recorded set of changes in a version-controlled repository. Example: *Commit should be recorded consistently across related documentation.*
-- **publishable draft** — a revised version acceptable for release to the intended audience. Example: *Publishable draft should be recorded consistently across related documentation.*
-- **template** — a reusable structure that standardises content creation. Example: *Template should be recorded consistently across related documentation.*
-- **information architecture** — the planned arrangement of content and navigation. Example: *Information architecture should be recorded consistently across related documentation.*
+- **Markdown** â€” a lightweight markup format used to structure plain-text documentation. Example: *Markdown should be recorded consistently across related documentation.*
+- **repository** â€” a version-controlled storage location for files and their revision history. Example: *Repository should be recorded consistently across related documentation.*
+- **navigation tree** â€” the organised structure that defines how pages are reached in the site. Example: *Navigation tree should be recorded consistently across related documentation.*
+- **front page** â€” the initial page that explains identity, scope, and access path. Example: *Front page should be recorded consistently across related documentation.*
+- **cross-reference** â€” a link from one page to another related page. Example: *Cross-reference should be recorded consistently across related documentation.*
+- **version control** â€” the practice of tracking and managing document changes over time. Example: *Version control should be recorded consistently across related documentation.*
+- **commit** â€” a recorded set of changes in a version-controlled repository. Example: *Commit should be recorded consistently across related documentation.*
+- **publishable draft** â€” a revised version acceptable for release to the intended audience. Example: *Publishable draft should be recorded consistently across related documentation.*
+- **template** â€” a reusable structure that standardises content creation. Example: *Template should be recorded consistently across related documentation.*
+- **information architecture** â€” the planned arrangement of content and navigation. Example: *Information architecture should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **Markdown**: typical collocation pattern — *Markdown management*, *Markdown verification*, or similar context-based use.
-- **repository**: typical collocation pattern — *repository management*, *repository verification*, or similar context-based use.
-- **navigation tree**: typical collocation pattern — *navigation tree management*, *navigation tree verification*, or similar context-based use.
-- **front page**: typical collocation pattern — *front page management*, *front page verification*, or similar context-based use.
-- **cross-reference**: typical collocation pattern — *cross-reference management*, *cross-reference verification*, or similar context-based use.
+- **Markdown**: typical collocation pattern â€” *Markdown management*, *Markdown verification*, or similar context-based use.
+- **repository**: typical collocation pattern â€” *repository management*, *repository verification*, or similar context-based use.
+- **navigation tree**: typical collocation pattern â€” *navigation tree management*, *navigation tree verification*, or similar context-based use.
+- **front page**: typical collocation pattern â€” *front page management*, *front page verification*, or similar context-based use.
+- **cross-reference**: typical collocation pattern â€” *cross-reference management*, *cross-reference verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — documentation page introduction
+### Worked example â€” documentation page introduction
 
 This page provides a controlled reference for troubleshooting language used across the course. It is intended for learners preparing reports, maintenance notes, or issue summaries. The page does not replace the dedicated troubleshooting module; instead, it consolidates the most reusable phrasing patterns and revision criteria in a single location.
 
@@ -241,3 +241,4 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 ## Premium cross-reference and repository path
 
 This module should be studied together with [Publishing Guide](../final-project/publishing-guide.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

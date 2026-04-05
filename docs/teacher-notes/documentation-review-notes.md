@@ -1,4 +1,4 @@
-# Documentation Review Notes
+﻿# Documentation Review Notes
 
 !!! note "Teaching use note"
     These notes are intended to stabilise correction behaviour across tasks, modules, and repository outputs. Use them to keep assessment principles explicit and repeatable.
@@ -16,3 +16,4 @@ The final repository should be reviewed as a documentation system. Premium revie
 ## MkDocs-specific note
 
 Students often focus on writing individual pages but neglect information architecture. Premium-level review must assess both page quality and repository logic.
+

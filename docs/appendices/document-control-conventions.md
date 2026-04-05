@@ -1,4 +1,4 @@
-# Document Control Conventions
+﻿# Document Control Conventions
 
 ## Purpose
 
@@ -34,3 +34,4 @@ Reviewers should assess not only whether a document sounds acceptable, but also 
 
 - [Release Readiness Checklist](../quality-assurance/release-readiness-checklist.md)
 - [Repository Quality Playbook](../review-playbooks/repository-quality-playbook.md)
+

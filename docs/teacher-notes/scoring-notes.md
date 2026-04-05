@@ -1,4 +1,4 @@
-# Scoring Notes
+﻿# Scoring Notes
 
 !!! note "Teaching use note"
     These notes are intended to stabilise correction behaviour across tasks, modules, and repository outputs. Use them to keep assessment principles explicit and repeatable.
@@ -30,3 +30,4 @@ Could the output be inserted into the final MkDocs site after limited revision?
 - **Adequate:** understandable and broadly correct, but still classroom-like.
 - **Developing:** language control exists, but documentary quality remains inconsistent.
 - **Weak:** meaning is partially present, but structure and terminology are not yet reliable.
+

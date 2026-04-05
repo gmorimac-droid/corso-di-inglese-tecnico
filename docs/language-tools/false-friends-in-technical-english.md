@@ -1,4 +1,4 @@
-# False Friends in Technical English
+﻿# False Friends in Technical English
 
 ## Purpose of this page
 
@@ -93,7 +93,7 @@ In English, **control** often implies active regulation or command, not only che
 - Italian **argomento** is often better translated as **topic**, **subject**, or **issue**
 
 ### Example
-- *The main topic of today’s review is connector maintainability.*
+- *The main topic of todayâ€™s review is connector maintainability.*
 - *The report presents a strong argument for retaining the current layout.*
 
 ## 9. library vs libreria
@@ -144,7 +144,7 @@ In English, **control** often implies active regulation or command, not only che
 ### Example
 *The implementation of the revised interface logic reduced configuration error risk.*
 
-## 14. eventuality vs eventualità
+## 14. eventuality vs eventualitÃ 
 
 This pair can also mislead learners.
 
@@ -215,13 +215,14 @@ When a word looks "too easy" because it resembles Italian closely, pause and ver
 
 ## Quick-reference examples
 
-- *attuale* → **current**, not automatically **actual**
-- *eventuale* → **possible / potential / if required**, not automatically **eventual**
-- *sensibile* → **sensitive**, not **sensible**
-- *sopportare* → often **withstand**, not always **support**
-- *controllare* → often **check / inspect / verify / review**, not always **control**
+- *attuale* â†’ **current**, not automatically **actual**
+- *eventuale* â†’ **possible / potential / if required**, not automatically **eventual**
+- *sensibile* â†’ **sensitive**, not **sensible**
+- *sopportare* â†’ often **withstand**, not always **support**
+- *controllare* â†’ often **check / inspect / verify / review**, not always **control**
 
 ## Final note
 
 !!! tip "Similarity is not reliability"
-    In technical English, words that look familiar are often the most dangerous because they reduce the learner’s instinct to verify meaning. Good professional writing requires disciplined lexical checking, especially when a term appears deceptively transparent.
+    In technical English, words that look familiar are often the most dangerous because they reduce the learnerâ€™s instinct to verify meaning. Good professional writing requires disciplined lexical checking, especially when a term appears deceptively transparent.
+

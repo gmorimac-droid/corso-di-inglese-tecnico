@@ -1,4 +1,4 @@
-# Oral Communication Tasks
+﻿# Oral Communication Tasks
 
 ## Purpose
 
@@ -8,7 +8,7 @@ The purpose of this page is not to train casual conversation. It is to train **s
 
 ---
 
-## Task 1 — System Briefing
+## Task 1 â€” System Briefing
 
 Prepare a two-minute briefing on one of the following:
 - monitoring unit;
@@ -28,7 +28,7 @@ The briefing should be clear, structured, and terminology-controlled.
 
 ---
 
-## Task 2 — Test Update
+## Task 2 â€” Test Update
 
 You are asked to update the team after an environmental test.
 
@@ -50,7 +50,7 @@ Deliver a spoken update of 60 to 90 seconds.
 
 ---
 
-## Task 3 — Fault Explanation
+## Task 3 â€” Fault Explanation
 
 Explain the following fault case orally:
 - intermittent communication loss;
@@ -64,7 +64,7 @@ End with one preventive recommendation.
 
 ---
 
-## Task 4 — Meeting Contribution
+## Task 4 â€” Meeting Contribution
 
 Imagine you are in a design review meeting. You need to comment on the revised bracket design.
 
@@ -79,7 +79,7 @@ State your evaluation in 5 to 7 sentences.
 
 ---
 
-## Task 5 — Asking for Clarification
+## Task 5 â€” Asking for Clarification
 
 Prepare three oral clarification questions for each topic:
 1. unclear revision status of a document;
@@ -92,7 +92,7 @@ Questions should be precise and professional.
 
 ---
 
-## Task 6 — Maintenance Handover
+## Task 6 â€” Maintenance Handover
 
 Simulate a maintenance handover at the end of a shift.
 
@@ -107,7 +107,7 @@ Deliver a concise spoken handover of about one minute.
 
 ---
 
-## Task 7 — Safety Brief
+## Task 7 â€” Safety Brief
 
 Prepare a short safety briefing before maintenance activity involving enclosure access.
 
@@ -119,7 +119,7 @@ Prepare a short safety briefing before maintenance activity involving enclosure 
 
 ---
 
-## Task 8 — Civil vs Defence Register Awareness
+## Task 8 â€” Civil vs Defence Register Awareness
 
 Explain the same system in two oral registers:
 - version A for a general industrial engineering audience;
@@ -130,7 +130,7 @@ Identify how terminology changes while maintaining professional neutrality.
 
 ---
 
-## Task 9 — Oral Summary from Notes
+## Task 9 â€” Oral Summary from Notes
 
 Convert the notes below into a short oral summary:
 - revised interface layout;
@@ -143,7 +143,7 @@ Convert the notes below into a short oral summary:
 
 ---
 
-## Task 10 — Repository-Ready Speaking Script
+## Task 10 â€” Repository-Ready Speaking Script
 
 Write a spoken script that could later be stored in the repository as a model briefing. Choose one topic:
 - test status update;
@@ -160,3 +160,4 @@ The script should be suitable for:
 - oral rehearsal;
 - teaching demonstration;
 - adaptation into a briefing template.
+

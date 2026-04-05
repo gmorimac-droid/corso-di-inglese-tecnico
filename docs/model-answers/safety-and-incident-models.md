@@ -1,4 +1,4 @@
-# Safety and Incident Models
+﻿# Safety and Incident Models
 
 !!! note "How to read model answers"
     Model answers should be analysed, not memorised. Compare them against your own draft to identify improvements in structure, evidence handling, terminology, and documentary usefulness.
@@ -14,3 +14,4 @@ This answer remains neutral, avoids blame-based wording, and preserves the diffe
 ## Residual-risk wording model
 
 Residual risk remains low provided that the revised handling sequence is applied consistently and that the power-isolation confirmation step is clearly acknowledged before interface access.
+

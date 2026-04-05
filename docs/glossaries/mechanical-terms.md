@@ -1,4 +1,4 @@
-# Mechanical Terms
+﻿# Mechanical Terms
 
 !!! abstract "Scope of this glossary"
     This glossary collects terms frequently used when describing structures, moving parts, loads, tolerances, alignment, and mechanical behaviour. It is particularly useful for maintenance documentation, component description, manufacturing notes, and technical reporting involving physical assemblies.
@@ -9,7 +9,7 @@ Each entry is written for **active professional use**. The definition gives conc
 
 ## Best fit inside this course
 
-- Best aligned with `modules/05-describing-components-and-assemblies.md`, `modules/08-performance-testing-and-evaluation.md`, `modules/13-maintenance-english.md`, and `templates/system-description-template.md`.
+- Best aligned with `modules/05-describing-components-and-assemblies.md`, `modules/08-performance-testing-and-evaluation.md`, `modules/13-maintenance-english.md`, and `document-templates/system-description-template.md`.
 
 ## Glossary entries
 
@@ -185,3 +185,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

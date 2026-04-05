@@ -1,4 +1,4 @@
-# Phrasebank for Email Writing
+﻿# Phrasebank for Email Writing
 
 ## Purpose of this page
 
@@ -123,3 +123,4 @@ A strong request identifies the object, the action, and the time frame. It shoul
 
 !!! note "A good technical email reduces follow-up traffic"
     The best technical emails make it easy for the recipient to understand the context, identify the expected action, and respond without asking for basic clarification.
+

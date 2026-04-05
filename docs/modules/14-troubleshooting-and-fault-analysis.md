@@ -1,4 +1,4 @@
-# Module 14 — Troubleshooting and Fault Analysis
+﻿# Module 14 â€” Troubleshooting and Fault Analysis
 
 
 !!! abstract "Repository intent"
@@ -12,7 +12,7 @@
 | Area | Operational, Maintenance and Safety English |
 | Operational purpose | Troubleshooting language must identify symptoms, evidence, diagnostic actions, and corrective measures without exaggeration or unsupported causal claims. |
 | Primary documentary output | Troubleshooting or anomaly analysis note |
-| Priority companion resources | [Troubleshooting Report Template](../templates/troubleshooting-report-template.md)<br>[Maintenance and Troubleshooting Models](../model-answers/maintenance-and-troubleshooting-models.md)<br>[Safety and Risk Terms](../glossaries/safety-and-risk-terms.md) |
+| Priority companion resources | [Troubleshooting Report Template](../document-templates/troubleshooting-report-template.md)<br>[Maintenance and Troubleshooting Models](../model-answers/maintenance-and-troubleshooting-models.md)<br>[Safety and Risk Terms](../glossaries/safety-and-risk-terms.md) |
 
 !!! tip "How to extract more value from this module"
     Complete the applied task first, then compare your draft against the related template, model answer, or playbook. This sequence produces better professional growth than reading every support page before writing.
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **fault** — a defect or abnormal condition affecting expected function. Example: *Fault should be recorded consistently across related documentation.*
-- **failure** — loss of ability to perform a required function. Example: *Failure should be recorded consistently across related documentation.*
-- **symptom** — an observable sign indicating that a problem may exist. Example: *Symptom should be recorded consistently across related documentation.*
-- **root cause** — the underlying cause that generated the fault or failure. Example: *Root cause should be recorded consistently across related documentation.*
-- **corrective action** — an action taken to remove a detected non-conformity or fault. Example: *Corrective action should be recorded consistently across related documentation.*
-- **workaround** — a temporary measure that reduces impact without fully resolving the cause. Example: *Workaround should be recorded consistently across related documentation.*
-- **fault isolation** — the process of narrowing the problem to a specific element or path. Example: *Fault isolation should be recorded consistently across related documentation.*
-- **intermittent** — occurring irregularly rather than continuously. Example: *Intermittent should be recorded consistently across related documentation.*
-- **replicate** — to reproduce the same behaviour under controlled conditions. Example: *Replicate should be recorded consistently across related documentation.*
-- **evidence trail** — the chain of observations and checks supporting a conclusion. Example: *Evidence trail should be recorded consistently across related documentation.*
+- **fault** â€” a defect or abnormal condition affecting expected function. Example: *Fault should be recorded consistently across related documentation.*
+- **failure** â€” loss of ability to perform a required function. Example: *Failure should be recorded consistently across related documentation.*
+- **symptom** â€” an observable sign indicating that a problem may exist. Example: *Symptom should be recorded consistently across related documentation.*
+- **root cause** â€” the underlying cause that generated the fault or failure. Example: *Root cause should be recorded consistently across related documentation.*
+- **corrective action** â€” an action taken to remove a detected non-conformity or fault. Example: *Corrective action should be recorded consistently across related documentation.*
+- **workaround** â€” a temporary measure that reduces impact without fully resolving the cause. Example: *Workaround should be recorded consistently across related documentation.*
+- **fault isolation** â€” the process of narrowing the problem to a specific element or path. Example: *Fault isolation should be recorded consistently across related documentation.*
+- **intermittent** â€” occurring irregularly rather than continuously. Example: *Intermittent should be recorded consistently across related documentation.*
+- **replicate** â€” to reproduce the same behaviour under controlled conditions. Example: *Replicate should be recorded consistently across related documentation.*
+- **evidence trail** â€” the chain of observations and checks supporting a conclusion. Example: *Evidence trail should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **fault**: typical collocation pattern — *fault management*, *fault verification*, or similar context-based use.
-- **failure**: typical collocation pattern — *failure management*, *failure verification*, or similar context-based use.
-- **symptom**: typical collocation pattern — *symptom management*, *symptom verification*, or similar context-based use.
-- **root cause**: typical collocation pattern — *root cause management*, *root cause verification*, or similar context-based use.
-- **corrective action**: typical collocation pattern — *corrective action management*, *corrective action verification*, or similar context-based use.
+- **fault**: typical collocation pattern â€” *fault management*, *fault verification*, or similar context-based use.
+- **failure**: typical collocation pattern â€” *failure management*, *failure verification*, or similar context-based use.
+- **symptom**: typical collocation pattern â€” *symptom management*, *symptom verification*, or similar context-based use.
+- **root cause**: typical collocation pattern â€” *root cause management*, *root cause verification*, or similar context-based use.
+- **corrective action**: typical collocation pattern â€” *corrective action management*, *corrective action verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — troubleshooting note
+### Worked example â€” troubleshooting note
 
 Intermittent communication loss was reported during startup sequencing. Initial continuity checks did not identify permanent wiring damage. Further analysis showed that the loss of signal occurred only when the connector was subjected to minor lateral movement, indicating a local retention weakness. Replacement of the connector restored stable communication during repeated startup cycles. The evidence therefore supports connector retention degradation as the most probable root cause.
 
@@ -117,7 +117,7 @@ The weak version is understandable but under-specified. It relies on general-lan
 
 ## Mini case study
 
-A team note contains the sentence “root cause confirmed” even though only one temporary test has been performed. Rephrase the diagnostic conclusion so that it matches the level of evidence actually available.
+A team note contains the sentence â€œroot cause confirmedâ€ even though only one temporary test has been performed. Rephrase the diagnostic conclusion so that it matches the level of evidence actually available.
 
 ### Suggested analysis path
 
@@ -175,7 +175,7 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 
 ## Cross-references
 
-- [Troubleshooting Report Template](../templates/troubleshooting-report-template.md)
+- [Troubleshooting Report Template](../document-templates/troubleshooting-report-template.md)
 - [Phrasebank For Reporting](../language-tools/phrasebank-for-reporting.md)
 - [Maintenance And Troubleshooting Exercises](../exercises/maintenance-and-troubleshooting-exercises.md)
 
@@ -240,4 +240,5 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 
 ## Premium cross-reference and repository path
 
-This module should be studied together with [Troubleshooting Report Template](../templates/troubleshooting-report-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+This module should be studied together with [Troubleshooting Report Template](../document-templates/troubleshooting-report-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

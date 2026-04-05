@@ -1,8 +1,8 @@
-# Student Portfolio
+﻿# Student Portfolio
 
 ## Purpose
 
-This page documents the learner’s contribution, development, and revision process during the final project.
+This page documents the learnerâ€™s contribution, development, and revision process during the final project.
 
 It does not replace the technical content of the repository. Its purpose is to show:
 - what was built;
@@ -15,7 +15,7 @@ It does not replace the technical content of the repository. Its purpose is to s
 A good portfolio page should explain:
 
 - the project theme and purpose;
-- the learner’s main contribution;
+- the learnerâ€™s main contribution;
 - the main writing or terminology challenges;
 - the most important improvements made through revision;
 - the key skills developed;

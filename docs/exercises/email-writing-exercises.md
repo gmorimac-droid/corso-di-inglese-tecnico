@@ -1,4 +1,4 @@
-# Email Writing Exercises
+﻿# Email Writing Exercises
 
 ## Purpose
 
@@ -8,7 +8,7 @@ This page develops technical email writing for status updates, clarification req
 
 ---
 
-## Exercise 1 — Subject Line Control
+## Exercise 1 â€” Subject Line Control
 
 Write an appropriate email subject line for each situation:
 1. request for confirmation of test configuration;
@@ -22,7 +22,7 @@ A good subject line is specific, short, and traceable.
 
 ---
 
-## Exercise 2 — Clarification Request
+## Exercise 2 â€” Clarification Request
 
 Write an email requesting clarification on the following issue:
 - interface specification revision number unclear;
@@ -39,7 +39,7 @@ Include:
 
 ---
 
-## Exercise 3 — Reporting an Anomaly by Email
+## Exercise 3 â€” Reporting an Anomaly by Email
 
 Draft an email to report the following:
 - intermittent communication loss observed during testing;
@@ -53,7 +53,7 @@ Professional, factual, non-alarmist.
 
 ---
 
-## Exercise 4 — Follow-Up After Meeting
+## Exercise 4 â€” Follow-Up After Meeting
 
 Write an email summarizing the outcome of a short technical meeting.
 
@@ -68,7 +68,7 @@ The email should function as both summary and action tracker.
 
 ---
 
-## Exercise 5 — Sending a Revised Document
+## Exercise 5 â€” Sending a Revised Document
 
 Write an email accompanying the transmission of a revised technical procedure.
 
@@ -81,7 +81,7 @@ Write an email accompanying the transmission of a revised technical procedure.
 
 ---
 
-## Exercise 6 — Improving Weak Email Writing
+## Exercise 6 â€” Improving Weak Email Writing
 
 Rewrite the email below.
 
@@ -96,7 +96,7 @@ Rewrite the email below.
 
 ---
 
-## Exercise 7 — Managing Tone
+## Exercise 7 â€” Managing Tone
 
 Write two versions of the same message:
 - version A for an internal engineering colleague;
@@ -110,7 +110,7 @@ Explain what changes between the two versions.
 
 ---
 
-## Exercise 8 — Escalation Without Overstatement
+## Exercise 8 â€” Escalation Without Overstatement
 
 Write an escalation email based on the following:
 - unresolved interface ambiguity;
@@ -124,7 +124,7 @@ The email should remain factual, professional, and solution-oriented.
 
 ---
 
-## Exercise 9 — Response to a Request
+## Exercise 9 â€” Response to a Request
 
 Write a reply email confirming that:
 - the revised drawing has been reviewed;
@@ -137,7 +137,7 @@ The email should be concise but complete.
 
 ---
 
-## Exercise 10 — Repository-Ready Email Model
+## Exercise 10 â€” Repository-Ready Email Model
 
 Write a polished email model that could later be reused in the repository as a template. Choose one scenario:
 - request for technical data;
@@ -147,3 +147,4 @@ Write a polished email model that could later be reused in the repository as a t
 
 ### Length
 140 to 220 words.
+

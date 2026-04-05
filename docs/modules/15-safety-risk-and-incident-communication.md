@@ -1,4 +1,4 @@
-# Module 15 — Safety, Risk and Incident Communication
+﻿# Module 15 â€” Safety, Risk and Incident Communication
 
 
 !!! abstract "Repository intent"
@@ -12,7 +12,7 @@
 | Area | Operational, Maintenance and Safety English |
 | Operational purpose | Safety language must support hazard awareness, preventive action, and incident traceability. |
 | Primary documentary output | Safety note or incident communication page |
-| Priority companion resources | [Safety and Risk Terms](../glossaries/safety-and-risk-terms.md)<br>[Safety and Incident Models](../model-answers/safety-and-incident-models.md)<br>[Incident Report Template](../templates/incident-report-template.md) |
+| Priority companion resources | [Safety and Risk Terms](../glossaries/safety-and-risk-terms.md)<br>[Safety and Incident Models](../model-answers/safety-and-incident-models.md)<br>[Incident Report Template](../document-templates/incident-report-template.md) |
 
 !!! tip "How to extract more value from this module"
     Complete the applied task first, then compare your draft against the related template, model answer, or playbook. This sequence produces better professional growth than reading every support page before writing.
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **hazard** — a source or situation with the potential to cause harm. Example: *Hazard should be recorded consistently across related documentation.*
-- **risk** — the combination of likelihood and consequence associated with a hazard. Example: *Risk should be recorded consistently across related documentation.*
-- **mitigation** — an action intended to reduce probability, exposure, or consequence. Example: *Mitigation should be recorded consistently across related documentation.*
-- **protective measure** — a control used to reduce harm or damage. Example: *Protective measure should be recorded consistently across related documentation.*
-- **unsafe condition** — a technical or environmental state that increases risk. Example: *Unsafe condition should be recorded consistently across related documentation.*
-- **unsafe action** — a human action that creates or increases risk. Example: *Unsafe action should be recorded consistently across related documentation.*
-- **incident** — an event that caused or could have caused undesired consequences. Example: *Incident should be recorded consistently across related documentation.*
-- **exposure** — the condition of being subjected to a hazard or stressor. Example: *Exposure should be recorded consistently across related documentation.*
-- **barrier** — a control or safeguard that prevents escalation. Example: *Barrier should be recorded consistently across related documentation.*
-- **severity** — the seriousness of a consequence. Example: *Severity should be recorded consistently across related documentation.*
+- **hazard** â€” a source or situation with the potential to cause harm. Example: *Hazard should be recorded consistently across related documentation.*
+- **risk** â€” the combination of likelihood and consequence associated with a hazard. Example: *Risk should be recorded consistently across related documentation.*
+- **mitigation** â€” an action intended to reduce probability, exposure, or consequence. Example: *Mitigation should be recorded consistently across related documentation.*
+- **protective measure** â€” a control used to reduce harm or damage. Example: *Protective measure should be recorded consistently across related documentation.*
+- **unsafe condition** â€” a technical or environmental state that increases risk. Example: *Unsafe condition should be recorded consistently across related documentation.*
+- **unsafe action** â€” a human action that creates or increases risk. Example: *Unsafe action should be recorded consistently across related documentation.*
+- **incident** â€” an event that caused or could have caused undesired consequences. Example: *Incident should be recorded consistently across related documentation.*
+- **exposure** â€” the condition of being subjected to a hazard or stressor. Example: *Exposure should be recorded consistently across related documentation.*
+- **barrier** â€” a control or safeguard that prevents escalation. Example: *Barrier should be recorded consistently across related documentation.*
+- **severity** â€” the seriousness of a consequence. Example: *Severity should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **hazard**: typical collocation pattern — *hazard management*, *hazard verification*, or similar context-based use.
-- **risk**: typical collocation pattern — *risk management*, *risk verification*, or similar context-based use.
-- **mitigation**: typical collocation pattern — *mitigation management*, *mitigation verification*, or similar context-based use.
-- **protective measure**: typical collocation pattern — *protective measure management*, *protective measure verification*, or similar context-based use.
-- **unsafe condition**: typical collocation pattern — *unsafe condition management*, *unsafe condition verification*, or similar context-based use.
+- **hazard**: typical collocation pattern â€” *hazard management*, *hazard verification*, or similar context-based use.
+- **risk**: typical collocation pattern â€” *risk management*, *risk verification*, or similar context-based use.
+- **mitigation**: typical collocation pattern â€” *mitigation management*, *mitigation verification*, or similar context-based use.
+- **protective measure**: typical collocation pattern â€” *protective measure management*, *protective measure verification*, or similar context-based use.
+- **unsafe condition**: typical collocation pattern â€” *unsafe condition management*, *unsafe condition verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — safety note
+### Worked example â€” safety note
 
 The unit shall not be energised while the front-access connector remains exposed. Failure to install the protective cap may result in contamination ingress and increased risk of interface degradation. If damage to the sealing surface is detected, operation shall be suspended pending technical evaluation.
 
@@ -176,7 +176,7 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 ## Cross-references
 
 - [Phrasebank For Safety](../language-tools/phrasebank-for-safety.md)
-- [Incident Report Template](../templates/incident-report-template.md)
+- [Incident Report Template](../document-templates/incident-report-template.md)
 - [Safety And Risk Terms](../glossaries/safety-and-risk-terms.md)
 
 ## Recommended follow-up
@@ -241,3 +241,4 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 ## Premium cross-reference and repository path
 
 This module should be studied together with [Phrasebank For Safety](../language-tools/phrasebank-for-safety.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

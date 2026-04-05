@@ -1,4 +1,4 @@
-# Functional Language for Technical Communication
+﻿# Functional Language for Technical Communication
 
 ## Purpose of this page
 
@@ -201,3 +201,4 @@ When revising a paragraph, ask the following questions:
 
 !!! note "Functional language reduces ambiguity"
     The more clearly the writer understands the function of a sentence, the easier it becomes to choose the correct structure, modal verb, and level of certainty. This is one of the fastest ways to improve technical English at B2 level and beyond.
+

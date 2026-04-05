@@ -1,4 +1,4 @@
-# Translation Exercises
+﻿# Translation Exercises
 
 ## Purpose
 
@@ -8,29 +8,29 @@ This page focuses on translation and adaptation from Italian into technical Engl
 
 ---
 
-## Exercise 1 — From Italian to Technical English
+## Exercise 1 â€” From Italian to Technical English
 
 Translate the following sentence into professional technical English:
 
-> Il modulo di controllo è installato all'interno dell'involucro protettivo e gestisce la trasmissione dei dati verso l'interfaccia supervisore.
+> Il modulo di controllo Ã¨ installato all'interno dell'involucro protettivo e gestisce la trasmissione dei dati verso l'interfaccia supervisore.
 
 ### Follow-Up
 Write a second version that sounds more formal and documentation-oriented.
 
 ---
 
-## Exercise 2 — Avoiding Literal Translation
+## Exercise 2 â€” Avoiding Literal Translation
 
 Translate the sentence below, but avoid literal translation traps.
 
-> Durante il collaudo è stato riscontrato un leggero aumento del tempo di risposta alle temperature più elevate.
+> Durante il collaudo Ã¨ stato riscontrato un leggero aumento del tempo di risposta alle temperature piÃ¹ elevate.
 
 ### Reflection
-Explain why a literal translation of *collaudo* or *è stato riscontrato* may not always produce the best professional result.
+Explain why a literal translation of *collaudo* or *Ã¨ stato riscontrato* may not always produce the best professional result.
 
 ---
 
-## Exercise 3 — Procedure Translation
+## Exercise 3 â€” Procedure Translation
 
 Translate the following procedural note:
 
@@ -41,7 +41,7 @@ Use controlled procedural English suitable for a technical manual.
 
 ---
 
-## Exercise 4 — Requirement Translation
+## Exercise 4 â€” Requirement Translation
 
 Translate the following into specification language:
 
@@ -52,18 +52,18 @@ The output should sound like a requirement statement, not an instructional sente
 
 ---
 
-## Exercise 5 — Maintenance Narrative Translation
+## Exercise 5 â€” Maintenance Narrative Translation
 
 Translate and improve the following text:
 
-> Durante l'ispezione programmata è stato osservato un allentamento parziale del connettore. Dopo il serraggio e il controllo funzionale, il sistema è tornato in condizioni normali di funzionamento.
+> Durante l'ispezione programmata Ã¨ stato osservato un allentamento parziale del connettore. Dopo il serraggio e il controllo funzionale, il sistema Ã¨ tornato in condizioni normali di funzionamento.
 
 ### Additional Task
 Explain the difference between a simple translation and a report-ready translation.
 
 ---
 
-## Exercise 6 — False Friends Awareness
+## Exercise 6 â€” False Friends Awareness
 
 Translate the sentence below and identify at least two possible false-friend risks.
 
@@ -74,20 +74,20 @@ Pay attention to words such as *eventualmente*, *non conforme*, and *ulteriore*.
 
 ---
 
-## Exercise 7 — Register Adaptation
+## Exercise 7 â€” Register Adaptation
 
 Translate the message below in two ways:
 - version A for an internal technical report;
 - version B for a procedural instruction.
 
-> È necessario prestare particolare attenzione al corretto instradamento dei cavi per evitare abrasioni durante il funzionamento.
+> Ãˆ necessario prestare particolare attenzione al corretto instradamento dei cavi per evitare abrasioni durante il funzionamento.
 
 ### Reflection
 Explain how the function of the text changes the translation.
 
 ---
 
-## Exercise 8 — Improving an Imperfect Translation
+## Exercise 8 â€” Improving an Imperfect Translation
 
 Read the English sentence below and improve it.
 
@@ -100,22 +100,22 @@ Read the English sentence below and improve it.
 
 ---
 
-## Exercise 9 — Translation for Repository Reuse
+## Exercise 9 â€” Translation for Repository Reuse
 
 Translate the following excerpt and make it ready for inclusion in the MkDocs repository.
 
-> Il nuovo supporto riduce la complessità del cablaggio e migliora l'accessibilità in manutenzione, ma richiede un allineamento più accurato durante l'installazione.
+> Il nuovo supporto riduce la complessitÃ  del cablaggio e migliora l'accessibilitÃ  in manutenzione, ma richiede un allineamento piÃ¹ accurato durante l'installazione.
 
 ### Output Requirement
 Write 50 to 80 words and make the tone suitable for a design review or system description page.
 
 ---
 
-## Exercise 10 — Applied Translation Task
+## Exercise 10 â€” Applied Translation Task
 
 Translate the short paragraph below into professional technical English.
 
-> L'unità è destinata all'uso in ambienti industriali controllati. L'installazione in aree soggette a vibrazioni elevate non è raccomandata se non sono previste misure aggiuntive di smorzamento. Le verifiche preliminari devono essere completate prima della messa in servizio.
+> L'unitÃ  Ã¨ destinata all'uso in ambienti industriali controllati. L'installazione in aree soggette a vibrazioni elevate non Ã¨ raccomandata se non sono previste misure aggiuntive di smorzamento. Le verifiche preliminari devono essere completate prima della messa in servizio.
 
 ### Final Review Criteria
 - terminology accuracy;
@@ -123,3 +123,4 @@ Translate the short paragraph below into professional technical English.
 - clarity of constraints;
 - natural English structure;
 - suitability for technical documentation.
+

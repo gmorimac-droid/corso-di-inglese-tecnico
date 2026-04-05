@@ -1,4 +1,4 @@
-# Maintenance Log Template
+﻿# Maintenance Log Template
 
 ## Purpose
 
@@ -102,3 +102,4 @@ Although the issue was resolved locally, repeated inspection of the connector re
 - [Maintenance Terms](../glossaries/maintenance-terms.md)
 - [Maintenance English](../modules/13-maintenance-english.md)
 - [Maintenance and Troubleshooting Exercises](../exercises/maintenance-and-troubleshooting-exercises.md)
+

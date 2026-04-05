@@ -1,4 +1,4 @@
-# Phrasebank for Safety
+﻿# Phrasebank for Safety
 
 ## Purpose of this page
 
@@ -123,3 +123,4 @@ Use **may**, **can**, or **is likely to** when the consequence is plausible but 
 
 !!! warning "Safety language must be actionable"
     A strong safety statement tells the reader what condition matters, what must not happen, what action is required, and what consequence may follow if the instruction is ignored.
+

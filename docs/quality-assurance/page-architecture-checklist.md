@@ -1,4 +1,4 @@
-# Page Architecture Checklist
+﻿# Page Architecture Checklist
 
 ## Purpose
 
@@ -69,3 +69,4 @@ When a page fails architectural review, feedback should be specific. For example
 - "Sections 2 and 4 overlap and should be merged or differentiated."
 - "The examples are relevant, but the reader lacks a clear progression from concept to application."
 - "Cross-links to the glossary and template pages would improve usability."
+

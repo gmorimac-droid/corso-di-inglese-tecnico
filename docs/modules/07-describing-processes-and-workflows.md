@@ -1,4 +1,4 @@
-# Module 07 — Describing Processes and Workflows
+﻿# Module 07 â€” Describing Processes and Workflows
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **workflow** — the organised sequence of activities required to complete a task. Example: *Workflow should be recorded consistently across related documentation.*
-- **sequence** — the order in which steps occur. Example: *Sequence should be recorded consistently across related documentation.*
-- **handover** — the transfer of responsibility, information, or material between actors or stages. Example: *Handover should be recorded consistently across related documentation.*
-- **trigger** — an event or condition that initiates a process or action. Example: *Trigger should be recorded consistently across related documentation.*
-- **decision point** — a stage at which an alternative path is selected based on conditions. Example: *Decision point should be recorded consistently across related documentation.*
-- **precondition** — a condition that must already be satisfied before an action begins. Example: *Precondition should be recorded consistently across related documentation.*
-- **verification step** — an activity performed to confirm that a prior action was successful. Example: *Verification step should be recorded consistently across related documentation.*
-- **parallel activity** — an activity performed at the same time as another. Example: *Parallel activity should be recorded consistently across related documentation.*
-- **escalation** — the transfer of an issue to a higher or more specialised level. Example: *Escalation should be recorded consistently across related documentation.*
-- **closure** — the formal completion of a process or case. Example: *Closure should be recorded consistently across related documentation.*
+- **workflow** â€” the organised sequence of activities required to complete a task. Example: *Workflow should be recorded consistently across related documentation.*
+- **sequence** â€” the order in which steps occur. Example: *Sequence should be recorded consistently across related documentation.*
+- **handover** â€” the transfer of responsibility, information, or material between actors or stages. Example: *Handover should be recorded consistently across related documentation.*
+- **trigger** â€” an event or condition that initiates a process or action. Example: *Trigger should be recorded consistently across related documentation.*
+- **decision point** â€” a stage at which an alternative path is selected based on conditions. Example: *Decision point should be recorded consistently across related documentation.*
+- **precondition** â€” a condition that must already be satisfied before an action begins. Example: *Precondition should be recorded consistently across related documentation.*
+- **verification step** â€” an activity performed to confirm that a prior action was successful. Example: *Verification step should be recorded consistently across related documentation.*
+- **parallel activity** â€” an activity performed at the same time as another. Example: *Parallel activity should be recorded consistently across related documentation.*
+- **escalation** â€” the transfer of an issue to a higher or more specialised level. Example: *Escalation should be recorded consistently across related documentation.*
+- **closure** â€” the formal completion of a process or case. Example: *Closure should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **workflow**: typical collocation pattern — *workflow management*, *workflow verification*, or similar context-based use.
-- **sequence**: typical collocation pattern — *sequence management*, *sequence verification*, or similar context-based use.
-- **handover**: typical collocation pattern — *handover management*, *handover verification*, or similar context-based use.
-- **trigger**: typical collocation pattern — *trigger management*, *trigger verification*, or similar context-based use.
-- **decision point**: typical collocation pattern — *decision point management*, *decision point verification*, or similar context-based use.
+- **workflow**: typical collocation pattern â€” *workflow management*, *workflow verification*, or similar context-based use.
+- **sequence**: typical collocation pattern â€” *sequence management*, *sequence verification*, or similar context-based use.
+- **handover**: typical collocation pattern â€” *handover management*, *handover verification*, or similar context-based use.
+- **trigger**: typical collocation pattern â€” *trigger management*, *trigger verification*, or similar context-based use.
+- **decision point**: typical collocation pattern â€” *decision point management*, *decision point verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — maintenance workflow note
+### Worked example â€” maintenance workflow note
 
 Following receipt of the unit, the inspection record is opened and the external condition is verified. If visible damage is identified, the case is immediately escalated for technical review before disassembly. If no damage is observed, the unit proceeds to functional verification. Once the inspection and test stages have been completed, the findings are recorded and the unit is either released for service or routed to corrective maintenance.
 
@@ -176,7 +176,7 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 ## Cross-references
 
 - [Linking Words For Technical Writing](../language-tools/linking-words-for-technical-writing.md)
-- [Meeting Notes Template](../templates/meeting-notes-template.md)
+- [Meeting Notes Template](../document-templates/meeting-notes-template.md)
 - [13 Maintenance English](../modules/13-maintenance-english.md)
 
 ## Recommended follow-up
@@ -240,4 +240,5 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 
 ## Premium cross-reference and repository path
 
-This module should be studied together with [Maintenance Log Template](../templates/maintenance-log-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+This module should be studied together with [Maintenance Log Template](../document-templates/maintenance-log-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

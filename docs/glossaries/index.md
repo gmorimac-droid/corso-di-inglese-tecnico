@@ -1,4 +1,4 @@
-# Glossaries
+﻿# Glossaries
 
 ## What This Section Contains
 
@@ -75,7 +75,7 @@ The glossaries work best when used together with:
 - [Modules](../modules/index.md)
 - [Language Tools](../language-tools/index.md)
 - [Exercises](../exercises/index.md)
-- [Templates and Models](../templates/index.md)
+- [Templates and Models](../document-templates/index.md)
 
 ## Practical Advice
 

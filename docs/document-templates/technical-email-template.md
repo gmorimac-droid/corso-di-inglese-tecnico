@@ -1,4 +1,4 @@
-# Technical Email Template
+﻿# Technical Email Template
 
 ## Purpose
 
@@ -14,11 +14,11 @@ A technical email should be concise, traceable, and action-oriented. It should n
 The subject line should allow the recipient to understand the topic immediately.
 
 **Recommended patterns:**
-- `Request for technical confirmation – [system/component]`
-- `Status update – [project/activity]`
+- `Request for technical confirmation â€“ [system/component]`
+- `Status update â€“ [project/activity]`
 - `Review comments on revision [X]`
-- `Issue observed during testing – [short identifier]`
-- `Action required by [date] – [topic]`
+- `Issue observed during testing â€“ [short identifier]`
+- `Action required by [date] â€“ [topic]`
 
 ### Opening
 The opening should state the reason for the message without unnecessary preamble.
@@ -120,7 +120,7 @@ Technical Documentation and Review
 
 ## Style Notes
 
-- Avoid conversational wording such as “just checking”, “a quick thing”, or “it seems okay”.
+- Avoid conversational wording such as â€œjust checkingâ€, â€œa quick thingâ€, or â€œit seems okayâ€.
 - Avoid unexplained abbreviations unless shared understanding is already established.
 - Use separate paragraphs for context and action.
 - Do not hide the request in the final line.
@@ -146,3 +146,4 @@ Use this template together with:
 - [Phrasebank for Email Writing](../language-tools/phrasebank-for-email-writing.md)
 - [Technical Writing Module](../modules/09-principles-of-technical-writing.md)
 - [Email Writing Exercises](../exercises/email-writing-exercises.md)
+

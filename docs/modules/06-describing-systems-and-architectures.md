@@ -1,4 +1,4 @@
-# Module 06 — Describing Systems and Architectures
+﻿# Module 06 â€” Describing Systems and Architectures
 
 
 !!! abstract "Repository intent"
@@ -12,7 +12,7 @@
 | Area | Engineering Communication |
 | Operational purpose | System description moves beyond single objects and requires the writer to show hierarchy, interaction, and purpose. |
 | Primary documentary output | System overview page with interface logic |
-| Priority companion resources | [Systems Engineering Terms](../glossaries/systems-engineering-terms.md)<br>[System Description Template](../templates/system-description-template.md)<br>[Technical Description Models](../model-answers/technical-description-models.md) |
+| Priority companion resources | [Systems Engineering Terms](../glossaries/systems-engineering-terms.md)<br>[System Description Template](../document-templates/system-description-template.md)<br>[Technical Description Models](../model-answers/technical-description-models.md) |
 
 !!! tip "How to extract more value from this module"
     Complete the applied task first, then compare your draft against the related template, model answer, or playbook. This sequence produces better professional growth than reading every support page before writing.
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **architecture** — the high-level organisation of a system and the relationships between its elements. Example: *Architecture should be recorded consistently across related documentation.*
-- **subsystem** — a major functional element within a larger system. Example: *Subsystem should be recorded consistently across related documentation.*
-- **interface** — the point at which information, energy, material, or control is exchanged. Example: *Interface should be recorded consistently across related documentation.*
-- **data flow** — the movement of information through a system. Example: *Data flow should be recorded consistently across related documentation.*
-- **control logic** — the rules or mechanisms by which the system responds to inputs and states. Example: *Control logic should be recorded consistently across related documentation.*
-- **redundancy** — the deliberate duplication of elements to increase availability or resilience. Example: *Redundancy should be recorded consistently across related documentation.*
-- **integration** — the combination of elements into a coordinated whole. Example: *Integration should be recorded consistently across related documentation.*
-- **dependency** — a relation in which one element relies on another. Example: *Dependency should be recorded consistently across related documentation.*
-- **state** — a defined system condition that influences behaviour. Example: *State should be recorded consistently across related documentation.*
-- **operational mode** — a specific configuration of system behaviour or use. Example: *Operational mode should be recorded consistently across related documentation.*
+- **architecture** â€” the high-level organisation of a system and the relationships between its elements. Example: *Architecture should be recorded consistently across related documentation.*
+- **subsystem** â€” a major functional element within a larger system. Example: *Subsystem should be recorded consistently across related documentation.*
+- **interface** â€” the point at which information, energy, material, or control is exchanged. Example: *Interface should be recorded consistently across related documentation.*
+- **data flow** â€” the movement of information through a system. Example: *Data flow should be recorded consistently across related documentation.*
+- **control logic** â€” the rules or mechanisms by which the system responds to inputs and states. Example: *Control logic should be recorded consistently across related documentation.*
+- **redundancy** â€” the deliberate duplication of elements to increase availability or resilience. Example: *Redundancy should be recorded consistently across related documentation.*
+- **integration** â€” the combination of elements into a coordinated whole. Example: *Integration should be recorded consistently across related documentation.*
+- **dependency** â€” a relation in which one element relies on another. Example: *Dependency should be recorded consistently across related documentation.*
+- **state** â€” a defined system condition that influences behaviour. Example: *State should be recorded consistently across related documentation.*
+- **operational mode** â€” a specific configuration of system behaviour or use. Example: *Operational mode should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **architecture**: typical collocation pattern — *architecture management*, *architecture verification*, or similar context-based use.
-- **subsystem**: typical collocation pattern — *subsystem management*, *subsystem verification*, or similar context-based use.
-- **interface**: typical collocation pattern — *interface management*, *interface verification*, or similar context-based use.
-- **data flow**: typical collocation pattern — *data flow management*, *data flow verification*, or similar context-based use.
-- **control logic**: typical collocation pattern — *control logic management*, *control logic verification*, or similar context-based use.
+- **architecture**: typical collocation pattern â€” *architecture management*, *architecture verification*, or similar context-based use.
+- **subsystem**: typical collocation pattern â€” *subsystem management*, *subsystem verification*, or similar context-based use.
+- **interface**: typical collocation pattern â€” *interface management*, *interface verification*, or similar context-based use.
+- **data flow**: typical collocation pattern â€” *data flow management*, *data flow verification*, or similar context-based use.
+- **control logic**: typical collocation pattern â€” *control logic management*, *control logic verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — architecture summary
+### Worked example â€” architecture summary
 
 The monitoring architecture is divided into three main subsystems: sensing, processing, and communication. The sensing subsystem acquires raw environmental and equipment-status data. The processing subsystem filters, validates, and stores the relevant values while generating threshold-based events. The communication subsystem routes selected information to the operator interface and to the maintenance port. A modular architecture has been adopted to simplify replacement, isolate faults, and support configuration growth.
 
@@ -176,7 +176,7 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 ## Cross-references
 
 - [Systems Engineering Terms](../glossaries/systems-engineering-terms.md)
-- [System Description Template](../templates/system-description-template.md)
+- [System Description Template](../document-templates/system-description-template.md)
 - [08 Performance Testing And Evaluation](../modules/08-performance-testing-and-evaluation.md)
 
 ## Recommended follow-up
@@ -241,3 +241,4 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 ## Premium cross-reference and repository path
 
 This module should be studied together with [Systems Engineering Terms](../glossaries/systems-engineering-terms.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

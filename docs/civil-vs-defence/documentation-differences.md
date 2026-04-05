@@ -1,4 +1,4 @@
-# Documentation Differences
+﻿# Documentation Differences
 
 ## Purpose
 
@@ -52,7 +52,7 @@ Civil documents often prioritise usability and product clarity. Defence-oriented
 
 ## 2. Traceability Requirements
 
-In many civil contexts, traceability is important but may remain proportionate to the document’s role. In more formal programme environments, especially public-sector or defence-related ones, traceability often becomes much more explicit.
+In many civil contexts, traceability is important but may remain proportionate to the documentâ€™s role. In more formal programme environments, especially public-sector or defence-related ones, traceability often becomes much more explicit.
 
 Typical traceability elements include:
 
@@ -170,3 +170,4 @@ Take a short technical paragraph and ask:
 ## Final Guidance
 
 Documentation differences across sectors are real, but they should not be exaggerated. Good technical writing remains grounded in the same fundamentals: clarity, structure, evidence, and discipline. What changes is the degree of control, the framing of performance and support, and the level of governance surrounding the document.
+

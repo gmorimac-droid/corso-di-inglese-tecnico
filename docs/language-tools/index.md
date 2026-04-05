@@ -1,4 +1,4 @@
-# Language Tools
+﻿# Language Tools
 
 ## What This Section Contains
 
@@ -90,7 +90,7 @@ The Language Tools pages are intended to work together with:
 - [Modules](../modules/index.md)
 - [Glossaries](../glossaries/index.md)
 - [Exercises](../exercises/index.md)
-- [Templates and Models](../templates/index.md)
+- [Templates and Models](../document-templates/index.md)
 
 These tools are most useful when they are applied directly in a real task.
 

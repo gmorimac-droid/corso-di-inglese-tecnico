@@ -1,4 +1,4 @@
-# Test Report Template
+﻿# Test Report Template
 
 ## Purpose
 
@@ -76,7 +76,7 @@ The objective of the test was to verify actuator stroke performance across the d
 The tested item was actuator assembly revision B configured with the standard control interface and nominal supply conditions.
 
 ## 3. Test Conditions
-Testing was conducted at ambient temperatures ranging from -20°C to +55°C. The unit was tested under standard bench conditions with repeated stroke cycles.
+Testing was conducted at ambient temperatures ranging from -20Â°C to +55Â°C. The unit was tested under standard bench conditions with repeated stroke cycles.
 
 ## 4. Test Method
 The actuator was commanded through repeated full-stroke cycles at each temperature point. Response time and stroke completion were monitored and recorded.
@@ -120,3 +120,4 @@ The test objective was achieved. The actuator remained operational throughout th
 - [Performance, Testing and Evaluation](../modules/08-performance-testing-and-evaluation.md)
 - [Phrasebank for Reporting](../language-tools/phrasebank-for-reporting.md)
 - [Report Writing Exercises](../exercises/report-writing-exercises.md)
+

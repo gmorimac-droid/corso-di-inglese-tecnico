@@ -1,4 +1,4 @@
-# Exercises
+﻿# Exercises
 
 ## What This Section Contains
 
@@ -112,5 +112,5 @@ Some tasks are slightly denser in content. In those cases, the goal is not perfe
 - [Modules](../modules/index.md)
 - [Glossaries](../glossaries/index.md)
 - [Language Tools](../language-tools/index.md)
-- [Templates and Models](../templates/index.md)
+- [Templates and Models](../document-templates/index.md)
 - [Final Project](../final-project/project-overview.md)

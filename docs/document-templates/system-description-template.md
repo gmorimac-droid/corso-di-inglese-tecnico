@@ -1,4 +1,4 @@
-# System Description Template
+﻿# System Description Template
 
 ## Purpose
 
@@ -96,3 +96,4 @@ Routine inspection should include connector retention, enclosure integrity, and 
 - [Describing Systems and Architectures](../modules/06-describing-systems-and-architectures.md)
 - [Phrasebank for Description](../language-tools/phrasebank-for-description.md)
 - [Technical Description Exercises](../exercises/technical-description-exercises.md)
+

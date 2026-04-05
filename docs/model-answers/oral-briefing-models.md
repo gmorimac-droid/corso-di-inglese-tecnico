@@ -1,4 +1,4 @@
-# Oral Briefing Models
+﻿# Oral Briefing Models
 
 !!! note "How to read model answers"
     Model answers should be analysed, not memorised. Compare them against your own draft to identify improvements in structure, evidence handling, terminology, and documentary usefulness.
@@ -10,3 +10,4 @@ Good morning. This update concerns the intermittent startup communication issue 
 ## Why this works
 
 The briefing is strong because it follows a clear sequence: context, evidence, interpretation, current action, and evidence boundary. It sounds professional without becoming unnecessarily formal.
+

@@ -1,4 +1,4 @@
-# Systems Engineering Terms
+﻿# Systems Engineering Terms
 
 !!! abstract "Scope of this glossary"
     This glossary introduces terminology used when engineers move from single components to integrated capability, lifecycle planning, interfaces, and requirement-driven development. The entries are particularly useful in architecture pages, programme reviews, traceability discussions, and integration reports.
@@ -185,3 +185,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

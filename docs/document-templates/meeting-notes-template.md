@@ -1,4 +1,4 @@
-# Meeting Notes Template
+﻿# Meeting Notes Template
 
 ## Purpose
 
@@ -28,7 +28,7 @@ A professional set of meeting notes should normally include:
 # [Meeting Title]
 
 **Date:** [DD Month YYYY]  
-**Time:** [Start–End]  
+**Time:** [Startâ€“End]  
 **Format:** [In person / Remote / Hybrid]  
 **Chair:** [Name]  
 **Participants:** [List of attendees]  
@@ -72,7 +72,7 @@ A professional set of meeting notes should normally include:
 # Electrical Interface Review Meeting
 
 **Date:** 18 April 2026  
-**Time:** 10:00–11:15  
+**Time:** 10:00â€“11:15  
 **Format:** Remote  
 **Chair:** Systems Engineering Lead  
 **Participants:** Systems, Electrical Design, Integration, Technical Documentation  
@@ -129,3 +129,4 @@ Follow-up will take place by document review unless unresolved issues remain aft
 - [Phrasebank for Meetings](../language-tools/phrasebank-for-meetings.md)
 - [Reports, Summaries and Meeting Notes](../modules/11-reports-summaries-and-meeting-notes.md)
 - [Oral Communication Tasks](../exercises/oral-communication-tasks.md)
+

@@ -1,4 +1,4 @@
-# Safety and Risk Terms
+﻿# Safety and Risk Terms
 
 !!! abstract "Scope of this glossary"
     This glossary supports professional communication about hazards, exposure, protective measures, and incident-related reasoning. The goal is to help learners write safety-oriented English that is precise, calm, and non-dramatic, which is a key feature of competent engineering communication.
@@ -9,7 +9,7 @@ Each entry is written for **active professional use**. The definition gives conc
 
 ## Best fit inside this course
 
-- Best aligned with `modules/05-safety-and-compliance.md`, `modules/15-safety-risk-and-incident-communication.md`, `templates/incident-report-template.md`, and `quality-assurance/repository-review-playbook.md`.
+- Best aligned with `modules/05-safety-and-compliance.md`, `modules/15-safety-risk-and-incident-communication.md`, `document-templates/incident-report-template.md`, and `quality-assurance/repository-review-playbook.md`.
 
 ## Glossary entries
 
@@ -182,3 +182,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

@@ -1,4 +1,4 @@
-# Correction Principles
+﻿# Correction Principles
 
 !!! note "Teaching use note"
     These notes are intended to stabilise correction behaviour across tasks, modules, and repository outputs. Use them to keep assessment principles explicit and repeatable.
@@ -37,3 +37,4 @@ When a paragraph lacks purpose or sequence, fixing articles and prepositions wil
 4. Review sentence economy.
 5. Review formatting and heading logic.
 6. Suggest repository-ready revision.
+

@@ -1,4 +1,4 @@
-# Phrasebank for Description
+﻿# Phrasebank for Description
 
 ## Purpose of this page
 
@@ -159,3 +159,4 @@ The following paragraph frames can be reused in module writing, documentation pa
 
 !!! tip "Description should support action"
     In professional engineering communication, a description is strong when it gives the reader enough information to understand the item, review it, inspect it, or discuss it further without guessing what the writer meant.
+

@@ -1,4 +1,4 @@
-# Module 10 — Technical Emails and Professional Messages
+﻿# Module 10 â€” Technical Emails and Professional Messages
 
 
 !!! abstract "Repository intent"
@@ -12,7 +12,7 @@
 | Area | Documentation, Reporting and Technical Writing |
 | Operational purpose | Technical email writing requires controlled tone, clear purpose, efficient structure, and an explicit relationship between message content and expected action. |
 | Primary documentary output | Review-ready technical email |
-| Priority companion resources | [Technical Email Template](../templates/technical-email-template.md)<br>[Technical Email Models](../model-answers/email-models.md)<br>[Phrasebank for Email Writing](../language-tools/phrasebank-for-email-writing.md) |
+| Priority companion resources | [Technical Email Template](../document-templates/technical-email-template.md)<br>[Technical Email Models](../model-answers/email-models.md)<br>[Phrasebank for Email Writing](../language-tools/phrasebank-for-email-writing.md) |
 
 !!! tip "How to extract more value from this module"
     Complete the applied task first, then compare your draft against the related template, model answer, or playbook. This sequence produces better professional growth than reading every support page before writing.
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **subject line** — the short line that identifies the message topic and often signals urgency or function. Example: *Subject line should be recorded consistently across related documentation.*
-- **action required** — an explicit indication that the recipient must do something. Example: *Action required should be recorded consistently across related documentation.*
-- **for review** — a message status indicating that feedback or approval is requested. Example: *For review should be recorded consistently across related documentation.*
-- **attachment reference** — a clear mention of the document or file associated with the message. Example: *Attachment reference should be recorded consistently across related documentation.*
-- **revision** — an updated version of a document or item. Example: *Revision should be recorded consistently across related documentation.*
-- **clarification** — additional explanation requested to resolve uncertainty. Example: *Clarification should be recorded consistently across related documentation.*
-- **deadline** — the time by which a response or action is expected. Example: *Deadline should be recorded consistently across related documentation.*
-- **follow-up** — a further message or action after an earlier communication. Example: *Follow-up should be recorded consistently across related documentation.*
-- **distribution** — the group of recipients receiving the message. Example: *Distribution should be recorded consistently across related documentation.*
-- **traceability** — the ability to reconstruct communication history and decision logic. Example: *Traceability should be recorded consistently across related documentation.*
+- **subject line** â€” the short line that identifies the message topic and often signals urgency or function. Example: *Subject line should be recorded consistently across related documentation.*
+- **action required** â€” an explicit indication that the recipient must do something. Example: *Action required should be recorded consistently across related documentation.*
+- **for review** â€” a message status indicating that feedback or approval is requested. Example: *For review should be recorded consistently across related documentation.*
+- **attachment reference** â€” a clear mention of the document or file associated with the message. Example: *Attachment reference should be recorded consistently across related documentation.*
+- **revision** â€” an updated version of a document or item. Example: *Revision should be recorded consistently across related documentation.*
+- **clarification** â€” additional explanation requested to resolve uncertainty. Example: *Clarification should be recorded consistently across related documentation.*
+- **deadline** â€” the time by which a response or action is expected. Example: *Deadline should be recorded consistently across related documentation.*
+- **follow-up** â€” a further message or action after an earlier communication. Example: *Follow-up should be recorded consistently across related documentation.*
+- **distribution** â€” the group of recipients receiving the message. Example: *Distribution should be recorded consistently across related documentation.*
+- **traceability** â€” the ability to reconstruct communication history and decision logic. Example: *Traceability should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **subject line**: typical collocation pattern — *subject line management*, *subject line verification*, or similar context-based use.
-- **action required**: typical collocation pattern — *action required management*, *action required verification*, or similar context-based use.
-- **for review**: typical collocation pattern — *for review management*, *for review verification*, or similar context-based use.
-- **attachment reference**: typical collocation pattern — *attachment reference management*, *attachment reference verification*, or similar context-based use.
-- **revision**: typical collocation pattern — *revision management*, *revision verification*, or similar context-based use.
+- **subject line**: typical collocation pattern â€” *subject line management*, *subject line verification*, or similar context-based use.
+- **action required**: typical collocation pattern â€” *action required management*, *action required verification*, or similar context-based use.
+- **for review**: typical collocation pattern â€” *for review management*, *for review verification*, or similar context-based use.
+- **attachment reference**: typical collocation pattern â€” *attachment reference management*, *attachment reference verification*, or similar context-based use.
+- **revision**: typical collocation pattern â€” *revision management*, *revision verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,9 +93,9 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — review request email
+### Worked example â€” review request email
 
-Subject: Interface Control Draft v2 — Review Requested by 14 May\n\nDear Team,\n\nPlease find attached revision 2 of the interface control draft for the sensor integration package. The current version incorporates the dimensional update discussed during the last coordination meeting and includes a revised connector table in Section 4.\n\nAction requested:\n- review the connector allocation table in Section 4;\n- confirm whether the proposed retention feature is acceptable from a maintenance perspective;\n- return comments by 14 May so that the document can be frozen for internal release.\n\nAny comments affecting the mounting envelope should be clearly identified as configuration-impacting.\n\nKind regards,
+Subject: Interface Control Draft v2 â€” Review Requested by 14 May\n\nDear Team,\n\nPlease find attached revision 2 of the interface control draft for the sensor integration package. The current version incorporates the dimensional update discussed during the last coordination meeting and includes a revised connector table in Section 4.\n\nAction requested:\n- review the connector allocation table in Section 4;\n- confirm whether the proposed retention feature is acceptable from a maintenance perspective;\n- return comments by 14 May so that the document can be frozen for internal release.\n\nAny comments affecting the mounting envelope should be clearly identified as configuration-impacting.\n\nKind regards,
 
 ### Why the example works
 
@@ -175,7 +175,7 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 
 ## Cross-references
 
-- [Technical Email Template](../templates/technical-email-template.md)
+- [Technical Email Template](../document-templates/technical-email-template.md)
 - [Phrasebank For Email Writing](../language-tools/phrasebank-for-email-writing.md)
 - [Email Writing Exercises](../exercises/email-writing-exercises.md)
 
@@ -240,4 +240,5 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 
 ## Premium cross-reference and repository path
 
-This module should be studied together with [Technical Email Template](../templates/technical-email-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+This module should be studied together with [Technical Email Template](../document-templates/technical-email-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

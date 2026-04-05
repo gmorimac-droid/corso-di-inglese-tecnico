@@ -1,4 +1,4 @@
-# Approved Abbreviations and Acronyms
+﻿# Approved Abbreviations and Acronyms
 
 ## Purpose
 
@@ -30,3 +30,4 @@ Do not create local acronyms unnecessarily. A page becomes harder to review when
 
 - [Document Control Conventions](document-control-conventions.md)
 - [Glossary Governance](../quality-assurance/glossary-governance.md)
+

@@ -1,4 +1,4 @@
-# Appendices
+﻿# Appendices
 
 !!! abstract "Section purpose"
     The appendices gather repository-wide conventions that support control, readability, and long-term maintenance.
@@ -18,3 +18,4 @@ A documentation repository becomes fragile when basic conventions remain implici
 - [Quality Assurance](../quality-assurance/index.md)
 - [Teacher Notes](../teacher-notes/index.md)
 - [Publishing Guide](../final-project/publishing-guide.md)
+

@@ -1,4 +1,4 @@
-# Defence and Dual-Use Terms
+﻿# Defence and Dual-Use Terms
 
 !!! abstract "Scope of this glossary"
     This glossary introduces professional terminology often encountered in engineering environments that support defence, security, resilience, surveillance, support, or dual-use technology programmes. The emphasis remains descriptive, institutional, and documentation-oriented. The aim is to support neutral professional English rather than sensitive operational detail.
@@ -9,7 +9,7 @@ Each entry is written for **active professional use**. The definition gives conc
 
 ## Best fit inside this course
 
-- Best aligned with `modules/16-defence-oriented-technical-english.md`, `civil-vs-defence/terminology-comparison.md`, `civil-vs-defence/documentation-differences.md`, and `templates/briefing-template.md`.
+- Best aligned with `modules/16-defence-oriented-technical-english.md`, `civil-vs-defence/terminology-comparison.md`, `civil-vs-defence/documentation-differences.md`, and `document-templates/briefing-template.md`.
 
 ## Glossary entries
 
@@ -182,3 +182,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

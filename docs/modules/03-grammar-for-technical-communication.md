@@ -1,4 +1,4 @@
-# Module 03 — Grammar for Technical Communication
+﻿# Module 03 â€” Grammar for Technical Communication
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **passive voice** — a grammatical structure in which the action or result is foregrounded rather than the actor. Example: *Passive voice should be recorded consistently across related documentation.*
-- **modal verb** — a verb used to express obligation, possibility, recommendation, or permission. Example: *Modal verb should be recorded consistently across related documentation.*
-- **requirement language** — the set of grammatical choices used to impose or define expected conditions. Example: *Requirement language should be recorded consistently across related documentation.*
-- **conditional statement** — a sentence that expresses what happens if a condition is met or not met. Example: *Conditional statement should be recorded consistently across related documentation.*
-- **relative clause** — a clause that adds precise identifying information to a noun. Example: *Relative clause should be recorded consistently across related documentation.*
-- **sequence marker** — a word or phrase used to show order between steps or events. Example: *Sequence marker should be recorded consistently across related documentation.*
-- **limitation** — a stated boundary on applicability, use, or interpretation. Example: *Limitation should be recorded consistently across related documentation.*
-- **obligation** — a mandatory condition or action. Example: *Obligation should be recorded consistently across related documentation.*
-- **recommendation** — an advised but not mandatory action. Example: *Recommendation should be recorded consistently across related documentation.*
-- **tolerance** — an allowable range of variation. Example: *Tolerance should be recorded consistently across related documentation.*
+- **passive voice** â€” a grammatical structure in which the action or result is foregrounded rather than the actor. Example: *Passive voice should be recorded consistently across related documentation.*
+- **modal verb** â€” a verb used to express obligation, possibility, recommendation, or permission. Example: *Modal verb should be recorded consistently across related documentation.*
+- **requirement language** â€” the set of grammatical choices used to impose or define expected conditions. Example: *Requirement language should be recorded consistently across related documentation.*
+- **conditional statement** â€” a sentence that expresses what happens if a condition is met or not met. Example: *Conditional statement should be recorded consistently across related documentation.*
+- **relative clause** â€” a clause that adds precise identifying information to a noun. Example: *Relative clause should be recorded consistently across related documentation.*
+- **sequence marker** â€” a word or phrase used to show order between steps or events. Example: *Sequence marker should be recorded consistently across related documentation.*
+- **limitation** â€” a stated boundary on applicability, use, or interpretation. Example: *Limitation should be recorded consistently across related documentation.*
+- **obligation** â€” a mandatory condition or action. Example: *Obligation should be recorded consistently across related documentation.*
+- **recommendation** â€” an advised but not mandatory action. Example: *Recommendation should be recorded consistently across related documentation.*
+- **tolerance** â€” an allowable range of variation. Example: *Tolerance should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **passive voice**: typical collocation pattern — *passive voice management*, *passive voice verification*, or similar context-based use.
-- **modal verb**: typical collocation pattern — *modal verb management*, *modal verb verification*, or similar context-based use.
-- **requirement language**: typical collocation pattern — *requirement language management*, *requirement language verification*, or similar context-based use.
-- **conditional statement**: typical collocation pattern — *conditional statement management*, *conditional statement verification*, or similar context-based use.
-- **relative clause**: typical collocation pattern — *relative clause management*, *relative clause verification*, or similar context-based use.
+- **passive voice**: typical collocation pattern â€” *passive voice management*, *passive voice verification*, or similar context-based use.
+- **modal verb**: typical collocation pattern â€” *modal verb management*, *modal verb verification*, or similar context-based use.
+- **requirement language**: typical collocation pattern â€” *requirement language management*, *requirement language verification*, or similar context-based use.
+- **conditional statement**: typical collocation pattern â€” *conditional statement management*, *conditional statement verification*, or similar context-based use.
+- **relative clause**: typical collocation pattern â€” *relative clause management*, *relative clause verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — modal control in a procedure
+### Worked example â€” modal control in a procedure
 
 The connector shall be inspected prior to installation. If contamination is detected, the surface shall be cleaned using an approved method before the unit is energised. The connector may be reused provided that no deformation, cracking, or pin damage is observed. Additional torque verification should be performed after reassembly.
 
@@ -176,7 +176,7 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 ## Cross-references
 
 - [Grammar Reference](../language-tools/grammar-reference.md)
-- [Requirement Template](../templates/requirement-template.md)
+- [Requirement Template](../document-templates/requirement-template.md)
 - [12 Requirements Specifications And Compliance](../modules/12-requirements-specifications-and-compliance.md)
 
 ## Recommended follow-up
@@ -241,3 +241,4 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 ## Premium cross-reference and repository path
 
 This module should be studied together with [Grammar Reference](../language-tools/grammar-reference.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

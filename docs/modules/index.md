@@ -1,4 +1,4 @@
-# Modules
+﻿# Modules
 
 ## What This Section Contains
 
@@ -15,11 +15,11 @@ Each module is designed to help the learner:
 
 | Module Group | Main Focus | Typical Output |
 |---|---|---|
-| Modules 01–04 | foundations, vocabulary, grammar, technical reading | notes, terminology lists, reading annotations |
-| Modules 05–08 | components, systems, processes, performance | descriptions, workflows, summaries |
-| Modules 09–12 | technical writing, emails, reports, requirements | emails, report sections, requirement statements |
-| Modules 13–15 | maintenance, troubleshooting, safety | fault notes, maintenance summaries, safety-related writing |
-| Modules 16–18 | sector-specific language and documentation workflow | terminology mapping, structured documentation, MkDocs output |
+| Modules 01â€“04 | foundations, vocabulary, grammar, technical reading | notes, terminology lists, reading annotations |
+| Modules 05â€“08 | components, systems, processes, performance | descriptions, workflows, summaries |
+| Modules 09â€“12 | technical writing, emails, reports, requirements | emails, report sections, requirement statements |
+| Modules 13â€“15 | maintenance, troubleshooting, safety | fault notes, maintenance summaries, safety-related writing |
+| Modules 16â€“18 | sector-specific language and documentation workflow | terminology mapping, structured documentation, MkDocs output |
 
 ## How to Use the Modules
 
@@ -53,7 +53,7 @@ A practical way to work with each module is:
 
 ## Suggested Learning Progression
 
-### Modules 01–04 — Foundations
+### Modules 01â€“04 â€” Foundations
 These modules build the core technical-English base of the course.
 
 Focus areas:
@@ -62,7 +62,7 @@ Focus areas:
 - reading technical texts;
 - basic documentary awareness.
 
-### Modules 05–08 — Description and Explanation
+### Modules 05â€“08 â€” Description and Explanation
 These modules develop the language needed to describe technical objects and operational logic.
 
 Focus areas:
@@ -71,7 +71,7 @@ Focus areas:
 - processes and workflows;
 - performance, testing, and evaluation.
 
-### Modules 09–12 — Documentary Writing
+### Modules 09â€“12 â€” Documentary Writing
 These modules strengthen structured professional writing.
 
 Focus areas:
@@ -80,7 +80,7 @@ Focus areas:
 - reports and summaries;
 - requirements and compliance language.
 
-### Modules 13–15 — Operational Communication
+### Modules 13â€“15 â€” Operational Communication
 These modules focus on communication in maintenance and risk-related contexts.
 
 Focus areas:
@@ -88,7 +88,7 @@ Focus areas:
 - troubleshooting and fault analysis;
 - safety and incident communication.
 
-### Modules 16–18 — Sector and Publication Layer
+### Modules 16â€“18 â€” Sector and Publication Layer
 These modules extend the course toward specialised and publication-oriented output.
 
 Focus areas:
@@ -112,5 +112,5 @@ Use these sections alongside the modules:
 - [Glossaries](../glossaries/index.md)
 - [Language Tools](../language-tools/index.md)
 - [Exercises](../exercises/index.md)
-- [Templates and Models](../templates/index.md)
+- [Templates and Models](../document-templates/index.md)
 - [Final Project](../final-project/project-overview.md)

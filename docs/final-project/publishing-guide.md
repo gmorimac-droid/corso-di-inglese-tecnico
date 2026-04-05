@@ -1,4 +1,4 @@
-# Publishing Guide
+﻿# Publishing Guide
 
 ## Purpose
 
@@ -26,15 +26,15 @@ A typical repository should contain at least:
 
 ```text
 project-root/
-├── docs/
-│   ├── index.md
-│   ├── modules/
-│   ├── glossaries/
-│   ├── language-tools/
-│   ├── exercises/
-│   ├── templates/
-│   └── final-project/
-├── mkdocs.yml
-├── README.md
-├── requirements.txt
-└── .gitignore
+â”œâ”€â”€ docs/
+â”‚   â”œâ”€â”€ index.md
+â”‚   â”œâ”€â”€ modules/
+â”‚   â”œâ”€â”€ glossaries/
+â”‚   â”œâ”€â”€ language-tools/
+â”‚   â”œâ”€â”€ exercises/
+â”‚   â”œâ”€â”€ document-templates/
+â”‚   â””â”€â”€ final-project/
+â”œâ”€â”€ mkdocs.yml
+â”œâ”€â”€ README.md
+â”œâ”€â”€ requirements.txt
+â””â”€â”€ .gitignore

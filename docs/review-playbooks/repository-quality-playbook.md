@@ -1,4 +1,4 @@
-# Repository Quality Playbook
+﻿# Repository Quality Playbook
 
 !!! note "Playbook use note"
     A playbook is most useful when applied in sequence. Follow the review order rather than correcting isolated sentences without a framework.
@@ -29,3 +29,4 @@ A premium page usually shows evidence of at least one substantial revision pass.
 - Can the user move from module to glossary to template without confusion?
 - Are repeated concepts explained consistently?
 - Does the site feel cumulative rather than repetitive?
+

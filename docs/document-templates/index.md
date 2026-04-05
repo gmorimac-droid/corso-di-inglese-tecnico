@@ -1,4 +1,4 @@
-# Templates and Models
+﻿# Templates and Models
 
 ## What This Section Contains
 
@@ -48,7 +48,7 @@ This is useful for:
 ### 3. Repository Use
 Adapt the template for use in the MkDocs project.
 
-In this case, the template becomes part of the learner’s documentation framework and can support repeated outputs.
+In this case, the template becomes part of the learnerâ€™s documentation framework and can support repeated outputs.
 
 ## Template Set
 

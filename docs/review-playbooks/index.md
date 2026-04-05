@@ -1,4 +1,4 @@
-# Review Playbooks
+﻿# Review Playbooks
 
 !!! note "Playbook use note"
     A playbook is most useful when applied in sequence. Follow the review order rather than correcting isolated sentences without a framework.
@@ -24,3 +24,4 @@ Many learners attempt to improve a document by making isolated sentence changes.
 - [Writing Quality Playbook](writing-quality-playbook.md)
 - [Repository Quality Playbook](repository-quality-playbook.md)
 - [Release Readiness Checklist](../quality-assurance/release-readiness-checklist.md)
+

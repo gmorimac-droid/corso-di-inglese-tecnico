@@ -1,4 +1,4 @@
-# Vocabulary Exercises
+﻿# Vocabulary Exercises
 
 ## Purpose
 
@@ -12,7 +12,7 @@ The exercises below focus not only on knowing a term, but on understanding:
 
 ---
 
-## Exercise 1 — Matching Terms to Definitions
+## Exercise 1 â€” Matching Terms to Definitions
 
 Match each term to the most appropriate definition.
 
@@ -41,7 +41,7 @@ Write one sentence for each term in a realistic engineering context.
 
 ---
 
-## Exercise 2 — Classifying Vocabulary by Function
+## Exercise 2 â€” Classifying Vocabulary by Function
 
 Place the following terms in the correct category:
 - inspect
@@ -68,7 +68,7 @@ Explain why knowing the grammatical category of a technical term helps writing q
 
 ---
 
-## Exercise 3 — Stronger Technical Alternatives
+## Exercise 3 â€” Stronger Technical Alternatives
 
 Replace the weak wording with a more professional technical term or expression.
 
@@ -90,7 +90,7 @@ More than one answer may be acceptable, provided the wording is more precise and
 
 ---
 
-## Exercise 4 — Collocation Awareness
+## Exercise 4 â€” Collocation Awareness
 
 Complete the collocations with the most suitable word.
 
@@ -111,7 +111,7 @@ Write a short paragraph using at least four of the completed collocations.
 
 ---
 
-## Exercise 5 — Near-Synonym Control
+## Exercise 5 â€” Near-Synonym Control
 
 Explain the difference between the following pairs:
 1. fault / failure  
@@ -126,7 +126,7 @@ Do not translate only. Explain the likely difference in engineering use.
 
 ---
 
-## Exercise 6 — Vocabulary in Context
+## Exercise 6 â€” Vocabulary in Context
 
 Complete the paragraph with suitable technical vocabulary.
 
@@ -137,7 +137,7 @@ alignment, operational, wear, inspection, function, interface, verification, com
 
 ---
 
-## Exercise 7 — Civil vs Defence Vocabulary Awareness
+## Exercise 7 â€” Civil vs Defence Vocabulary Awareness
 
 For each pair below, explain whether the terms are equivalent, partially overlapping, or context-dependent.
 
@@ -153,7 +153,7 @@ Write a short note explaining why terminology may change depending on sector, au
 
 ---
 
-## Exercise 8 — Adjective Quality Control
+## Exercise 8 â€” Adjective Quality Control
 
 Choose the better adjective for each sentence and justify your choice.
 
@@ -168,7 +168,7 @@ The learner should prefer adjectives that carry technical meaning over adjective
 
 ---
 
-## Exercise 9 — Build a Mini Glossary
+## Exercise 9 â€” Build a Mini Glossary
 
 Create a mini glossary of ten terms related to one of the topics below:
 - maintenance;
@@ -185,7 +185,7 @@ For each term, include:
 
 ---
 
-## Exercise 10 — Vocabulary for Reuse
+## Exercise 10 â€” Vocabulary for Reuse
 
 Choose five terms from this page and turn them into a reusable phrasebank section for the repository. Your output should include:
 - the term;
@@ -198,3 +198,4 @@ This exercise is designed to produce content that can later be moved to:
 - a glossary page;
 - a language-tools page;
 - a quality-assurance note.
+

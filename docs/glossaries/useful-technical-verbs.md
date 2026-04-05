@@ -1,4 +1,4 @@
-# Useful Technical Verbs
+﻿# Useful Technical Verbs
 
 !!! abstract "Scope of this glossary"
     This glossary focuses on verbs that make technical writing more precise, more formal, and more useful in professional contexts. Weak technical English often depends on a narrow set of everyday verbs such as *do*, *make*, *put*, *fix*, or *check*. The verbs below help learners describe engineering action more accurately.
@@ -182,3 +182,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

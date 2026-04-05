@@ -1,4 +1,4 @@
-# Register and Tone
+﻿# Register and Tone
 
 ## Purpose
 
@@ -183,3 +183,4 @@ When reviewing text, ask the following:
 ## Final Guidance
 
 Professional tone is not achieved by sounding more important. It is achieved by sounding more accurate, more controlled, and more accountable. In both civil and defence-oriented environments, credibility depends less on intensity and more on disciplined phrasing.
+

@@ -1,4 +1,4 @@
-# Module 02 — Engineering Vocabulary Foundations
+﻿# Module 02 â€” Engineering Vocabulary Foundations
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **component** — a discrete part that contributes to the function of an assembly or system. Example: *Component should be recorded consistently across related documentation.*
-- **assembly** — a group of connected parts that operate together as a functional unit. Example: *Assembly should be recorded consistently across related documentation.*
-- **subsystem** — a major functional section within a larger system. Example: *Subsystem should be recorded consistently across related documentation.*
-- **interface** — a point at which systems, subsystems, or users interact. Example: *Interface should be recorded consistently across related documentation.*
-- **housing** — the protective body or enclosure of a component or device. Example: *Housing should be recorded consistently across related documentation.*
-- **actuator** — a device that converts control input into physical movement or action. Example: *Actuator should be recorded consistently across related documentation.*
-- **sensor** — a device that detects or measures a condition or parameter. Example: *Sensor should be recorded consistently across related documentation.*
-- **constraint** — a limit that influences design, operation, or maintenance. Example: *Constraint should be recorded consistently across related documentation.*
-- **reliability** — the probability or tendency of a system to perform as intended over time. Example: *Reliability should be recorded consistently across related documentation.*
-- **serviceable** — still suitable for operation or continued use. Example: *Serviceable should be recorded consistently across related documentation.*
+- **component** â€” a discrete part that contributes to the function of an assembly or system. Example: *Component should be recorded consistently across related documentation.*
+- **assembly** â€” a group of connected parts that operate together as a functional unit. Example: *Assembly should be recorded consistently across related documentation.*
+- **subsystem** â€” a major functional section within a larger system. Example: *Subsystem should be recorded consistently across related documentation.*
+- **interface** â€” a point at which systems, subsystems, or users interact. Example: *Interface should be recorded consistently across related documentation.*
+- **housing** â€” the protective body or enclosure of a component or device. Example: *Housing should be recorded consistently across related documentation.*
+- **actuator** â€” a device that converts control input into physical movement or action. Example: *Actuator should be recorded consistently across related documentation.*
+- **sensor** â€” a device that detects or measures a condition or parameter. Example: *Sensor should be recorded consistently across related documentation.*
+- **constraint** â€” a limit that influences design, operation, or maintenance. Example: *Constraint should be recorded consistently across related documentation.*
+- **reliability** â€” the probability or tendency of a system to perform as intended over time. Example: *Reliability should be recorded consistently across related documentation.*
+- **serviceable** â€” still suitable for operation or continued use. Example: *Serviceable should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,17 +68,17 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **component**: typical collocation pattern — *component management*, *component verification*, or similar context-based use.
-- **assembly**: typical collocation pattern — *assembly management*, *assembly verification*, or similar context-based use.
-- **subsystem**: typical collocation pattern — *subsystem management*, *subsystem verification*, or similar context-based use.
-- **interface**: typical collocation pattern — *interface management*, *interface verification*, or similar context-based use.
-- **housing**: typical collocation pattern — *housing management*, *housing verification*, or similar context-based use.
+- **component**: typical collocation pattern â€” *component management*, *component verification*, or similar context-based use.
+- **assembly**: typical collocation pattern â€” *assembly management*, *assembly verification*, or similar context-based use.
+- **subsystem**: typical collocation pattern â€” *subsystem management*, *subsystem verification*, or similar context-based use.
+- **interface**: typical collocation pattern â€” *interface management*, *interface verification*, or similar context-based use.
+- **housing**: typical collocation pattern â€” *housing management*, *housing verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
 ## Language and grammar focus
 
-Language work focuses on compound nouns, noun stacks, classification language, and frequent verb–noun collocations such as **perform a check**, **withstand vibration**, **monitor temperature**, and **maintain alignment**.
+Language work focuses on compound nouns, noun stacks, classification language, and frequent verbâ€“noun collocations such as **perform a check**, **withstand vibration**, **monitor temperature**, and **maintain alignment**.
 
 From a B2 perspective, the most important target is not merely grammatical correctness but **functional control**. A sentence can be grammatically possible and still fail as engineering communication if it hides the action, weakens the logic, or leaves the reader uncertain about what matters most.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — vocabulary in system hierarchy
+### Worked example â€” vocabulary in system hierarchy
 
 The communication subsystem consists of a control board, two interface modules, a power-conditioning stage, and the associated connectors. Each component performs a different function, but the subsystem is documented as a single replaceable unit for maintenance planning purposes. The distinction between component-level description and subsystem-level description is therefore operationally significant.
 
@@ -241,3 +241,4 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 ## Premium cross-reference and repository path
 
 This module should be studied together with [General Engineering Glossary](../glossaries/general-engineering-glossary.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

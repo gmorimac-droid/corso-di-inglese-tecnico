@@ -1,4 +1,4 @@
-# Phrasebank for Reporting
+﻿# Phrasebank for Reporting
 
 ## Purpose of this page
 
@@ -58,9 +58,9 @@ At this stage, stay close to the evidence. Avoid jumping immediately to explanat
 ### Usage note
 Different phrases imply different evidence strength. Use them deliberately.
 
-- *appears to be related to* → cautious interpretation
-- *was traced to* → stronger diagnostic conclusion
-- *was caused by* → use only when evidence is robust
+- *appears to be related to* â†’ cautious interpretation
+- *was traced to* â†’ stronger diagnostic conclusion
+- *was caused by* â†’ use only when evidence is robust
 
 ## 5. Reporting corrective and preventive action
 
@@ -144,3 +144,4 @@ When these elements are mixed in one uncontrolled sentence, the report becomes h
 
 !!! note "Strong reporting is disciplined reporting"
     Good reporting does not exaggerate and does not hide uncertainty. It records what is known, shows what was done, and states clearly what still remains open.
+

@@ -1,4 +1,4 @@
-# Troubleshooting Report Template
+﻿# Troubleshooting Report Template
 
 ## Purpose
 
@@ -12,7 +12,7 @@ A troubleshooting report is more analytical than a maintenance log and more focu
 
 A strong troubleshooting report should normally follow this progression:
 
-**symptom → initial checks → diagnostic steps → identified cause → corrective action → verification**
+**symptom â†’ initial checks â†’ diagnostic steps â†’ identified cause â†’ corrective action â†’ verification**
 
 This sequence allows later reviewers to understand not only what the final problem was, but also how the conclusion was reached.
 
@@ -121,3 +121,4 @@ Following corrective action, stable communication was confirmed over three conse
 - [Troubleshooting and Fault Analysis](../modules/14-troubleshooting-and-fault-analysis.md)
 - [Phrasebank for Reporting](../language-tools/phrasebank-for-reporting.md)
 - [Maintenance and Troubleshooting Exercises](../exercises/maintenance-and-troubleshooting-exercises.md)
+

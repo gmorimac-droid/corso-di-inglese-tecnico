@@ -1,4 +1,4 @@
-# Module 17 — Procurement and Programme Language
+﻿# Module 17 â€” Procurement and Programme Language
 
 
 !!! abstract "Repository intent"
@@ -12,7 +12,7 @@
 | Area | Defence, Dual-Use and Institutional Language |
 | Operational purpose | Engineering communication at programme level must address deliverables, reviews, revisions, contractual expectations, and configuration discipline. |
 | Primary documentary output | Procurement or programme-language support note |
-| Priority companion resources | [Procurement and Document Control Terms](../glossaries/procurement-and-document-control-terms.md)<br>[Technical Email Template](../templates/technical-email-template.md)<br>[Terminology Comparison](../civil-vs-defence/terminology-comparison.md) |
+| Priority companion resources | [Procurement and Document Control Terms](../glossaries/procurement-and-document-control-terms.md)<br>[Technical Email Template](../document-templates/technical-email-template.md)<br>[Terminology Comparison](../civil-vs-defence/terminology-comparison.md) |
 
 !!! tip "How to extract more value from this module"
     Complete the applied task first, then compare your draft against the related template, model answer, or playbook. This sequence produces better professional growth than reading every support page before writing.
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **deliverable** — a document, product, or output that must be provided under a plan or agreement. Example: *Deliverable should be recorded consistently across related documentation.*
-- **milestone** — a significant project point used to track progress or readiness. Example: *Milestone should be recorded consistently across related documentation.*
-- **baseline** — the approved reference configuration against which changes are controlled. Example: *Baseline should be recorded consistently across related documentation.*
-- **revision status** — the current version and maturity level of a document or item. Example: *Revision status should be recorded consistently across related documentation.*
-- **statement of work** — a formal description of tasks, outputs, and scope. Example: *Statement of work should be recorded consistently across related documentation.*
-- **request for proposal** — a document inviting suppliers to submit structured offers. Example: *Request for proposal should be recorded consistently across related documentation.*
-- **configuration control** — the discipline of managing approved changes to documented items. Example: *Configuration control should be recorded consistently across related documentation.*
-- **stakeholder** — a party with an interest in the outcome or progress of a project. Example: *Stakeholder should be recorded consistently across related documentation.*
-- **acceptance review** — a formal review used to determine whether an item can be accepted. Example: *Acceptance review should be recorded consistently across related documentation.*
-- **compliance matrix** — a structured mapping between requirements and evidence of compliance. Example: *Compliance matrix should be recorded consistently across related documentation.*
+- **deliverable** â€” a document, product, or output that must be provided under a plan or agreement. Example: *Deliverable should be recorded consistently across related documentation.*
+- **milestone** â€” a significant project point used to track progress or readiness. Example: *Milestone should be recorded consistently across related documentation.*
+- **baseline** â€” the approved reference configuration against which changes are controlled. Example: *Baseline should be recorded consistently across related documentation.*
+- **revision status** â€” the current version and maturity level of a document or item. Example: *Revision status should be recorded consistently across related documentation.*
+- **statement of work** â€” a formal description of tasks, outputs, and scope. Example: *Statement of work should be recorded consistently across related documentation.*
+- **request for proposal** â€” a document inviting suppliers to submit structured offers. Example: *Request for proposal should be recorded consistently across related documentation.*
+- **configuration control** â€” the discipline of managing approved changes to documented items. Example: *Configuration control should be recorded consistently across related documentation.*
+- **stakeholder** â€” a party with an interest in the outcome or progress of a project. Example: *Stakeholder should be recorded consistently across related documentation.*
+- **acceptance review** â€” a formal review used to determine whether an item can be accepted. Example: *Acceptance review should be recorded consistently across related documentation.*
+- **compliance matrix** â€” a structured mapping between requirements and evidence of compliance. Example: *Compliance matrix should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **deliverable**: typical collocation pattern — *deliverable management*, *deliverable verification*, or similar context-based use.
-- **milestone**: typical collocation pattern — *milestone management*, *milestone verification*, or similar context-based use.
-- **baseline**: typical collocation pattern — *baseline management*, *baseline verification*, or similar context-based use.
-- **revision status**: typical collocation pattern — *revision status management*, *revision status verification*, or similar context-based use.
-- **statement of work**: typical collocation pattern — *statement of work management*, *statement of work verification*, or similar context-based use.
+- **deliverable**: typical collocation pattern â€” *deliverable management*, *deliverable verification*, or similar context-based use.
+- **milestone**: typical collocation pattern â€” *milestone management*, *milestone verification*, or similar context-based use.
+- **baseline**: typical collocation pattern â€” *baseline management*, *baseline verification*, or similar context-based use.
+- **revision status**: typical collocation pattern â€” *revision status management*, *revision status verification*, or similar context-based use.
+- **statement of work**: typical collocation pattern â€” *statement of work management*, *statement of work verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — programme update note
+### Worked example â€” programme update note
 
 Revision 3 of the interface control document has been released for internal review under the current programme baseline. Closure of Action 07 remains a prerequisite for external issue because the connector allocation table still requires configuration-board confirmation. The associated compliance matrix will be updated once the dimensional review record is formally approved.
 
@@ -176,7 +176,7 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 ## Cross-references
 
 - [Procurement And Document Control Terms](../glossaries/procurement-and-document-control-terms.md)
-- [Meeting Notes Template](../templates/meeting-notes-template.md)
+- [Meeting Notes Template](../document-templates/meeting-notes-template.md)
 - [Publishing Guide](../final-project/publishing-guide.md)
 
 ## Recommended follow-up
@@ -241,3 +241,4 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 ## Premium cross-reference and repository path
 
 This module should be studied together with [Procurement And Document Control Terms](../glossaries/procurement-and-document-control-terms.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

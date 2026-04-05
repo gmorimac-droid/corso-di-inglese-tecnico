@@ -1,4 +1,4 @@
-# Editorial Style Guide
+﻿# Editorial Style Guide
 
 ## Purpose
 
@@ -106,3 +106,4 @@ A reviewer applying this style guide should ask:
 ## Final Rule
 
 The repository should read as if it were maintained by one disciplined editorial team, even when individual pages are drafted at different times or by different contributors.
+

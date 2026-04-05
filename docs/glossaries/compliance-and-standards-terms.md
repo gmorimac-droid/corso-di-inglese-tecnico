@@ -1,4 +1,4 @@
-# Compliance and Standards Terms
+﻿# Compliance and Standards Terms
 
 !!! abstract "Scope of this glossary"
     This glossary supports requirement writing, specification review, standards-based documentation, and formal statements about conformity. It is especially useful for learners who need to produce language that is disciplined, auditable, and suitable for controlled engineering documents.
@@ -9,7 +9,7 @@ Each entry is written for **active professional use**. The definition gives conc
 
 ## Best fit inside this course
 
-- Best aligned with `modules/12-requirements-specifications-and-compliance.md`, `templates/specification-template.md`, `templates/test-report-template.md`, and `quality-assurance/style-and-editorial-guide.md`.
+- Best aligned with `modules/12-requirements-specifications-and-compliance.md`, `document-templates/specification-template.md`, `document-templates/test-report-template.md`, and `quality-assurance/style-and-editorial-guide.md`.
 
 ## Glossary entries
 
@@ -182,3 +182,4 @@ The value of a glossary increases when the learner converts terminology into reu
 ## Cross-reference inside the repository
 
 For applied use, connect this page to the relevant modules, phrasebanks, templates, and exercises. Terminology becomes valuable only when it is reused consistently across the documentation set.
+

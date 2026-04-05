@@ -1,13 +1,13 @@
-# Technical Email Models
+﻿# Technical Email Models
 
 !!! note "How to read model answers"
     Model answers should be analysed, not memorised. Compare them against your own draft to identify improvements in structure, evidence handling, terminology, and documentary usefulness.
 
-## Scenario 1 — Request for revised interface data
+## Scenario 1 â€” Request for revised interface data
 
 ### Model answer
 
-**Subject:** Request for updated connector interface data — Revision B assembly
+**Subject:** Request for updated connector interface data â€” Revision B assembly
 
 Dear Colleagues,
 
@@ -24,11 +24,11 @@ Project Engineering Support
 
 The email is brief, but it still provides context, request, deadline condition, and attachment reference. It avoids excessive politeness formulas that delay the operational point.
 
-## Scenario 2 — Controlled anomaly update
+## Scenario 2 â€” Controlled anomaly update
 
 ### Model answer
 
-**Subject:** Update on startup signal-loss anomaly — current status
+**Subject:** Update on startup signal-loss anomaly â€” current status
 
 Dear Team,
 
@@ -42,3 +42,4 @@ Systems Test Support
 ### Correction note
 
 The sentence *At present, no final root-cause statement is being issued* is professionally strong because it protects the documentary record from premature certainty.
+

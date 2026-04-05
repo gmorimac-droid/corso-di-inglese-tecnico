@@ -1,4 +1,4 @@
-# Common Mistakes for Italian Speakers
+﻿# Common Mistakes for Italian Speakers
 
 ## Purpose of this page
 
@@ -39,7 +39,7 @@ Italian learners often rely on words such as *good*, *bad*, *important*, *critic
 - *within tolerance*
 - *structurally intact*
 
-## 3. Overusing “must” where “shall” or “should” is more appropriate
+## 3. Overusing â€œmustâ€ where â€œshallâ€ or â€œshouldâ€ is more appropriate
 
 Many Italian learners use **must** for all strong statements. In professional technical English, the choice between **shall**, **should**, and **must** often depends on document type.
 
@@ -52,7 +52,7 @@ Many Italian learners use **must** for all strong statements. In professional te
 - *A follow-up inspection should be performed after transport.*
 - *Personnel must not energise the unit while the cover is removed.*
 
-## 4. Confusing “actual” and “attuale”
+## 4. Confusing â€œactualâ€ and â€œattualeâ€
 
 This is one of the most persistent false friends.
 
@@ -65,7 +65,7 @@ This is one of the most persistent false friends.
 ### Correct
 *The current configuration includes revision 3.*
 
-## 5. Writing “make a control” instead of “perform a check”
+## 5. Writing â€œmake a controlâ€ instead of â€œperform a checkâ€
 
 Many direct translations from Italian sound unnatural because they use a generic verb plus noun combination that does not exist in normal English technical collocation.
 
@@ -78,7 +78,7 @@ Many direct translations from Italian sound unnatural because they use a generic
 - *record a value*
 - *submit a revision*
 
-## 6. Using “control” when the real meaning is “check” or “inspect”
+## 6. Using â€œcontrolâ€ when the real meaning is â€œcheckâ€ or â€œinspectâ€
 
 In English technical contexts, **control** often means regulation, command, or active management, not simple verification.
 
@@ -95,7 +95,7 @@ Italian *controllare* may correspond to:
 - *monitor*
 - *control* only when actual regulation or command is involved
 
-## 7. Translating “to support” too widely
+## 7. Translating â€œto supportâ€ too widely
 
 Italian writers sometimes use *support* for every kind of physical or functional help. In English technical writing, verb choice should reflect the exact type of support.
 
@@ -110,7 +110,7 @@ Italian writers sometimes use *support* for every kind of physical or functional
 - weak: *The material supports high temperature.*
 - better: *The material withstands high temperature exposure.*
 
-## 8. Overusing “important”
+## 8. Overusing â€œimportantâ€
 
 *Important* is not wrong, but it is often weak in technical prose.
 
@@ -135,7 +135,7 @@ Prepositions are a persistent error area because direct transfer from Italian is
 - *consistent with*, not *consistent to*
 - *according to*, not *in according with*
 
-## 10. Using “eventually” for “eventualmente”
+## 10. Using â€œeventuallyâ€ for â€œeventualmenteâ€
 
 In English, **eventually** means *in the end* or *after some time*. It does not usually mean *if needed* or *possibly*.
 
@@ -146,7 +146,7 @@ In English, **eventually** means *in the end* or *after some time*. It does not 
 - *If necessary, an additional test can be performed.*
 - *A further test may be performed if required.*
 
-## 11. Translating “sensible” from “sensibile”
+## 11. Translating â€œsensibleâ€ from â€œsensibileâ€
 
 - English **sensible** = reasonable, practical
 - English **sensitive** = sensitive, responsive, delicate
@@ -154,7 +154,7 @@ In English, **eventually** means *in the end* or *after some time*. It does not 
 ### Example
 *The sensor is highly sensitive to pressure variation.*
 
-## 12. Unnatural use of “function” and “have the function to”
+## 12. Unnatural use of â€œfunctionâ€ and â€œhave the function toâ€
 
 A very common transfer pattern is *has the function to*. This is grammatically understandable but stylistically weak.
 
@@ -175,14 +175,14 @@ Italian learners sometimes produce passive-heavy English where the actor remains
 
 Use passive voice, but do not use it as a substitute for structure.
 
-## 14. Writing “is composed by” instead of “is composed of”
+## 14. Writing â€œis composed byâ€ instead of â€œis composed ofâ€
 
 ### Correct forms
 - *The assembly is composed of three sections.*
 - *The system consists of three sections.*
 - *The unit includes a power stage and a control module.*
 
-## 15. False equivalence between “problem” and technical issue types
+## 15. False equivalence between â€œproblemâ€ and technical issue types
 
 Italian *problema* is broad. In English technical writing, more specific nouns are often better.
 
@@ -209,7 +209,7 @@ Italian technical speech may sometimes tolerate stronger evaluative emphasis. En
 ### Better
 *The result remained within the specified tolerance range and met the acceptance criteria.*
 
-## 17. Using “before to” instead of “before + -ing / noun / clause”
+## 17. Using â€œbefore toâ€ instead of â€œbefore + -ing / noun / clauseâ€
 
 ### Incorrect
 *Before to start the test, inspect the connector.*
@@ -219,7 +219,7 @@ Italian technical speech may sometimes tolerate stronger evaluative emphasis. En
 - *Before the test begins, inspect the connector.*
 - *Before test execution, inspect the connector.*
 
-## 18. Using “informations” and other non-count forms incorrectly
+## 18. Using â€œinformationsâ€ and other non-count forms incorrectly
 
 Many technical nouns that are plural in Italian remain uncountable in English.
 
@@ -256,3 +256,4 @@ Before releasing a text, ask:
 
 !!! warning "Do not translate professionalism literally"
     Professional technical English is not obtained by translating Italian word for word at a high level of formality. It is obtained by choosing the wording that makes the engineering meaning precise, reviewable, and proportionate.
+

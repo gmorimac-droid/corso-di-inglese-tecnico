@@ -1,4 +1,4 @@
-# Feedback Bank
+﻿# Feedback Bank
 
 !!! note "Teaching use note"
     These notes are intended to stabilise correction behaviour across tasks, modules, and repository outputs. Use them to keep assessment principles explicit and repeatable.
@@ -24,3 +24,4 @@
 - This page can be improved before publication by tightening headings and adding internal links.
 - The content is valuable, but it still reads like coursework rather than reusable documentation.
 - Add a clearer scope note so the page can function independently within the MkDocs site.
+

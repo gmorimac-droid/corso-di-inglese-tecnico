@@ -1,4 +1,4 @@
-# Module 11 — Reports, Summaries and Meeting Notes
+﻿# Module 11 â€” Reports, Summaries and Meeting Notes
 
 
 !!! abstract "Repository intent"
@@ -12,7 +12,7 @@
 | Area | Documentation, Reporting and Technical Writing |
 | Operational purpose | Reports and meeting records convert technical events into structured knowledge. |
 | Primary documentary output | Summary, report, or meeting-note page |
-| Priority companion resources | [Technical Report Template](../templates/technical-report-template.md)<br>[Report Models](../model-answers/report-models.md)<br>[Meeting Notes Template](../templates/meeting-notes-template.md) |
+| Priority companion resources | [Technical Report Template](../document-templates/technical-report-template.md)<br>[Report Models](../model-answers/report-models.md)<br>[Meeting Notes Template](../document-templates/meeting-notes-template.md) |
 
 !!! tip "How to extract more value from this module"
     Complete the applied task first, then compare your draft against the related template, model answer, or playbook. This sequence produces better professional growth than reading every support page before writing.
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **executive summary** — a short overview of the main purpose, findings, and implications of a document. Example: *Executive summary should be recorded consistently across related documentation.*
-- **finding** — an observed or derived result supported by evidence. Example: *Finding should be recorded consistently across related documentation.*
-- **action item** — a task assigned for follow-up after a meeting or review. Example: *Action item should be recorded consistently across related documentation.*
-- **owner** — the person or role responsible for completing an action. Example: *Owner should be recorded consistently across related documentation.*
-- **due date** — the date by which an action is expected to be completed. Example: *Due date should be recorded consistently across related documentation.*
-- **issue log** — a running list of technical or project issues requiring attention. Example: *Issue log should be recorded consistently across related documentation.*
-- **status update** — a short communication describing current progress and any blockers. Example: *Status update should be recorded consistently across related documentation.*
-- **decision record** — a documented note explaining what was decided and why. Example: *Decision record should be recorded consistently across related documentation.*
-- **attendee** — a person present at a meeting. Example: *Attendee should be recorded consistently across related documentation.*
-- **minutes** — the written record of the important content of a meeting. Example: *Minutes should be recorded consistently across related documentation.*
+- **executive summary** â€” a short overview of the main purpose, findings, and implications of a document. Example: *Executive summary should be recorded consistently across related documentation.*
+- **finding** â€” an observed or derived result supported by evidence. Example: *Finding should be recorded consistently across related documentation.*
+- **action item** â€” a task assigned for follow-up after a meeting or review. Example: *Action item should be recorded consistently across related documentation.*
+- **owner** â€” the person or role responsible for completing an action. Example: *Owner should be recorded consistently across related documentation.*
+- **due date** â€” the date by which an action is expected to be completed. Example: *Due date should be recorded consistently across related documentation.*
+- **issue log** â€” a running list of technical or project issues requiring attention. Example: *Issue log should be recorded consistently across related documentation.*
+- **status update** â€” a short communication describing current progress and any blockers. Example: *Status update should be recorded consistently across related documentation.*
+- **decision record** â€” a documented note explaining what was decided and why. Example: *Decision record should be recorded consistently across related documentation.*
+- **attendee** â€” a person present at a meeting. Example: *Attendee should be recorded consistently across related documentation.*
+- **minutes** â€” the written record of the important content of a meeting. Example: *Minutes should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **executive summary**: typical collocation pattern — *executive summary management*, *executive summary verification*, or similar context-based use.
-- **finding**: typical collocation pattern — *finding management*, *finding verification*, or similar context-based use.
-- **action item**: typical collocation pattern — *action item management*, *action item verification*, or similar context-based use.
-- **owner**: typical collocation pattern — *owner management*, *owner verification*, or similar context-based use.
-- **due date**: typical collocation pattern — *due date management*, *due date verification*, or similar context-based use.
+- **executive summary**: typical collocation pattern â€” *executive summary management*, *executive summary verification*, or similar context-based use.
+- **finding**: typical collocation pattern â€” *finding management*, *finding verification*, or similar context-based use.
+- **action item**: typical collocation pattern â€” *action item management*, *action item verification*, or similar context-based use.
+- **owner**: typical collocation pattern â€” *owner management*, *owner verification*, or similar context-based use.
+- **due date**: typical collocation pattern â€” *due date management*, *due date verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example — meeting summary paragraph
+### Worked example â€” meeting summary paragraph
 
 The review confirmed that the current enclosure design is acceptable from a structural perspective, subject to validation of connector clearance under the revised mounting geometry. Action 04 remains open pending dimensional confirmation from the integration team. No change has been approved for the power-conditioning stage at this time.
 
@@ -175,9 +175,9 @@ Typical weaknesses at this stage include the transfer of Italian sentence rhythm
 
 ## Cross-references
 
-- [Meeting Notes Template](../templates/meeting-notes-template.md)
+- [Meeting Notes Template](../document-templates/meeting-notes-template.md)
 - [Phrasebank For Meetings](../language-tools/phrasebank-for-meetings.md)
-- [Technical Report Template](../templates/technical-report-template.md)
+- [Technical Report Template](../document-templates/technical-report-template.md)
 
 ## Recommended follow-up
 
@@ -240,4 +240,5 @@ For V4-level work, the learner should not simply upload the page. The page shoul
 
 ## Premium cross-reference and repository path
 
-This module should be studied together with [Meeting Notes Template](../templates/meeting-notes-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+This module should be studied together with [Meeting Notes Template](../document-templates/meeting-notes-template.md) and the related template or exercise pages. Premium progression depends on repeated transfer, not on single-pass reading.
+

@@ -1,4 +1,4 @@
-# Report Models
+﻿# Report Models
 
 !!! note "How to read model answers"
     Model answers should be analysed, not memorised. Compare them against your own draft to identify improvements in structure, evidence handling, terminology, and documentary usefulness.
@@ -26,3 +26,4 @@ To show how a short engineering report can remain concise while preserving evide
 ### Review commentary
 
 The report works because each section has a single function. It avoids emotional language and does not claim more certainty than the evidence allows.
+

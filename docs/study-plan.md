@@ -1,4 +1,4 @@
-# Study Plan
+﻿# Study Plan
 
 ## How the Course Can Be Delivered
 
@@ -10,7 +10,7 @@ The most suitable models are shown below.
 
 | Model | Typical Duration | Best Use Case |
 |---|---|---|
-| Extended semester model | 18–22 weeks | academic delivery with steady progression |
+| Extended semester model | 18â€“22 weeks | academic delivery with steady progression |
 | Intensive professional model | 6 blocks over several weeks | workplace upskilling and compact delivery |
 | Annual blended model | long-duration format | portfolio development and integration with other technical work |
 
@@ -44,8 +44,8 @@ This model is particularly effective when the learner is building not only langu
 
 The course is divided into six phases.
 
-### Phase 1 — Foundations
-**Modules 01–04**
+### Phase 1 â€” Foundations
+**Modules 01â€“04**
 
 Main focus:
 - shared vocabulary;
@@ -58,8 +58,8 @@ Expected output:
 - structured notes;
 - simple technical descriptions.
 
-### Phase 2 — Description and Explanation
-**Modules 05–08**
+### Phase 2 â€” Description and Explanation
+**Modules 05â€“08**
 
 Main focus:
 - describing components and assemblies;
@@ -72,8 +72,8 @@ Expected output:
 - process summaries;
 - short evaluation notes.
 
-### Phase 3 — Professional Writing
-**Modules 09–12**
+### Phase 3 â€” Professional Writing
+**Modules 09â€“12**
 
 Main focus:
 - technical writing principles;
@@ -87,8 +87,8 @@ Expected output:
 - requirement statements;
 - structured documentation pages.
 
-### Phase 4 — Operational and Risk-Related Communication
-**Modules 13–15**
+### Phase 4 â€” Operational and Risk-Related Communication
+**Modules 13â€“15**
 
 Main focus:
 - maintenance language;
@@ -100,8 +100,8 @@ Expected output:
 - troubleshooting summaries;
 - safety statements and incident-related writing.
 
-### Phase 5 — Institutional and Sector-Specific Language
-**Modules 16–17**
+### Phase 5 â€” Institutional and Sector-Specific Language
+**Modules 16â€“17**
 
 Main focus:
 - defence-oriented technical English;
@@ -113,7 +113,7 @@ Expected output:
 - neutral professional documentation;
 - controlled terminology in formal contexts.
 
-### Phase 6 — Documentation Publication
+### Phase 6 â€” Documentation Publication
 **Module 18 + Final Project**
 
 Main focus:
@@ -131,26 +131,26 @@ Expected output:
 
 A practical weekly pattern is:
 
-### Day 1 — Input
+### Day 1 â€” Input
 - read the module;
 - identify key concepts;
 - extract new terminology.
 
-### Day 2 — Language Focus
+### Day 2 â€” Language Focus
 - review grammar and phrasebanks;
 - observe patterns and collocations;
 - compare weak and strong wording.
 
-### Day 3 — Applied Task
+### Day 3 â€” Applied Task
 - complete a writing, reading, or speaking activity;
 - produce a first draft.
 
-### Day 4 — Revision and Documentation
+### Day 4 â€” Revision and Documentation
 - revise the draft;
 - update the glossary;
 - convert useful content into Markdown.
 
-### Day 5 — Review
+### Day 5 â€” Review
 - conduct self-review, peer review, or instructor review;
 - improve the output before storing it in the repository.
 
