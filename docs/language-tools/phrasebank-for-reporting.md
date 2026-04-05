@@ -1,4 +1,4 @@
-﻿# Phrasebank for Reporting
+?# Phrasebank for Reporting
 
 ## Purpose of this page
 
@@ -58,9 +58,9 @@ At this stage, stay close to the evidence. Avoid jumping immediately to explanat
 ### Usage note
 Different phrases imply different evidence strength. Use them deliberately.
 
-- *appears to be related to* â†’ cautious interpretation
-- *was traced to* â†’ stronger diagnostic conclusion
-- *was caused by* â†’ use only when evidence is robust
+- *appears to be related to* → cautious interpretation
+- *was traced to* → stronger diagnostic conclusion
+- *was caused by* → use only when evidence is robust
 
 ## 5. Reporting corrective and preventive action
 

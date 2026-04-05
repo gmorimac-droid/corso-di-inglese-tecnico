@@ -1,4 +1,4 @@
-﻿# Module 14 â€” Troubleshooting and Fault Analysis
+?# Module 14 — Troubleshooting and Fault Analysis
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **fault** â€” a defect or abnormal condition affecting expected function. Example: *Fault should be recorded consistently across related documentation.*
-- **failure** â€” loss of ability to perform a required function. Example: *Failure should be recorded consistently across related documentation.*
-- **symptom** â€” an observable sign indicating that a problem may exist. Example: *Symptom should be recorded consistently across related documentation.*
-- **root cause** â€” the underlying cause that generated the fault or failure. Example: *Root cause should be recorded consistently across related documentation.*
-- **corrective action** â€” an action taken to remove a detected non-conformity or fault. Example: *Corrective action should be recorded consistently across related documentation.*
-- **workaround** â€” a temporary measure that reduces impact without fully resolving the cause. Example: *Workaround should be recorded consistently across related documentation.*
-- **fault isolation** â€” the process of narrowing the problem to a specific element or path. Example: *Fault isolation should be recorded consistently across related documentation.*
-- **intermittent** â€” occurring irregularly rather than continuously. Example: *Intermittent should be recorded consistently across related documentation.*
-- **replicate** â€” to reproduce the same behaviour under controlled conditions. Example: *Replicate should be recorded consistently across related documentation.*
-- **evidence trail** â€” the chain of observations and checks supporting a conclusion. Example: *Evidence trail should be recorded consistently across related documentation.*
+- **fault** — a defect or abnormal condition affecting expected function. Example: *Fault should be recorded consistently across related documentation.*
+- **failure** — loss of ability to perform a required function. Example: *Failure should be recorded consistently across related documentation.*
+- **symptom** — an observable sign indicating that a problem may exist. Example: *Symptom should be recorded consistently across related documentation.*
+- **root cause** — the underlying cause that generated the fault or failure. Example: *Root cause should be recorded consistently across related documentation.*
+- **corrective action** — an action taken to remove a detected non-conformity or fault. Example: *Corrective action should be recorded consistently across related documentation.*
+- **workaround** — a temporary measure that reduces impact without fully resolving the cause. Example: *Workaround should be recorded consistently across related documentation.*
+- **fault isolation** — the process of narrowing the problem to a specific element or path. Example: *Fault isolation should be recorded consistently across related documentation.*
+- **intermittent** — occurring irregularly rather than continuously. Example: *Intermittent should be recorded consistently across related documentation.*
+- **replicate** — to reproduce the same behaviour under controlled conditions. Example: *Replicate should be recorded consistently across related documentation.*
+- **evidence trail** — the chain of observations and checks supporting a conclusion. Example: *Evidence trail should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **fault**: typical collocation pattern â€” *fault management*, *fault verification*, or similar context-based use.
-- **failure**: typical collocation pattern â€” *failure management*, *failure verification*, or similar context-based use.
-- **symptom**: typical collocation pattern â€” *symptom management*, *symptom verification*, or similar context-based use.
-- **root cause**: typical collocation pattern â€” *root cause management*, *root cause verification*, or similar context-based use.
-- **corrective action**: typical collocation pattern â€” *corrective action management*, *corrective action verification*, or similar context-based use.
+- **fault**: typical collocation pattern — *fault management*, *fault verification*, or similar context-based use.
+- **failure**: typical collocation pattern — *failure management*, *failure verification*, or similar context-based use.
+- **symptom**: typical collocation pattern — *symptom management*, *symptom verification*, or similar context-based use.
+- **root cause**: typical collocation pattern — *root cause management*, *root cause verification*, or similar context-based use.
+- **corrective action**: typical collocation pattern — *corrective action management*, *corrective action verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example â€” troubleshooting note
+### Worked example — troubleshooting note
 
 Intermittent communication loss was reported during startup sequencing. Initial continuity checks did not identify permanent wiring damage. Further analysis showed that the loss of signal occurred only when the connector was subjected to minor lateral movement, indicating a local retention weakness. Replacement of the connector restored stable communication during repeated startup cycles. The evidence therefore supports connector retention degradation as the most probable root cause.
 
@@ -117,7 +117,7 @@ The weak version is understandable but under-specified. It relies on general-lan
 
 ## Mini case study
 
-A team note contains the sentence â€œroot cause confirmedâ€ even though only one temporary test has been performed. Rephrase the diagnostic conclusion so that it matches the level of evidence actually available.
+A team note contains the sentence “root cause confirmed” even though only one temporary test has been performed. Rephrase the diagnostic conclusion so that it matches the level of evidence actually available.
 
 ### Suggested analysis path
 

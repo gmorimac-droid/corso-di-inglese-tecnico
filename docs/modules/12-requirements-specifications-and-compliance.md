@@ -1,4 +1,4 @@
-﻿# Module 12 â€” Requirements, Specifications and Compliance
+?# Module 12 — Requirements, Specifications and Compliance
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **requirement** â€” a mandatory need or condition that must be satisfied. Example: *Requirement should be recorded consistently across related documentation.*
-- **specification** â€” a detailed statement or document describing required characteristics. Example: *Specification should be recorded consistently across related documentation.*
-- **compliance** â€” the state of conforming to a requirement, standard, or specification. Example: *Compliance should be recorded consistently across related documentation.*
-- **shall statement** â€” a requirement expressed using the modal verb *shall*. Example: *Shall statement should be recorded consistently across related documentation.*
-- **acceptance criterion** â€” a condition used to determine whether something is acceptable. Example: *Acceptance criterion should be recorded consistently across related documentation.*
-- **non-conformance** â€” a failure to satisfy a specified requirement. Example: *Non-conformance should be recorded consistently across related documentation.*
-- **in accordance with** â€” a phrase used to indicate conformity with a document or standard. Example: *In accordance with should be recorded consistently across related documentation.*
-- **tolerance band** â€” the allowable range around a target or nominal value. Example: *Tolerance band should be recorded consistently across related documentation.*
-- **deviation request** â€” a formal request to accept or authorise a departure from baseline requirements. Example: *Deviation request should be recorded consistently across related documentation.*
-- **verification method** â€” the way compliance will be checked, such as test, inspection, analysis, or review. Example: *Verification method should be recorded consistently across related documentation.*
+- **requirement** — a mandatory need or condition that must be satisfied. Example: *Requirement should be recorded consistently across related documentation.*
+- **specification** — a detailed statement or document describing required characteristics. Example: *Specification should be recorded consistently across related documentation.*
+- **compliance** — the state of conforming to a requirement, standard, or specification. Example: *Compliance should be recorded consistently across related documentation.*
+- **shall statement** — a requirement expressed using the modal verb *shall*. Example: *Shall statement should be recorded consistently across related documentation.*
+- **acceptance criterion** — a condition used to determine whether something is acceptable. Example: *Acceptance criterion should be recorded consistently across related documentation.*
+- **non-conformance** — a failure to satisfy a specified requirement. Example: *Non-conformance should be recorded consistently across related documentation.*
+- **in accordance with** — a phrase used to indicate conformity with a document or standard. Example: *In accordance with should be recorded consistently across related documentation.*
+- **tolerance band** — the allowable range around a target or nominal value. Example: *Tolerance band should be recorded consistently across related documentation.*
+- **deviation request** — a formal request to accept or authorise a departure from baseline requirements. Example: *Deviation request should be recorded consistently across related documentation.*
+- **verification method** — the way compliance will be checked, such as test, inspection, analysis, or review. Example: *Verification method should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **requirement**: typical collocation pattern â€” *requirement management*, *requirement verification*, or similar context-based use.
-- **specification**: typical collocation pattern â€” *specification management*, *specification verification*, or similar context-based use.
-- **compliance**: typical collocation pattern â€” *compliance management*, *compliance verification*, or similar context-based use.
-- **shall statement**: typical collocation pattern â€” *shall statement management*, *shall statement verification*, or similar context-based use.
-- **acceptance criterion**: typical collocation pattern â€” *acceptance criterion management*, *acceptance criterion verification*, or similar context-based use.
+- **requirement**: typical collocation pattern — *requirement management*, *requirement verification*, or similar context-based use.
+- **specification**: typical collocation pattern — *specification management*, *specification verification*, or similar context-based use.
+- **compliance**: typical collocation pattern — *compliance management*, *compliance verification*, or similar context-based use.
+- **shall statement**: typical collocation pattern — *shall statement management*, *shall statement verification*, or similar context-based use.
+- **acceptance criterion**: typical collocation pattern — *acceptance criterion management*, *acceptance criterion verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example â€” requirement set
+### Worked example — requirement set
 
 The enclosure shall maintain interface integrity under nominal operating vibration levels. The front-access connector shall remain serviceable after ten installation and removal cycles. Verification shall be performed by inspection and functional continuity test in accordance with the acceptance criteria defined in Section 6.
 

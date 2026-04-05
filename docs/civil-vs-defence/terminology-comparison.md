@@ -1,4 +1,4 @@
-﻿# Terminology Comparison
+?# Terminology Comparison
 
 ## Purpose
 
@@ -34,16 +34,16 @@ The best professional practice is to use the **least inflated term that still ca
 
 ---
 
-## Comparison Table 1 â€” Systems and Platforms
+## Comparison Table 1 — Systems and Platforms
 
 | Civil / Industrial Preference | Defence-Oriented Preference | Professional Note |
 |---|---|---|
-| product | capability element / system | â€œProductâ€ is often commercial. â€œSystemâ€ is generally safer and more neutral. |
-| vehicle | platform | â€œPlatformâ€ is widely used in defence and systems engineering, but can also be used in civil aerospace and robotics. |
-| equipment | asset / mission equipment / system | â€œEquipmentâ€ is broad and neutral. Use more specific wording where possible. |
-| user environment | operational environment | â€œOperational environmentâ€ is broader and often more formal. |
-| service life | operational life / service life | Both may be valid; â€œservice lifeâ€ often remains preferable in technical documentation. |
-| field conditions | deployed conditions / field conditions | â€œDeployedâ€ carries stronger programme or operational context. |
+| product | capability element / system | “Product” is often commercial. “System” is generally safer and more neutral. |
+| vehicle | platform | “Platform” is widely used in defence and systems engineering, but can also be used in civil aerospace and robotics. |
+| equipment | asset / mission equipment / system | “Equipment” is broad and neutral. Use more specific wording where possible. |
+| user environment | operational environment | “Operational environment” is broader and often more formal. |
+| service life | operational life / service life | Both may be valid; “service life” often remains preferable in technical documentation. |
+| field conditions | deployed conditions / field conditions | “Deployed” carries stronger programme or operational context. |
 
 ### Usage Note
 
@@ -51,15 +51,15 @@ Do not force defence-specific vocabulary into documents that are fundamentally t
 
 ---
 
-## Comparison Table 2 â€” Performance and Reliability
+## Comparison Table 2 — Performance and Reliability
 
 | Civil / Industrial Preference | Defence-Oriented Preference | Professional Note |
 |---|---|---|
 | reliability | mission reliability / operational reliability | Add modifiers only when they clarify the context. |
-| durability | robustness / environmental robustness | â€œRobustnessâ€ can be useful, but should be supported by evidence. |
-| availability | readiness / availability | â€œReadinessâ€ is common in programme language; â€œavailabilityâ€ is often better in engineering reporting. |
-| maintainability | supportability / maintainability | â€œSupportabilityâ€ is broader and includes logistics and sustainment dimensions. |
-| fault tolerance | resilience / fault tolerance | â€œResilienceâ€ is broader and may include recovery under degraded conditions. |
+| durability | robustness / environmental robustness | “Robustness” can be useful, but should be supported by evidence. |
+| availability | readiness / availability | “Readiness” is common in programme language; “availability” is often better in engineering reporting. |
+| maintainability | supportability / maintainability | “Supportability” is broader and includes logistics and sustainment dimensions. |
+| fault tolerance | resilience / fault tolerance | “Resilience” is broader and may include recovery under degraded conditions. |
 | interoperability | interoperability | This term is common in both sectors, but often more central in defence and government programmes. |
 
 ### Usage Note
@@ -76,24 +76,24 @@ Terms such as **robust**, **resilient**, and **mission-ready** can become vague 
 
 ---
 
-## Comparison Table 3 â€” Support and Lifecycle Language
+## Comparison Table 3 — Support and Lifecycle Language
 
 | Civil / Industrial Preference | Defence-Oriented Preference | Professional Note |
 |---|---|---|
-| maintenance support | logistic support / sustainment support | â€œSustainmentâ€ is common in longer lifecycle contexts. |
-| spare parts | spares / support items | â€œSparesâ€ is concise but context-dependent. |
+| maintenance support | logistic support / sustainment support | “Sustainment” is common in longer lifecycle contexts. |
+| spare parts | spares / support items | “Spares” is concise but context-dependent. |
 | repair cycle | maintenance cycle / support cycle | Use the term that matches the maintenance concept precisely. |
-| service network | support network / support chain | â€œSupport chainâ€ may imply a broader system. |
-| supply chain constraints | logistics constraints | â€œLogisticsâ€ is broader than procurement alone. |
+| service network | support network / support chain | “Support chain” may imply a broader system. |
+| supply chain constraints | logistics constraints | “Logistics” is broader than procurement alone. |
 | replacement planning | lifecycle sustainment planning | Use extended phrasing only when needed. |
 
 ---
 
-## Comparison Table 4 â€” Monitoring and Protection Functions
+## Comparison Table 4 — Monitoring and Protection Functions
 
 | Neutral Technical Term | More Context-Specific Alternative | Professional Note |
 |---|---|---|
-| monitoring | surveillance / monitoring | â€œMonitoringâ€ is usually preferable in engineering documentation unless a defined programme term exists. |
+| monitoring | surveillance / monitoring | “Monitoring” is usually preferable in engineering documentation unless a defined programme term exists. |
 | protected enclosure | hardened enclosure / reinforced enclosure | Use only if the property is technically defined. |
 | secure communication | protected communication / secure interface | Avoid vague security wording without clear definition. |
 | target detection | object detection / anomaly detection | Prefer the term that matches the actual function. |

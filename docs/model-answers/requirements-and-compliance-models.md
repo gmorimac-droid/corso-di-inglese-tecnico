@@ -1,4 +1,4 @@
-﻿# Requirements and Compliance Models
+?# Requirements and Compliance Models
 
 !!! note "How to read model answers"
     Model answers should be analysed, not memorised. Compare them against your own draft to identify improvements in structure, evidence handling, terminology, and documentary usefulness.
@@ -13,7 +13,7 @@
 
 ## Why the stronger version is better
 
-The stronger version is better because it removes vague adjectives, introduces requirement modality, and links the claim to a defined reference boundary rather than to undefined â€œdifficult conditionsâ€.
+The stronger version is better because it removes vague adjectives, introduces requirement modality, and links the claim to a defined reference boundary rather than to undefined “difficult conditions”.
 
 ## Verification-oriented requirement set
 

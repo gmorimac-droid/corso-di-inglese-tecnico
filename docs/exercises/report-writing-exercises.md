@@ -1,4 +1,4 @@
-﻿# Report Writing Exercises
+?# Report Writing Exercises
 
 ## Purpose
 
@@ -8,7 +8,7 @@ This page trains the learner to write concise but professionally credible report
 
 ---
 
-## Exercise 1 â€” Observation to Report Sentence
+## Exercise 1 — Observation to Report Sentence
 
 Convert the observations below into report-style sentences.
 
@@ -23,14 +23,14 @@ Use a formal technical tone and avoid conversational wording.
 
 ---
 
-## Exercise 2 â€” Mini Test Report
+## Exercise 2 — Mini Test Report
 
 Use the notes below to write a mini test report.
 
 ### Notes
 - test article: actuator assembly;
 - test type: temperature exposure;
-- range: -20Â°C to +55Â°C;
+- range: -20°C to +55°C;
 - result: operational throughout range;
 - observation: response time increased by 8% at upper limit;
 - conclusion: acceptable performance, further endurance testing recommended.
@@ -45,7 +45,7 @@ Target length: 150 to 220 words.
 
 ---
 
-## Exercise 3 â€” Fault Report
+## Exercise 3 — Fault Report
 
 Write a fault report from the following information:
 - symptom: intermittent communication loss;
@@ -60,7 +60,7 @@ Include a recommendation for future builds.
 
 ---
 
-## Exercise 4 â€” Non-Conformance Note
+## Exercise 4 — Non-Conformance Note
 
 A protective enclosure was found to have a measured wall thickness below the documented value.
 
@@ -73,7 +73,7 @@ Write a short non-conformance note including:
 
 ---
 
-## Exercise 5 â€” Executive Summary Practice
+## Exercise 5 — Executive Summary Practice
 
 Summarize the following situation in no more than 90 words:
 
@@ -88,7 +88,7 @@ The summary should be concise, balanced, and decision-oriented.
 
 ---
 
-## Exercise 6 â€” Report Improvement Task
+## Exercise 6 — Report Improvement Task
 
 Improve the report paragraph below.
 
@@ -101,7 +101,7 @@ Improve the report paragraph below.
 
 ---
 
-## Exercise 7 â€” Root Cause Reporting
+## Exercise 7 — Root Cause Reporting
 
 Write a short paragraph explaining the likely root cause of a repeated mounting issue. Use the prompts below:
 - repeated misalignment during installation;
@@ -111,11 +111,11 @@ Write a short paragraph explaining the likely root cause of a repeated mounting 
 - no evidence of material failure.
 
 ### Output Goal
-Your text should resemble the â€œAnalysisâ€ section of a technical report.
+Your text should resemble the “Analysis” section of a technical report.
 
 ---
 
-## Exercise 8 â€” Corrective and Preventive Action Entry
+## Exercise 8 — Corrective and Preventive Action Entry
 
 Draft a CAPA-style entry using the following:
 - issue: abnormal wear on cable guide;
@@ -128,7 +128,7 @@ Write 100 to 140 words.
 
 ---
 
-## Exercise 9 â€” Report Section Headings
+## Exercise 9 — Report Section Headings
 
 Prepare a heading structure for a report on a vibration test campaign. Include at least:
 - scope;
@@ -144,7 +144,7 @@ Under each heading, write one example sentence.
 
 ---
 
-## Exercise 10 â€” Full Applied Report Task
+## Exercise 10 — Full Applied Report Task
 
 Choose one of the following topics and write a short report of 220 to 300 words:
 - thermal monitoring unit validation;

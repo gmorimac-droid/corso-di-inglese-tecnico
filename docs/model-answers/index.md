@@ -1,4 +1,4 @@
-﻿# Model Answers and Guided Response Patterns
+?# Model Answers and Guided Response Patterns
 
 !!! note "How to read model answers"
     Model answers should be analysed, not memorised. Compare them against your own draft to identify improvements in structure, evidence handling, terminology, and documentary usefulness.
@@ -23,7 +23,7 @@ The correct method is:
 2. compare the draft with the model answer;
 3. identify specific differences in wording, structure, and logic;
 4. rewrite the original answer rather than copying the model directly;
-5. record the new phraseology in the learnerâ€™s own glossary or phrasebank.
+5. record the new phraseology in the learner’s own glossary or phrasebank.
 
 ## Premium learning principle
 

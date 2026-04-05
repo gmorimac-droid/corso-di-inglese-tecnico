@@ -1,4 +1,4 @@
-﻿# Module 04 â€” Reading Technical Texts
+?# Module 04 — Reading Technical Texts
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **scope** â€” the coverage and limits of a document or section. Example: *Scope should be recorded consistently across related documentation.*
-- **assumption** â€” a condition accepted as true for the purpose of analysis or operation. Example: *Assumption should be recorded consistently across related documentation.*
-- **constraint** â€” a limit that affects validity or use. Example: *Constraint should be recorded consistently across related documentation.*
-- **warning** â€” a statement indicating a hazard or serious negative consequence. Example: *Warning should be recorded consistently across related documentation.*
-- **caution** â€” a statement indicating risk of damage, error, or undesired condition. Example: *Caution should be recorded consistently across related documentation.*
-- **nominal** â€” referring to the expected or standard operating condition. Example: *Nominal should be recorded consistently across related documentation.*
-- **parameter** â€” a measurable variable or defining characteristic. Example: *Parameter should be recorded consistently across related documentation.*
-- **acceptance criteria** â€” the conditions that must be satisfied for acceptance. Example: *Acceptance criteria should be recorded consistently across related documentation.*
-- **appendix** â€” supporting material placed outside the main body of a document. Example: *Appendix should be recorded consistently across related documentation.*
-- **reference** â€” a cited document, standard, or section used for support. Example: *Reference should be recorded consistently across related documentation.*
+- **scope** — the coverage and limits of a document or section. Example: *Scope should be recorded consistently across related documentation.*
+- **assumption** — a condition accepted as true for the purpose of analysis or operation. Example: *Assumption should be recorded consistently across related documentation.*
+- **constraint** — a limit that affects validity or use. Example: *Constraint should be recorded consistently across related documentation.*
+- **warning** — a statement indicating a hazard or serious negative consequence. Example: *Warning should be recorded consistently across related documentation.*
+- **caution** — a statement indicating risk of damage, error, or undesired condition. Example: *Caution should be recorded consistently across related documentation.*
+- **nominal** — referring to the expected or standard operating condition. Example: *Nominal should be recorded consistently across related documentation.*
+- **parameter** — a measurable variable or defining characteristic. Example: *Parameter should be recorded consistently across related documentation.*
+- **acceptance criteria** — the conditions that must be satisfied for acceptance. Example: *Acceptance criteria should be recorded consistently across related documentation.*
+- **appendix** — supporting material placed outside the main body of a document. Example: *Appendix should be recorded consistently across related documentation.*
+- **reference** — a cited document, standard, or section used for support. Example: *Reference should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **scope**: typical collocation pattern â€” *scope management*, *scope verification*, or similar context-based use.
-- **assumption**: typical collocation pattern â€” *assumption management*, *assumption verification*, or similar context-based use.
-- **constraint**: typical collocation pattern â€” *constraint management*, *constraint verification*, or similar context-based use.
-- **warning**: typical collocation pattern â€” *warning management*, *warning verification*, or similar context-based use.
-- **caution**: typical collocation pattern â€” *caution management*, *caution verification*, or similar context-based use.
+- **scope**: typical collocation pattern — *scope management*, *scope verification*, or similar context-based use.
+- **assumption**: typical collocation pattern — *assumption management*, *assumption verification*, or similar context-based use.
+- **constraint**: typical collocation pattern — *constraint management*, *constraint verification*, or similar context-based use.
+- **warning**: typical collocation pattern — *warning management*, *warning verification*, or similar context-based use.
+- **caution**: typical collocation pattern — *caution management*, *caution verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,9 +93,9 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example â€” extracting data from a technical note
+### Worked example — extracting data from a technical note
 
-The unit is designed for nominal operation between âˆ’20 Â°C and +55 Â°C. Short-duration storage outside this range is permitted only under non-operational conditions and shall not exceed the limits stated in Table 4. The connector interface shall remain protected during transport. Routine verification is required after any exposure to severe vibration or moisture ingress. From a reading perspective, the reader should immediately extract the operational range, the storage limitation, the protective condition, and the trigger for verification.
+The unit is designed for nominal operation between −20 °C and +55 °C. Short-duration storage outside this range is permitted only under non-operational conditions and shall not exceed the limits stated in Table 4. The connector interface shall remain protected during transport. Routine verification is required after any exposure to severe vibration or moisture ingress. From a reading perspective, the reader should immediately extract the operational range, the storage limitation, the protective condition, and the trigger for verification.
 
 ### Why the example works
 

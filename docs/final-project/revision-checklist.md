@@ -1,4 +1,4 @@
-﻿# Revision Checklist
+?# Revision Checklist
 
 ## Purpose
 
@@ -73,9 +73,9 @@ Review the project across six areas:
 - Italian-influenced constructions have been corrected.
 
 ### Typical Problems to Remove
-- *the system is composed by* â†’ use *the system consists of*
-- *it allows to monitor* â†’ use *it allows users to monitor* or *it enables monitoring*
-- *in according to* â†’ use *in accordance with*
+- *the system is composed by* → use *the system consists of*
+- *it allows to monitor* → use *it allows users to monitor* or *it enables monitoring*
+- *in according to* → use *in accordance with*
 - *very important* without explanation
 - *good performance* without measurable or contextual support
 

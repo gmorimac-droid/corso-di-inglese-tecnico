@@ -1,10 +1,10 @@
-﻿# Civil vs Defence
+?# Civil vs Defence
 
 ## Purpose of This Section
 
 Engineering English is not a single monolithic register. The same technical system can be described differently depending on the institutional context, the operational audience, the documentation objective, and the level of sensitivity associated with the programme. In practical terms, a civil engineering report, an industrial maintenance note, a procurement-oriented technical brief, and a defence-adjacent capability description may all refer to similar technologies, yet use different framing, different lexical priorities, and different expectations of precision.
 
-This section examines those differences in a controlled and professional way. Its aim is not to promote a separate â€œmilitary Englishâ€ detached from engineering practice, but to help the learner understand how **technical English shifts across sectors** while preserving core documentation principles such as clarity, traceability, consistency, and functional adequacy.
+This section examines those differences in a controlled and professional way. Its aim is not to promote a separate “military English” detached from engineering practice, but to help the learner understand how **technical English shifts across sectors** while preserving core documentation principles such as clarity, traceability, consistency, and functional adequacy.
 
 ## Why This Section Matters
 
@@ -54,12 +54,12 @@ This section should be used together with:
 - [Procurement and Document Control Terms](../glossaries/procurement-and-document-control-terms.md)
 - [Phrasebank for Description](../language-tools/phrasebank-for-description.md)
 - [Phrasebank for Reporting](../language-tools/phrasebank-for-reporting.md)
-- [Module 16 â€” Defence-Oriented Technical English](../modules/16-defence-oriented-technical-english.md)
-- [Module 17 â€” Procurement and Programme Language](../modules/17-procurement-and-programme-language.md)
+- [Module 16 — Defence-Oriented Technical English](../modules/16-defence-oriented-technical-english.md)
+- [Module 17 — Procurement and Programme Language](../modules/17-procurement-and-programme-language.md)
 
 ## Reader Guidance
 
-This is a documentation and language-training section. The focus is on terminology, register, and professional framing. The objective is to improve the learnerâ€™s ability to write, read, review, and adapt technical content across sectors while maintaining a responsible and engineering-centred style.
+This is a documentation and language-training section. The focus is on terminology, register, and professional framing. The objective is to improve the learner’s ability to write, read, review, and adapt technical content across sectors while maintaining a responsible and engineering-centred style.
 
 ## Editorial Note
 

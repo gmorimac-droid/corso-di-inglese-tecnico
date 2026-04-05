@@ -1,9 +1,9 @@
-﻿# Technical Description Models
+?# Technical Description Models
 
 !!! note "How to read model answers"
     Model answers should be analysed, not memorised. Compare them against your own draft to identify improvements in structure, evidence handling, terminology, and documentary usefulness.
 
-## Scenario 1 â€” Component description
+## Scenario 1 — Component description
 
 ### Prompt
 
@@ -21,7 +21,7 @@ This answer is stronger than a classroom-level description because it does not m
 
 This structure can be reused when describing housings, supports, brackets, covers, clamps, cable guides, or protective features.
 
-## Scenario 2 â€” System overview
+## Scenario 2 — System overview
 
 ### Prompt
 

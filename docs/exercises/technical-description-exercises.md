@@ -1,4 +1,4 @@
-﻿# Technical Description Exercises
+?# Technical Description Exercises
 
 ## Purpose
 
@@ -6,7 +6,7 @@ Describing a system in technical English is a core engineering skill. A good des
 
 ---
 
-## Exercise 1 â€” Component Description
+## Exercise 1 — Component Description
 
 Describe the following component in 80 to 120 words:
 
@@ -23,7 +23,7 @@ Your paragraph should mention:
 
 ---
 
-## Exercise 2 â€” Subsystem Description
+## Exercise 2 — Subsystem Description
 
 Write a structured description of a **sensor module** using the prompts below:
 - detects thermal variations;
@@ -41,7 +41,7 @@ Organize your description into:
 
 ---
 
-## Exercise 3 â€” Weak vs Strong Description
+## Exercise 3 — Weak vs Strong Description
 
 Read the weak description below.
 
@@ -54,7 +54,7 @@ Read the weak description below.
 
 ---
 
-## Exercise 4 â€” System Overview from Notes
+## Exercise 4 — System Overview from Notes
 
 Turn the notes below into a coherent system overview paragraph.
 
@@ -71,7 +71,7 @@ The output should sound like a real engineering overview, not a list converted i
 
 ---
 
-## Exercise 5 â€” Describing Interfaces
+## Exercise 5 — Describing Interfaces
 
 Write a short paragraph describing the interface relationships in the following configuration:
 - sensor module to control unit;
@@ -90,10 +90,10 @@ Use at least four of the following:
 
 ---
 
-## Exercise 6 â€” Description with Constraints
+## Exercise 6 — Description with Constraints
 
 Describe an actuator assembly using the following constraints:
-- must operate from -20Â°C to +55Â°C;
+- must operate from -20°C to +55°C;
 - installed on vibration-prone support frame;
 - requires alignment during installation;
 - accessible for scheduled maintenance;
@@ -104,7 +104,7 @@ Write a paragraph that combines description and engineering constraints naturall
 
 ---
 
-## Exercise 7 â€” Comparative Description
+## Exercise 7 — Comparative Description
 
 Compare **baseline design** and **revised design** using the notes below.
 
@@ -124,7 +124,7 @@ Write a comparative note of 120 to 150 words suitable for a design review.
 
 ---
 
-## Exercise 8 â€” Description for Non-Specialist Stakeholders
+## Exercise 8 — Description for Non-Specialist Stakeholders
 
 Write a concise explanation of a **power distribution unit** for a stakeholder who is not a specialist engineer but must understand its purpose in the system.
 
@@ -133,7 +133,7 @@ Maintain professional language, but reduce unnecessary complexity. The output sh
 
 ---
 
-## Exercise 9 â€” Diagram-to-Text Conversion
+## Exercise 9 — Diagram-to-Text Conversion
 
 Imagine a diagram showing:
 - power source;
@@ -153,7 +153,7 @@ Mention:
 
 ---
 
-## Exercise 10 â€” Repository-Ready Description
+## Exercise 10 — Repository-Ready Description
 
 Prepare a final technical description page fragment for later inclusion in the documentation repository. Choose one of the following topics:
 - monitoring unit;

@@ -1,4 +1,4 @@
-﻿# Grammar Reference for Technical English
+?# Grammar Reference for Technical English
 
 ## Why grammar matters in engineering writing
 
@@ -244,9 +244,9 @@ A technically mature sentence distinguishes between:
 - what was demonstrated.
 
 ### Examples
-- *Surface residue was observed near the connector interface.* â†’ observation
-- *The residue appears to be associated with seal degradation.* â†’ interpretation
-- *Laboratory analysis confirmed seal material breakdown.* â†’ verified conclusion
+- *Surface residue was observed near the connector interface.* → observation
+- *The residue appears to be associated with seal degradation.* → interpretation
+- *Laboratory analysis confirmed seal material breakdown.* → verified conclusion
 
 ### Practical rule
 Do not present an interpretation as a fact unless the evidence supports it.

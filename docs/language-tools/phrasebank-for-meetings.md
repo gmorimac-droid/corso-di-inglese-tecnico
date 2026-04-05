@@ -1,4 +1,4 @@
-﻿# Phrasebank for Meetings
+?# Phrasebank for Meetings
 
 ## Purpose of this page
 
@@ -9,15 +9,15 @@ This phrasebank supports participation in design reviews, integration meetings, 
 ## 1. Opening and framing the meeting
 
 ### Core phrases
-- *The purpose of todayâ€™s review is to...*
+- *The purpose of today’s review is to...*
 - *This meeting is intended to confirm...*
 - *The main open point concerns...*
 - *The discussion is limited to the current configuration baseline.*
-- *Todayâ€™s session focuses on interface allocation and closure criteria.*
+- *Today’s session focuses on interface allocation and closure criteria.*
 - *The objective is to align on technical content before document release.*
 
 ### Expanded example
-*The purpose of todayâ€™s review is to confirm whether the revised interface arrangement is acceptable for the current baseline and to identify any remaining issues that may affect document release.*
+*The purpose of today’s review is to confirm whether the revised interface arrangement is acceptable for the current baseline and to identify any remaining issues that may affect document release.*
 
 ## 2. Introducing an issue or concern
 
@@ -67,7 +67,7 @@ Professional disagreement should focus on evidence, requirement status, or docum
 ### Core phrases
 - *Please update Section 4 to reflect the revised connector allocation.*
 - *Could the integration team provide dimensional confirmation by next Wednesday?*
-- *Please circulate the revised draft after incorporating todayâ€™s comments.*
+- *Please circulate the revised draft after incorporating today’s comments.*
 - *Quality should review the acceptance wording before external issue.*
 - *Can maintenance confirm whether the current access arrangement is workable in service conditions?*
 
@@ -85,7 +85,7 @@ Professional disagreement should focus on evidence, requirement status, or docum
 
 ### Core phrases
 - *To summarise, three points remain open.*
-- *The main outcome of todayâ€™s review is that the design is acceptable in principle, subject to minor updates.*
+- *The main outcome of today’s review is that the design is acceptable in principle, subject to minor updates.*
 - *The document can proceed to the next review stage once the open actions are closed.*
 - *The technical issue is considered understood, but the verification evidence is not yet complete.*
 - *We have alignment on the design intent, but not yet on the final requirement wording.*

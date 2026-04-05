@@ -1,4 +1,4 @@
-﻿# Module 01 â€” Introduction to Technical English
+?# Module 01 — Introduction to Technical English
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **technical communication** â€” the structured use of language to describe, instruct, report, or coordinate technical work. Example: *Technical communication should be recorded consistently across related documentation.*
-- **controlled language** â€” a deliberately limited and consistent way of writing used to reduce ambiguity. Example: *Controlled language should be recorded consistently across related documentation.*
-- **traceability** â€” the ability to connect a statement, action, or decision to a source, step, or revision history. Example: *Traceability should be recorded consistently across related documentation.*
-- **specification** â€” a document or statement that defines characteristics, limits, or expected performance. Example: *Specification should be recorded consistently across related documentation.*
-- **procedure** â€” a structured sequence of actions to be performed in a defined order. Example: *Procedure should be recorded consistently across related documentation.*
-- **verification** â€” the activity of checking whether a requirement or expectation has been satisfied. Example: *Verification should be recorded consistently across related documentation.*
-- **clarity** â€” the quality of being easy to understand without unnecessary interpretation. Example: *Clarity should be recorded consistently across related documentation.*
-- **consistency** â€” the stable use of the same terms, units, formatting, and logic across a text. Example: *Consistency should be recorded consistently across related documentation.*
-- **audience** â€” the reader or listener for whom the technical message is intended. Example: *Audience should be recorded consistently across related documentation.*
-- **documentary purpose** â€” the practical reason a document exists, such as instruction, evidence, or reference. Example: *Documentary purpose should be recorded consistently across related documentation.*
+- **technical communication** — the structured use of language to describe, instruct, report, or coordinate technical work. Example: *Technical communication should be recorded consistently across related documentation.*
+- **controlled language** — a deliberately limited and consistent way of writing used to reduce ambiguity. Example: *Controlled language should be recorded consistently across related documentation.*
+- **traceability** — the ability to connect a statement, action, or decision to a source, step, or revision history. Example: *Traceability should be recorded consistently across related documentation.*
+- **specification** — a document or statement that defines characteristics, limits, or expected performance. Example: *Specification should be recorded consistently across related documentation.*
+- **procedure** — a structured sequence of actions to be performed in a defined order. Example: *Procedure should be recorded consistently across related documentation.*
+- **verification** — the activity of checking whether a requirement or expectation has been satisfied. Example: *Verification should be recorded consistently across related documentation.*
+- **clarity** — the quality of being easy to understand without unnecessary interpretation. Example: *Clarity should be recorded consistently across related documentation.*
+- **consistency** — the stable use of the same terms, units, formatting, and logic across a text. Example: *Consistency should be recorded consistently across related documentation.*
+- **audience** — the reader or listener for whom the technical message is intended. Example: *Audience should be recorded consistently across related documentation.*
+- **documentary purpose** — the practical reason a document exists, such as instruction, evidence, or reference. Example: *Documentary purpose should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **technical communication**: typical collocation pattern â€” *technical communication management*, *technical communication verification*, or similar context-based use.
-- **controlled language**: typical collocation pattern â€” *controlled language management*, *controlled language verification*, or similar context-based use.
-- **traceability**: typical collocation pattern â€” *traceability management*, *traceability verification*, or similar context-based use.
-- **specification**: typical collocation pattern â€” *specification management*, *specification verification*, or similar context-based use.
-- **procedure**: typical collocation pattern â€” *procedure management*, *procedure verification*, or similar context-based use.
+- **technical communication**: typical collocation pattern — *technical communication management*, *technical communication verification*, or similar context-based use.
+- **controlled language**: typical collocation pattern — *controlled language management*, *controlled language verification*, or similar context-based use.
+- **traceability**: typical collocation pattern — *traceability management*, *traceability verification*, or similar context-based use.
+- **specification**: typical collocation pattern — *specification management*, *specification verification*, or similar context-based use.
+- **procedure**: typical collocation pattern — *procedure management*, *procedure verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example â€” introductory system note
+### Worked example — introductory system note
 
 The purpose of this section is to provide a concise description of the monitoring unit and its documentary role within the maintenance package. The unit is not presented here from a design perspective. Instead, the objective is to identify the information required by the technician, reviewer, and project coordinator. The monitoring unit records selected operational parameters, stores event data, and supports post-event analysis. For documentation purposes, the most important characteristics are its interface points, status indications, and inspection requirements.
 
@@ -131,7 +131,7 @@ When working on this case, the learner should ask the following questions:
 
 ## Applied writing task
 
-Draft a 220â€“300 word introductory page for a technical subsystem. Explain scope, intended audience, and the difference between descriptive information and action-oriented instructions.
+Draft a 220–300 word introductory page for a technical subsystem. Explain scope, intended audience, and the difference between descriptive information and action-oriented instructions.
 
 ### Expected features of a strong answer
 

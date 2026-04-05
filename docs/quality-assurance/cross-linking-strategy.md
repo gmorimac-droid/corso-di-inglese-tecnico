@@ -1,4 +1,4 @@
-﻿# Cross-Linking Strategy
+?# Cross-Linking Strategy
 
 ## Purpose
 
@@ -22,19 +22,19 @@ A useful internal link should help the reader do one of the following:
 
 ## Preferred Linking Patterns
 
-### Modules â†’ Glossaries
+### Modules → Glossaries
 When a module introduces technical terminology, it should link to the relevant glossary page rather than redefining the same terms repeatedly.
 
-### Modules â†’ Exercises
+### Modules → Exercises
 When a module develops a specific competence, it should point to the exercise page where that competence is practised.
 
-### Exercises â†’ Templates
+### Exercises → Templates
 Where applicable, exercise pages should direct the learner toward a corresponding model output or reusable structure.
 
-### Templates â†’ Language Tools
+### Templates → Language Tools
 Template pages should link to phrasebanks and grammar/reference pages that help the learner produce better wording.
 
-### Project Pages â†’ Quality Assurance
+### Project Pages → Quality Assurance
 Pages related to final production, publication, and review should point to the quality assurance framework.
 
 ## Links to Avoid

@@ -1,4 +1,4 @@
-﻿# Module 13 â€” Maintenance English
+?# Module 13 — Maintenance English
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **preventive maintenance** â€” scheduled activity intended to reduce the probability of failure. Example: *Preventive maintenance should be recorded consistently across related documentation.*
-- **corrective maintenance** â€” activity performed to restore functionality after a fault or defect. Example: *Corrective maintenance should be recorded consistently across related documentation.*
-- **inspection** â€” a check performed to assess condition or conformance. Example: *Inspection should be recorded consistently across related documentation.*
-- **overhaul** â€” extensive maintenance involving detailed examination and restoration. Example: *Overhaul should be recorded consistently across related documentation.*
-- **serviceability** â€” the condition of being suitable for continued use. Example: *Serviceability should be recorded consistently across related documentation.*
-- **maintenance interval** â€” the time or usage period between maintenance actions. Example: *Maintenance interval should be recorded consistently across related documentation.*
-- **replacement** â€” the removal of one item and installation of another. Example: *Replacement should be recorded consistently across related documentation.*
-- **consumable** â€” an item that is used up and replaced during routine work. Example: *Consumable should be recorded consistently across related documentation.*
-- **release to service** â€” formal confirmation that an item may return to operation. Example: *Release to service should be recorded consistently across related documentation.*
-- **maintenance record** â€” documented evidence of maintenance activity. Example: *Maintenance record should be recorded consistently across related documentation.*
+- **preventive maintenance** — scheduled activity intended to reduce the probability of failure. Example: *Preventive maintenance should be recorded consistently across related documentation.*
+- **corrective maintenance** — activity performed to restore functionality after a fault or defect. Example: *Corrective maintenance should be recorded consistently across related documentation.*
+- **inspection** — a check performed to assess condition or conformance. Example: *Inspection should be recorded consistently across related documentation.*
+- **overhaul** — extensive maintenance involving detailed examination and restoration. Example: *Overhaul should be recorded consistently across related documentation.*
+- **serviceability** — the condition of being suitable for continued use. Example: *Serviceability should be recorded consistently across related documentation.*
+- **maintenance interval** — the time or usage period between maintenance actions. Example: *Maintenance interval should be recorded consistently across related documentation.*
+- **replacement** — the removal of one item and installation of another. Example: *Replacement should be recorded consistently across related documentation.*
+- **consumable** — an item that is used up and replaced during routine work. Example: *Consumable should be recorded consistently across related documentation.*
+- **release to service** — formal confirmation that an item may return to operation. Example: *Release to service should be recorded consistently across related documentation.*
+- **maintenance record** — documented evidence of maintenance activity. Example: *Maintenance record should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **preventive maintenance**: typical collocation pattern â€” *preventive maintenance management*, *preventive maintenance verification*, or similar context-based use.
-- **corrective maintenance**: typical collocation pattern â€” *corrective maintenance management*, *corrective maintenance verification*, or similar context-based use.
-- **inspection**: typical collocation pattern â€” *inspection management*, *inspection verification*, or similar context-based use.
-- **overhaul**: typical collocation pattern â€” *overhaul management*, *overhaul verification*, or similar context-based use.
-- **serviceability**: typical collocation pattern â€” *serviceability management*, *serviceability verification*, or similar context-based use.
+- **preventive maintenance**: typical collocation pattern — *preventive maintenance management*, *preventive maintenance verification*, or similar context-based use.
+- **corrective maintenance**: typical collocation pattern — *corrective maintenance management*, *corrective maintenance verification*, or similar context-based use.
+- **inspection**: typical collocation pattern — *inspection management*, *inspection verification*, or similar context-based use.
+- **overhaul**: typical collocation pattern — *overhaul management*, *overhaul verification*, or similar context-based use.
+- **serviceability**: typical collocation pattern — *serviceability management*, *serviceability verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example â€” maintenance log paragraph
+### Worked example — maintenance log paragraph
 
 The lower interface panel was inspected for mechanical damage, contamination, and connector wear. Minor contamination was observed around the protective cap and was removed using an approved cleaning method. No pin deformation or retention loss was identified. Following continuity verification, the unit was released to serviceable condition with no additional restrictions.
 
@@ -117,7 +117,7 @@ The weak version is understandable but under-specified. It relies on general-lan
 
 ## Mini case study
 
-A maintenance note says that a unit was â€œfixedâ€ but does not state which part was affected, which action was taken, or how readiness was confirmed. Rewrite the note so that it becomes a usable maintenance record.
+A maintenance note says that a unit was “fixed” but does not state which part was affected, which action was taken, or how readiness was confirmed. Rewrite the note so that it becomes a usable maintenance record.
 
 ### Suggested analysis path
 

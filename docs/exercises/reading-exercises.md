@@ -1,4 +1,4 @@
-﻿# Reading Exercises
+?# Reading Exercises
 
 ## Purpose
 
@@ -18,7 +18,7 @@ Before starting the exercises, the learner should apply the following strategy:
 
 ---
 
-## Exercise 1 â€” Identifying Document Purpose
+## Exercise 1 — Identifying Document Purpose
 
 Read the short excerpt below and answer the questions.
 
@@ -35,11 +35,11 @@ The learner should identify that the paragraph is not a product advertisement. I
 
 ---
 
-## Exercise 2 â€” Extracting Technical Constraints
+## Exercise 2 — Extracting Technical Constraints
 
 Read the excerpt and complete the table.
 
-> The actuator assembly was tested at ambient temperatures ranging from -20Â°C to +55Â°C. Full stroke performance was achieved throughout the range, although response time increased by approximately 8 percent at the upper limit. The unit remained operational after exposure to repeated vibration cycles; however, the cable retention bracket showed visible wear after extended testing.
+> The actuator assembly was tested at ambient temperatures ranging from -20°C to +55°C. Full stroke performance was achieved throughout the range, although response time increased by approximately 8 percent at the upper limit. The unit remained operational after exposure to repeated vibration cycles; however, the cable retention bracket showed visible wear after extended testing.
 
 ### Extract the following:
 - tested temperature range;
@@ -53,7 +53,7 @@ Write a two-sentence summary that distinguishes clearly between **performance va
 
 ---
 
-## Exercise 3 â€” Warning, Caution, or Note?
+## Exercise 3 — Warning, Caution, or Note?
 
 Read the three statements and classify each as a **Warning**, **Caution**, or **Note**.
 
@@ -72,7 +72,7 @@ This exercise develops understanding of severity, consequence, and documentation
 
 ---
 
-## Exercise 4 â€” Reading for System Function
+## Exercise 4 — Reading for System Function
 
 Read the excerpt and answer the questions.
 
@@ -89,7 +89,7 @@ Write a three-sentence functional summary of the system.
 
 ---
 
-## Exercise 5 â€” Reading a Fault Narrative
+## Exercise 5 — Reading a Fault Narrative
 
 Read the fault narrative below.
 
@@ -104,11 +104,11 @@ Read the fault narrative below.
 
 ### Review Focus
 The learner should identify the sequence:
-**symptom â†’ checks â†’ finding â†’ corrective action â†’ restored condition**
+**symptom → checks → finding → corrective action → restored condition**
 
 ---
 
-## Exercise 6 â€” Reading a Requirement Statement
+## Exercise 6 — Reading a Requirement Statement
 
 Read the statements below.
 
@@ -125,7 +125,7 @@ For each sentence:
 
 ---
 
-## Exercise 7 â€” Reading for Comparison
+## Exercise 7 — Reading for Comparison
 
 Read the short comparison below.
 
@@ -138,7 +138,7 @@ Read the short comparison below.
 
 ---
 
-## Exercise 8 â€” Critical Reading and Reviewer Mindset
+## Exercise 8 — Critical Reading and Reviewer Mindset
 
 Read the paragraph below and identify weaknesses.
 
@@ -150,14 +150,14 @@ Read the paragraph below and identify weaknesses.
 3. Rewrite it using more precise engineering language.
 
 ### Suggested Review Questions
-- What does â€œvery goodâ€ mean technically?
-- What does â€œmany situationsâ€ refer to?
-- What measurable evidence supports â€œrobustâ€?
-- What makes the results â€œsatisfactoryâ€?
+- What does “very good” mean technically?
+- What does “many situations” refer to?
+- What measurable evidence supports “robust”?
+- What makes the results “satisfactory”?
 
 ---
 
-## Exercise 9 â€” Converting Reading into Documentation
+## Exercise 9 — Converting Reading into Documentation
 
 Choose one of the excerpts on this page and transform it into one of the following:
 - a system overview paragraph;
@@ -175,7 +175,7 @@ Your text should be:
 
 ---
 
-## Exercise 10 â€” Reading Under Time Pressure
+## Exercise 10 — Reading Under Time Pressure
 
 Imagine you have only two minutes to read the following paragraph before a design review meeting.
 

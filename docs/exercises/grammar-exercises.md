@@ -1,4 +1,4 @@
-﻿# Grammar Exercises
+?# Grammar Exercises
 
 ## Purpose
 
@@ -6,7 +6,7 @@ Grammar in technical English should not be treated as an abstract system detache
 
 ---
 
-## Exercise 1 â€” Present Simple for Technical Function
+## Exercise 1 — Present Simple for Technical Function
 
 Complete the sentences with the correct verb form.
 
@@ -21,7 +21,7 @@ Write five additional present simple sentences describing the function of a syst
 
 ---
 
-## Exercise 2 â€” Passive Voice in Technical Description
+## Exercise 2 — Passive Voice in Technical Description
 
 Rewrite the sentences using the passive voice where appropriate.
 
@@ -36,7 +36,7 @@ The learner should understand that the passive voice is often used when the acti
 
 ---
 
-## Exercise 3 â€” Shall, Must, Should, May
+## Exercise 3 — Shall, Must, Should, May
 
 Choose the most suitable modal verb.
 
@@ -51,7 +51,7 @@ Explain why each modal verb is appropriate in its sentence.
 
 ---
 
-## Exercise 4 â€” Conditional Logic in Procedures
+## Exercise 4 — Conditional Logic in Procedures
 
 Complete the procedural statements.
 
@@ -65,7 +65,7 @@ Write two additional conditional sentences suitable for a maintenance or safety 
 
 ---
 
-## Exercise 5 â€” Relative Clauses for Precision
+## Exercise 5 — Relative Clauses for Precision
 
 Combine the sentences into one more precise sentence using a relative clause.
 
@@ -79,7 +79,7 @@ Relative clauses are used to reduce fragmentation and improve technical precisio
 
 ---
 
-## Exercise 6 â€” Sequencing and Process Grammar
+## Exercise 6 — Sequencing and Process Grammar
 
 Reorder the steps and rewrite them as a coherent process paragraph:
 - perform the final inspection;
@@ -100,7 +100,7 @@ Use sequencing language such as:
 
 ---
 
-## Exercise 7 â€” Error Correction
+## Exercise 7 — Error Correction
 
 Correct the grammatical and stylistic problems in the paragraph below.
 
@@ -111,7 +111,7 @@ Rewrite the paragraph in correct professional English.
 
 ---
 
-## Exercise 8 â€” Nominal vs Verbal Style
+## Exercise 8 — Nominal vs Verbal Style
 
 Rewrite the sentences in a more natural technical style.
 
@@ -125,21 +125,21 @@ The learner should avoid excessive nominalization where a more direct verb struc
 
 ---
 
-## Exercise 9 â€” Requirement Rewriting
+## Exercise 9 — Requirement Rewriting
 
 Rewrite the following informal instructions as formal requirement statements.
 
 1. The battery has to last at least ten hours.
 2. You should protect the cable from abrasion.
 3. It is allowed to use another material if approved.
-4. Donâ€™t use the unit outside the specified temperature range.
+4. Don’t use the unit outside the specified temperature range.
 
 ### Suggested Output Style
 Use a controlled specification tone.
 
 ---
 
-## Exercise 10 â€” Grammar for Documentation Reuse
+## Exercise 10 — Grammar for Documentation Reuse
 
 Write a short paragraph of 90 to 120 words describing a subsystem. Your paragraph must include:
 - at least two present simple sentences;

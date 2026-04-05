@@ -1,4 +1,4 @@
-﻿# Module 09 â€” Principles of Technical Writing
+?# Module 09 — Principles of Technical Writing
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **clarity** â€” the degree to which a text can be understood without avoidable confusion. Example: *Clarity should be recorded consistently across related documentation.*
-- **conciseness** â€” the use of no more wording than necessary to achieve the intended purpose. Example: *Conciseness should be recorded consistently across related documentation.*
-- **consistency** â€” stable terminology, formatting, units, and document logic. Example: *Consistency should be recorded consistently across related documentation.*
-- **objectivity** â€” a neutral style that prioritises evidence and technical relevance over personal opinion. Example: *Objectivity should be recorded consistently across related documentation.*
-- **ambiguity** â€” the presence of more than one possible interpretation. Example: *Ambiguity should be recorded consistently across related documentation.*
-- **redundancy** â€” unnecessary repetition that does not add technical value. Example: *Redundancy should be recorded consistently across related documentation.*
-- **topic sentence** â€” a sentence that signals the focus of a paragraph. Example: *Topic sentence should be recorded consistently across related documentation.*
-- **information hierarchy** â€” the arrangement of content according to importance and function. Example: *Information hierarchy should be recorded consistently across related documentation.*
-- **revision** â€” the deliberate improvement of a draft at sentence, paragraph, and document level. Example: *Revision should be recorded consistently across related documentation.*
-- **documentary usefulness** â€” the extent to which a text supports real technical work. Example: *Documentary usefulness should be recorded consistently across related documentation.*
+- **clarity** — the degree to which a text can be understood without avoidable confusion. Example: *Clarity should be recorded consistently across related documentation.*
+- **conciseness** — the use of no more wording than necessary to achieve the intended purpose. Example: *Conciseness should be recorded consistently across related documentation.*
+- **consistency** — stable terminology, formatting, units, and document logic. Example: *Consistency should be recorded consistently across related documentation.*
+- **objectivity** — a neutral style that prioritises evidence and technical relevance over personal opinion. Example: *Objectivity should be recorded consistently across related documentation.*
+- **ambiguity** — the presence of more than one possible interpretation. Example: *Ambiguity should be recorded consistently across related documentation.*
+- **redundancy** — unnecessary repetition that does not add technical value. Example: *Redundancy should be recorded consistently across related documentation.*
+- **topic sentence** — a sentence that signals the focus of a paragraph. Example: *Topic sentence should be recorded consistently across related documentation.*
+- **information hierarchy** — the arrangement of content according to importance and function. Example: *Information hierarchy should be recorded consistently across related documentation.*
+- **revision** — the deliberate improvement of a draft at sentence, paragraph, and document level. Example: *Revision should be recorded consistently across related documentation.*
+- **documentary usefulness** — the extent to which a text supports real technical work. Example: *Documentary usefulness should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **clarity**: typical collocation pattern â€” *clarity management*, *clarity verification*, or similar context-based use.
-- **conciseness**: typical collocation pattern â€” *conciseness management*, *conciseness verification*, or similar context-based use.
-- **consistency**: typical collocation pattern â€” *consistency management*, *consistency verification*, or similar context-based use.
-- **objectivity**: typical collocation pattern â€” *objectivity management*, *objectivity verification*, or similar context-based use.
-- **ambiguity**: typical collocation pattern â€” *ambiguity management*, *ambiguity verification*, or similar context-based use.
+- **clarity**: typical collocation pattern — *clarity management*, *clarity verification*, or similar context-based use.
+- **conciseness**: typical collocation pattern — *conciseness management*, *conciseness verification*, or similar context-based use.
+- **consistency**: typical collocation pattern — *consistency management*, *consistency verification*, or similar context-based use.
+- **objectivity**: typical collocation pattern — *objectivity management*, *objectivity verification*, or similar context-based use.
+- **ambiguity**: typical collocation pattern — *ambiguity management*, *ambiguity verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example â€” paragraph revision
+### Worked example — paragraph revision
 
 Initial inspection identified no mechanical damage on the outer enclosure; however, contamination was present around the lower connector interface. The contamination did not prevent access or continuity checks, but its presence justified local cleaning before functional verification. This sequence of observation, significance, and resulting action produces a stronger paragraph than a simple chronological list.
 

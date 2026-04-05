@@ -1,4 +1,4 @@
-﻿# Assessment Framework
+?# Assessment Framework
 
 ## What Assessment Measures
 
@@ -15,7 +15,7 @@ The learner is not evaluated only on isolated grammar or vocabulary recall. Asse
 The assessment model includes three layers:
 
 1. **Diagnostic assessment**  
-   to identify the learnerâ€™s starting point;
+   to identify the learner’s starting point;
 
 2. **Formative assessment**  
    to support progress during the course;
@@ -44,7 +44,7 @@ The aim is to determine whether the learner can produce English that is:
 
 ## Diagnostic Assessment
 
-The diagnostic phase is intended to establish the learnerâ€™s initial profile.
+The diagnostic phase is intended to establish the learner’s initial profile.
 
 Typical tasks may include:
 - a short technical reading task;
@@ -131,16 +131,16 @@ This distribution can be adjusted depending on whether the course is used in an 
 
 Feedback works best when it is layered.
 
-### Layer 1 â€” Immediate Correction
+### Layer 1 — Immediate Correction
 Used for obvious grammar, vocabulary, or wording issues.
 
-### Layer 2 â€” Explanatory Feedback
+### Layer 2 — Explanatory Feedback
 Used to highlight recurring patterns and explain why they matter.
 
-### Layer 3 â€” Revision Targets
+### Layer 3 — Revision Targets
 Used to guide documentary improvement, clarity, and structure.
 
-### Layer 4 â€” Editorial Comments
+### Layer 4 — Editorial Comments
 Used on the near-final version to support publication-quality output.
 
 ## What Successful Performance Looks Like

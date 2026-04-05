@@ -1,4 +1,4 @@
-﻿# Module 11 â€” Reports, Summaries and Meeting Notes
+?# Module 11 — Reports, Summaries and Meeting Notes
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **executive summary** â€” a short overview of the main purpose, findings, and implications of a document. Example: *Executive summary should be recorded consistently across related documentation.*
-- **finding** â€” an observed or derived result supported by evidence. Example: *Finding should be recorded consistently across related documentation.*
-- **action item** â€” a task assigned for follow-up after a meeting or review. Example: *Action item should be recorded consistently across related documentation.*
-- **owner** â€” the person or role responsible for completing an action. Example: *Owner should be recorded consistently across related documentation.*
-- **due date** â€” the date by which an action is expected to be completed. Example: *Due date should be recorded consistently across related documentation.*
-- **issue log** â€” a running list of technical or project issues requiring attention. Example: *Issue log should be recorded consistently across related documentation.*
-- **status update** â€” a short communication describing current progress and any blockers. Example: *Status update should be recorded consistently across related documentation.*
-- **decision record** â€” a documented note explaining what was decided and why. Example: *Decision record should be recorded consistently across related documentation.*
-- **attendee** â€” a person present at a meeting. Example: *Attendee should be recorded consistently across related documentation.*
-- **minutes** â€” the written record of the important content of a meeting. Example: *Minutes should be recorded consistently across related documentation.*
+- **executive summary** — a short overview of the main purpose, findings, and implications of a document. Example: *Executive summary should be recorded consistently across related documentation.*
+- **finding** — an observed or derived result supported by evidence. Example: *Finding should be recorded consistently across related documentation.*
+- **action item** — a task assigned for follow-up after a meeting or review. Example: *Action item should be recorded consistently across related documentation.*
+- **owner** — the person or role responsible for completing an action. Example: *Owner should be recorded consistently across related documentation.*
+- **due date** — the date by which an action is expected to be completed. Example: *Due date should be recorded consistently across related documentation.*
+- **issue log** — a running list of technical or project issues requiring attention. Example: *Issue log should be recorded consistently across related documentation.*
+- **status update** — a short communication describing current progress and any blockers. Example: *Status update should be recorded consistently across related documentation.*
+- **decision record** — a documented note explaining what was decided and why. Example: *Decision record should be recorded consistently across related documentation.*
+- **attendee** — a person present at a meeting. Example: *Attendee should be recorded consistently across related documentation.*
+- **minutes** — the written record of the important content of a meeting. Example: *Minutes should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **executive summary**: typical collocation pattern â€” *executive summary management*, *executive summary verification*, or similar context-based use.
-- **finding**: typical collocation pattern â€” *finding management*, *finding verification*, or similar context-based use.
-- **action item**: typical collocation pattern â€” *action item management*, *action item verification*, or similar context-based use.
-- **owner**: typical collocation pattern â€” *owner management*, *owner verification*, or similar context-based use.
-- **due date**: typical collocation pattern â€” *due date management*, *due date verification*, or similar context-based use.
+- **executive summary**: typical collocation pattern — *executive summary management*, *executive summary verification*, or similar context-based use.
+- **finding**: typical collocation pattern — *finding management*, *finding verification*, or similar context-based use.
+- **action item**: typical collocation pattern — *action item management*, *action item verification*, or similar context-based use.
+- **owner**: typical collocation pattern — *owner management*, *owner verification*, or similar context-based use.
+- **due date**: typical collocation pattern — *due date management*, *due date verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example â€” meeting summary paragraph
+### Worked example — meeting summary paragraph
 
 The review confirmed that the current enclosure design is acceptable from a structural perspective, subject to validation of connector clearance under the revised mounting geometry. Action 04 remains open pending dimensional confirmation from the integration team. No change has been approved for the power-conditioning stage at this time.
 

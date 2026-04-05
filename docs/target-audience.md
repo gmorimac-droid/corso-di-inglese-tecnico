@@ -1,4 +1,4 @@
-﻿# Target Audience
+?# Target Audience
 
 ## Primary audience
 
@@ -84,7 +84,7 @@ The course does not assume:
 - advanced academic linguistics;
 - deep specialisation in a single engineering discipline.
 
-It starts from a practical B2-oriented foundation and develops the learnerâ€™s ability to operate credibly across different technical situations.
+It starts from a practical B2-oriented foundation and develops the learner’s ability to operate credibly across different technical situations.
 
 ## In Practical Terms
 
@@ -110,5 +110,5 @@ The course is particularly relevant in sectors where engineering language must r
 
 ## What the course does not assume
 
-The course does not assume native-like fluency, advanced academic linguistics, or deep specialisation in one engineering discipline. It builds from a practical B2-oriented foundation and strengthens the learnerâ€™s ability to operate credibly across multiple technical situations.
+The course does not assume native-like fluency, advanced academic linguistics, or deep specialisation in one engineering discipline. It builds from a practical B2-oriented foundation and strengthens the learner’s ability to operate credibly across multiple technical situations.
 

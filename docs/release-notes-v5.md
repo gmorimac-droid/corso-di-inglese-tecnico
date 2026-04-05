@@ -1,4 +1,4 @@
-﻿# Release Notes â€” V5 Editorially Refined
+?# Release Notes — V5 Editorially Refined
 
 !!! success "What changed in V5"
     V5 focuses on editorial maturity rather than raw expansion. The repository now behaves more like a maintained technical-documentation environment and less like a simple collection of lesson files.

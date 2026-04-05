@@ -1,4 +1,4 @@
-﻿# Maintenance and Troubleshooting Exercises
+?# Maintenance and Troubleshooting Exercises
 
 ## Purpose
 
@@ -6,7 +6,7 @@ Maintenance and troubleshooting communication requires clarity, sequence control
 
 ---
 
-## Exercise 1 â€” Symptom, Cause, Action
+## Exercise 1 — Symptom, Cause, Action
 
 For each item below, identify:
 - the symptom;
@@ -25,7 +25,7 @@ Write one short diagnostic sentence for each case.
 
 ---
 
-## Exercise 2 â€” Sequencing a Troubleshooting Narrative
+## Exercise 2 — Sequencing a Troubleshooting Narrative
 
 Reorder the following elements into a logical troubleshooting paragraph:
 - communication restored after re-securing connector;
@@ -39,7 +39,7 @@ Write a coherent fault narrative of 90 to 130 words.
 
 ---
 
-## Exercise 3 â€” Maintenance Log Entry
+## Exercise 3 — Maintenance Log Entry
 
 Write a maintenance log entry using the information below:
 - date not required;
@@ -55,7 +55,7 @@ Concise, traceable, professional.
 
 ---
 
-## Exercise 4 â€” Troubleshooting Questions
+## Exercise 4 — Troubleshooting Questions
 
 For each situation, write three troubleshooting questions that a maintenance engineer should ask.
 
@@ -70,7 +70,7 @@ The questions should be diagnostic, not generic.
 
 ---
 
-## Exercise 5 â€” Root Cause Discussion
+## Exercise 5 — Root Cause Discussion
 
 Write a short root cause discussion based on the following:
 - repeated loosening of connector after vibration exposure;
@@ -83,7 +83,7 @@ Write 100 to 140 words using analytical language.
 
 ---
 
-## Exercise 6 â€” Corrective vs Preventive Action
+## Exercise 6 — Corrective vs Preventive Action
 
 Distinguish between corrective and preventive action for the following cases:
 1. loose connector found during testing;
@@ -98,7 +98,7 @@ For each case, write:
 
 ---
 
-## Exercise 7 â€” Maintenance Procedure Writing
+## Exercise 7 — Maintenance Procedure Writing
 
 Write a short maintenance procedure for replacing a damaged connector.
 
@@ -117,7 +117,7 @@ Use controlled procedural English.
 
 ---
 
-## Exercise 8 â€” Troubleshooting Table
+## Exercise 8 — Troubleshooting Table
 
 Create a troubleshooting table with four columns:
 - symptom;
@@ -129,7 +129,7 @@ Populate the table with at least five realistic entries.
 
 ---
 
-## Exercise 9 â€” Review a Weak Maintenance Note
+## Exercise 9 — Review a Weak Maintenance Note
 
 Improve the note below.
 
@@ -142,7 +142,7 @@ Improve the note below.
 
 ---
 
-## Exercise 10 â€” Applied Maintenance Case
+## Exercise 10 — Applied Maintenance Case
 
 Write a short case study of 180 to 250 words describing a maintenance intervention involving:
 - detected anomaly;

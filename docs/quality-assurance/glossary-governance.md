@@ -1,4 +1,4 @@
-﻿# Glossary Governance
+?# Glossary Governance
 
 ## Purpose
 
@@ -28,16 +28,16 @@ A strong glossary entry should ideally include:
 
 ## Repository Rules
 
-### Rule 1 â€” Use the glossary as reference, not as decoration
+### Rule 1 — Use the glossary as reference, not as decoration
 If a term is important enough to appear repeatedly, it should either already exist in the glossary system or be added there with controlled wording.
 
-### Rule 2 â€” Avoid unstable synonym cycling
+### Rule 2 — Avoid unstable synonym cycling
 Do not rotate between multiple near-equivalent words merely for stylistic variation. If *fault*, *issue*, *malfunction*, and *failure* are used, each should retain its intended nuance.
 
-### Rule 3 â€” Align modules with glossary language
+### Rule 3 — Align modules with glossary language
 Where possible, modules should reuse the preferred definitions and usage patterns found in the glossary pages.
 
-### Rule 4 â€” Revise rather than multiply
+### Rule 4 — Revise rather than multiply
 If an existing entry is weak, improve it. Avoid creating duplicate or overlapping entries without strong reason.
 
 ## Review Questions

@@ -1,4 +1,4 @@
-﻿# Module 16 â€” Defence-Oriented Technical English
+?# Module 16 — Defence-Oriented Technical English
 
 
 !!! abstract "Repository intent"
@@ -46,16 +46,16 @@ This module addresses English as used in technical and documentary contexts. It 
 
 ## Key vocabulary with usage orientation
 
-- **platform** â€” the base vehicle, vessel, aircraft, or system that carries other capabilities. Example: *Platform should be recorded consistently across related documentation.*
-- **payload** â€” the functional equipment carried to perform a mission or task. Example: *Payload should be recorded consistently across related documentation.*
-- **mission profile** â€” the expected pattern of use or deployment for a system. Example: *Mission profile should be recorded consistently across related documentation.*
-- **interoperability** â€” the ability of systems or organisations to work together effectively. Example: *Interoperability should be recorded consistently across related documentation.*
-- **readiness** â€” the state of being prepared for required use or deployment. Example: *Readiness should be recorded consistently across related documentation.*
-- **supportability** â€” the extent to which a system can be maintained and supported in service. Example: *Supportability should be recorded consistently across related documentation.*
-- **surveillance** â€” the systematic observation or monitoring of an area, object, or condition. Example: *Surveillance should be recorded consistently across related documentation.*
-- **deployment** â€” the movement or assignment of systems for operational use. Example: *Deployment should be recorded consistently across related documentation.*
-- **sustainment** â€” the continuing support needed to keep a capability operational over time. Example: *Sustainment should be recorded consistently across related documentation.*
-- **command and control** â€” the organisational and technical framework for directing operations and resources. Example: *Command and control should be recorded consistently across related documentation.*
+- **platform** — the base vehicle, vessel, aircraft, or system that carries other capabilities. Example: *Platform should be recorded consistently across related documentation.*
+- **payload** — the functional equipment carried to perform a mission or task. Example: *Payload should be recorded consistently across related documentation.*
+- **mission profile** — the expected pattern of use or deployment for a system. Example: *Mission profile should be recorded consistently across related documentation.*
+- **interoperability** — the ability of systems or organisations to work together effectively. Example: *Interoperability should be recorded consistently across related documentation.*
+- **readiness** — the state of being prepared for required use or deployment. Example: *Readiness should be recorded consistently across related documentation.*
+- **supportability** — the extent to which a system can be maintained and supported in service. Example: *Supportability should be recorded consistently across related documentation.*
+- **surveillance** — the systematic observation or monitoring of an area, object, or condition. Example: *Surveillance should be recorded consistently across related documentation.*
+- **deployment** — the movement or assignment of systems for operational use. Example: *Deployment should be recorded consistently across related documentation.*
+- **sustainment** — the continuing support needed to keep a capability operational over time. Example: *Sustainment should be recorded consistently across related documentation.*
+- **command and control** — the organisational and technical framework for directing operations and resources. Example: *Command and control should be recorded consistently across related documentation.*
 
 ### Terminology note
 
@@ -68,11 +68,11 @@ A term becomes professionally useful only when the learner can do four things wi
 
 ### Collocation and stability reminder
 
-- **platform**: typical collocation pattern â€” *platform management*, *platform verification*, or similar context-based use.
-- **payload**: typical collocation pattern â€” *payload management*, *payload verification*, or similar context-based use.
-- **mission profile**: typical collocation pattern â€” *mission profile management*, *mission profile verification*, or similar context-based use.
-- **interoperability**: typical collocation pattern â€” *interoperability management*, *interoperability verification*, or similar context-based use.
-- **readiness**: typical collocation pattern â€” *readiness management*, *readiness verification*, or similar context-based use.
+- **platform**: typical collocation pattern — *platform management*, *platform verification*, or similar context-based use.
+- **payload**: typical collocation pattern — *payload management*, *payload verification*, or similar context-based use.
+- **mission profile**: typical collocation pattern — *mission profile management*, *mission profile verification*, or similar context-based use.
+- **interoperability**: typical collocation pattern — *interoperability management*, *interoperability verification*, or similar context-based use.
+- **readiness**: typical collocation pattern — *readiness management*, *readiness verification*, or similar context-based use.
 
 The learner should record not only the term itself, but also the grammatical and documentary environment in which the term commonly appears.
 
@@ -93,7 +93,7 @@ A strong learner should gradually recognise these patterns not as isolated trick
 
 ## Worked example
 
-### Worked example â€” capability description
+### Worked example — capability description
 
 The surveillance payload is integrated on a modular platform architecture that supports rapid replacement and configuration control. From a documentation perspective, the most relevant features are interface compatibility, supportability constraints, and environmental operating limits. The present description is limited to engineering and sustainment aspects and does not address operational doctrine.
 

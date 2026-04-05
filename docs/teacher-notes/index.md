@@ -1,4 +1,4 @@
-﻿# Teacher Notes and Correction Framework
+?# Teacher Notes and Correction Framework
 
 !!! note "Teaching use note"
     These notes are intended to stabilise correction behaviour across tasks, modules, and repository outputs. Use them to keep assessment principles explicit and repeatable.
@@ -19,7 +19,7 @@ In a premium course, correction should not be random. The learner should see the
 
 ## Core teaching principle
 
-The main objective is not to make the student sound â€œadvancedâ€ in a decorative sense. The objective is to make the student **professionally usable** in written and spoken engineering English at B2 level.
+The main objective is not to make the student sound “advanced” in a decorative sense. The objective is to make the student **professionally usable** in written and spoken engineering English at B2 level.
 
 ## Correction stance
 

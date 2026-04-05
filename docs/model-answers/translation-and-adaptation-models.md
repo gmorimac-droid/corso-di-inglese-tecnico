@@ -1,11 +1,11 @@
-﻿# Translation and Adaptation Models
+?# Translation and Adaptation Models
 
 !!! note "How to read model answers"
     Model answers should be analysed, not memorised. Compare them against your own draft to identify improvements in structure, evidence handling, terminology, and documentary usefulness.
 
 ## Italian-source idea
 
-â€œAbbiamo verificato il componente e sembra tutto a posto, ma conviene fare un ulteriore controllo in seguito.â€
+“Abbiamo verificato il componente e sembra tutto a posto, ma conviene fare un ulteriore controllo in seguito.”
 
 ## Weak direct translation
 

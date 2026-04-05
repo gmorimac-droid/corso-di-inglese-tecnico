@@ -1,4 +1,4 @@
-﻿# Requirement Template
+?# Requirement Template
 
 ## Purpose
 
@@ -25,7 +25,7 @@ In many engineering contexts, **shall** is used for formal requirements. **Shoul
 ## Template
 
 ```md
-# Requirement Set â€“ [Topic / System / Document]
+# Requirement Set – [Topic / System / Document]
 
 ## Requirement Identification Rules
 - Prefix: [REQ / SYS / IF / SAF / ENV / etc.]
@@ -55,7 +55,7 @@ In many engineering contexts, **shall** is used for formal requirements. **Shoul
 
 ## Model Example
 
-# Requirement Set â€“ Remote Monitoring Unit
+# Requirement Set – Remote Monitoring Unit
 
 ## Requirement Identification Rules
 - Prefix: SYS-REQ  

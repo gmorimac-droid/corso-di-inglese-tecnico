@@ -1,4 +1,4 @@
-﻿# Incident Report Template
+?# Incident Report Template
 
 ## Purpose
 
@@ -111,7 +111,7 @@ At the time of reporting, the root cause had not been confirmed. A localized con
 - Use neutral factual wording in the event section.
 - Do not assign blame.
 - Do not state a root cause unless supported by evidence.
-- Use â€œpreliminary assessmentâ€ when the technical picture is incomplete.
+- Use “preliminary assessment” when the technical picture is incomplete.
 - Make sure immediate actions are explicit and traceable.
 
 ## Cross-Links
